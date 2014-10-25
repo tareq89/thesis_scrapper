@@ -1,0 +1,7 @@
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\bin\Debug\FoodBank Analysis.exe.config
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\bin\Debug\FoodBank Analysis.exe
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\bin\Debug\FoodBank Analysis.pdb
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\obj\Debug\FoodBank Analysis.exe
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBank Analysis\obj\Debug\FoodBank Analysis.pdb
