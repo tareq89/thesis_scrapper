@@ -1,0 +1,2954 @@
+[
+  {
+    "word": "superior",
+    "value": 1
+  },
+  {
+    "word": "honorable",
+    "value": 1
+  },
+  {
+    "word": "honest",
+    "value": 1
+  },
+  {
+    "word": "upright",
+    "value": 1
+  },
+  {
+    "word": "right",
+    "value": 1
+  },
+  {
+    "word": "innocent",
+    "value": 1
+  },
+  {
+    "word": "common",
+    "value": 1
+  },
+  {
+    "word": "tolerable",
+    "value": 1
+  },
+  {
+    "word": "unobjectionable",
+    "value": 1
+  },
+  {
+    "word": "normal",
+    "value": 1
+  },
+  {
+    "word": "safe",
+    "value": 1
+  },
+  {
+    "word": "friendly",
+    "value": 1
+  },
+  {
+    "word": "considerate",
+    "value": 1
+  },
+  {
+    "word": "tolerant",
+    "value": 1
+  },
+  {
+    "word": "straight",
+    "value": 1
+  },
+  {
+    "word": "easy",
+    "value": 1
+  },
+  {
+    "word": "effortless",
+    "value": 1
+  },
+  {
+    "word": "cool",
+    "value": 1
+  },
+  {
+    "word": "clean",
+    "value": 1
+  },
+  {
+    "word": "lead",
+    "value": 1
+  },
+  {
+    "word": "average",
+    "value": 1
+  },
+  {
+    "word": "fair",
+    "value": 1
+  },
+  {
+    "word": "passable",
+    "value": 1
+  },
+  {
+    "word": "standard",
+    "value": 1
+  },
+  {
+    "word": "kind",
+    "value": 1
+  },
+  {
+    "word": "humble",
+    "value": 1
+  },
+  {
+    "word": "virtuous",
+    "value": 1
+  },
+  {
+    "word": "just",
+    "value": 1
+  },
+  {
+    "word": "cream",
+    "value": 1
+  },
+  {
+    "word": "amiable",
+    "value": 1
+  },
+  {
+    "word": "gentle",
+    "value": 1
+  },
+  {
+    "word": "mild",
+    "value": 1
+  },
+  {
+    "word": "clear",
+    "value": 1
+  },
+  {
+    "word": "immaculate",
+    "value": 1
+  },
+  {
+    "word": "unoffending",
+    "value": 1
+  },
+  {
+    "word": "airy",
+    "value": 1
+  },
+  {
+    "word": "modest",
+    "value": 1
+  },
+  {
+    "word": "equal",
+    "value": 1
+  },
+  {
+    "word": "reserved",
+    "value": 1
+  },
+  {
+    "word": "mediocre",
+    "value": 1
+  },
+  {
+    "word": "middling",
+    "value": 1
+  },
+  {
+    "word": "reasonable",
+    "value": 1
+  },
+  {
+    "word": "formal",
+    "value": 1
+  },
+  {
+    "word": "sedate",
+    "value": 1
+  },
+  {
+    "word": "mellow",
+    "value": 1
+  },
+  {
+    "word": "pleasant",
+    "value": 1
+  },
+  {
+    "word": "tasteful",
+    "value": 1
+  },
+  {
+    "word": "equitable",
+    "value": 1
+  },
+  {
+    "word": "square",
+    "value": 1
+  },
+  {
+    "word": "aboveboard",
+    "value": 1
+  },
+  {
+    "word": "candid",
+    "value": 1
+  },
+  {
+    "word": "civil",
+    "value": 1
+  },
+  {
+    "word": "disinterested",
+    "value": 1
+  },
+  {
+    "word": "dispassionate",
+    "value": 1
+  },
+  {
+    "word": "even-handed",
+    "value": 1
+  },
+  {
+    "word": "impartial",
+    "value": 1
+  },
+  {
+    "word": "moderate",
+    "value": 1
+  },
+  {
+    "word": "nonpartisan",
+    "value": 1
+  },
+  {
+    "word": "objective",
+    "value": 1
+  },
+  {
+    "word": "on the level",
+    "value": 1
+  },
+  {
+    "word": "open",
+    "value": 1
+  },
+  {
+    "word": "temperate",
+    "value": 1
+  },
+  {
+    "word": "unbiased",
+    "value": 1
+  },
+  {
+    "word": "uncolored",
+    "value": 1
+  },
+  {
+    "word": "relaxed",
+    "value": 1
+  },
+  {
+    "word": "amicable",
+    "value": 1
+  },
+  {
+    "word": "conciliatory",
+    "value": 1
+  },
+  {
+    "word": "on good terms",
+    "value": 1
+  },
+  {
+    "word": "peaceable",
+    "value": 1
+  },
+  {
+    "word": "peaceful",
+    "value": 1
+  },
+  {
+    "word": "sociable",
+    "value": 1
+  },
+  {
+    "word": "loose",
+    "value": 1
+  },
+  {
+    "word": "unselfish",
+    "value": 1
+  },
+  {
+    "word": "restful",
+    "value": 1
+  },
+  {
+    "word": "cold",
+    "value": 1
+  },
+  {
+    "word": "heavy",
+    "value": 1
+  },
+  {
+    "word": "tough",
+    "value": 1
+  },
+  {
+    "word": "halcyon",
+    "value": 1
+  },
+  {
+    "word": "open-minded",
+    "value": 1
+  },
+  {
+    "word": "uninvolved",
+    "value": 1
+  },
+  {
+    "word": "aloof",
+    "value": 1
+  },
+  {
+    "word": "evenhanded",
+    "value": 1
+  },
+  {
+    "word": "fair-minded",
+    "value": 1
+  },
+  {
+    "word": "nondiscriminatory",
+    "value": 1
+  },
+  {
+    "word": "happy",
+    "value": 1
+  },
+  {
+    "word": "fairish",
+    "value": 1
+  },
+  {
+    "word": "indifferent",
+    "value": 1
+  },
+  {
+    "word": "intermediate",
+    "value": 1
+  },
+  {
+    "word": "mean",
+    "value": 1
+  },
+  {
+    "word": "medium",
+    "value": 1
+  },
+  {
+    "word": "ordinary",
+    "value": 1
+  },
+  {
+    "word": "run-of-the-mill",
+    "value": 1
+  },
+  {
+    "word": "so-so",
+    "value": 1
+  },
+  {
+    "word": "balanced",
+    "value": 1
+  },
+  {
+    "word": "disciplined",
+    "value": 1
+  },
+  {
+    "word": "careful",
+    "value": 1
+  },
+  {
+    "word": "constant",
+    "value": 1
+  },
+  {
+    "word": "steady",
+    "value": 1
+  },
+  {
+    "word": "popular",
+    "value": 1
+  },
+  {
+    "word": "justifiable",
+    "value": 1
+  },
+  {
+    "word": "smooth",
+    "value": 1
+  },
+  {
+    "word": "levelheaded",
+    "value": 1
+  },
+  {
+    "word": "serious",
+    "value": 1
+  },
+  {
+    "word": "sober",
+    "value": 1
+  },
+  {
+    "word": "blithe",
+    "value": 1
+  },
+  {
+    "word": "light",
+    "value": 1
+  },
+  {
+    "word": "politic",
+    "value": 1
+  },
+  {
+    "word": "unaffected",
+    "value": 1
+  },
+  {
+    "word": "unconcerned",
+    "value": 1
+  },
+  {
+    "word": "unimpressed",
+    "value": 1
+  },
+  {
+    "word": "unmoved",
+    "value": 1
+  },
+  {
+    "word": "circumspect",
+    "value": 1
+  },
+  {
+    "word": "creamy",
+    "value": 1
+  },
+  {
+    "word": "sad",
+    "value": -1
+  },
+  {
+    "word": "gross",
+    "value": -1
+  },
+  {
+    "word": "blah",
+    "value": -1
+  },
+  {
+    "word": "careless",
+    "value": -1
+  },
+  {
+    "word": "base",
+    "value": -1
+  },
+  {
+    "word": "wicked",
+    "value": -1
+  },
+  {
+    "word": "grave",
+    "value": -1
+  },
+  {
+    "word": "downcast",
+    "value": -1
+  },
+  {
+    "word": "crestfallen",
+    "value": -1
+  },
+  {
+    "word": "dejected",
+    "value": -1
+  },
+  {
+    "word": "bad",
+    "value": -1
+  },
+  {
+    "word": "ghastly",
+    "value": -1
+  },
+  {
+    "word": "best",
+    "value": -1
+  },
+  {
+    "word": "A-1",
+    "value": -1
+  },
+  {
+    "word": "ace",
+    "value": -1
+  },
+  {
+    "word": "boss",
+    "value": -1
+  },
+  {
+    "word": "capital",
+    "value": -1
+  },
+  {
+    "word": "champion",
+    "value": -1
+  },
+  {
+    "word": "choicest",
+    "value": -1
+  },
+  {
+    "word": "finest",
+    "value": -1
+  },
+  {
+    "word": "first",
+    "value": -1
+  },
+  {
+    "word": "first-class",
+    "value": -1
+  },
+  {
+    "word": "first-rate",
+    "value": -1
+  },
+  {
+    "word": "greatest",
+    "value": -1
+  },
+  {
+    "word": "incomparable",
+    "value": -1
+  },
+  {
+    "word": "outstanding",
+    "value": -1
+  },
+  {
+    "word": "paramount",
+    "value": -1
+  },
+  {
+    "word": "peerless",
+    "value": -1
+  },
+  {
+    "word": "perfect",
+    "value": -1
+  },
+  {
+    "word": "premium",
+    "value": -1
+  },
+  {
+    "word": "prime",
+    "value": -1
+  },
+  {
+    "word": "super",
+    "value": -1
+  },
+  {
+    "word": "superlative",
+    "value": -1
+  },
+  {
+    "word": "supreme",
+    "value": -1
+  },
+  {
+    "word": "terrific",
+    "value": -1
+  },
+  {
+    "word": "transcendent",
+    "value": -1
+  },
+  {
+    "word": "brutal",
+    "value": -1
+  },
+  {
+    "word": "hard",
+    "value": -1
+  },
+  {
+    "word": "sharp",
+    "value": -1
+  },
+  {
+    "word": "commonplace",
+    "value": -1
+  },
+  {
+    "word": "blessed",
+    "value": -1
+  },
+  {
+    "word": "blooming",
+    "value": -1
+  },
+  {
+    "word": "delicate",
+    "value": -1
+  },
+  {
+    "word": "dynamite",
+    "value": -1
+  },
+  {
+    "word": "hot",
+    "value": -1
+  },
+  {
+    "word": "rare",
+    "value": -1
+  },
+  {
+    "word": "short",
+    "value": -1
+  },
+  {
+    "word": "down in the mouth",
+    "value": -1
+  },
+  {
+    "word": "spiritless",
+    "value": -1
+  },
+  {
+    "word": "negative",
+    "value": -1
+  },
+  {
+    "word": "inhuman",
+    "value": -1
+  },
+  {
+    "word": "somber",
+    "value": -1
+  },
+  {
+    "word": "slack",
+    "value": -1
+  },
+  {
+    "word": "sluggish",
+    "value": -1
+  },
+  {
+    "word": "dull",
+    "value": -1
+  },
+  {
+    "word": "listless",
+    "value": -1
+  },
+  {
+    "word": "tremendous",
+    "value": -1
+  },
+  {
+    "word": "great",
+    "value": -1
+  },
+  {
+    "word": "drab",
+    "value": -1
+  },
+  {
+    "word": "dusky",
+    "value": -1
+  },
+  {
+    "word": "good",
+    "value": -1
+  },
+  {
+    "word": "acceptable",
+    "value": -1
+  },
+  {
+    "word": "admirable",
+    "value": -1
+  },
+  {
+    "word": "agreeable",
+    "value": -1
+  },
+  {
+    "word": "bully",
+    "value": -1
+  },
+  {
+    "word": "choice",
+    "value": -1
+  },
+  {
+    "word": "commendable",
+    "value": -1
+  },
+  {
+    "word": "congenial",
+    "value": -1
+  },
+  {
+    "word": "crack",
+    "value": -1
+  },
+  {
+    "word": "deluxe",
+    "value": -1
+  },
+  {
+    "word": "excellent",
+    "value": -1
+  },
+  {
+    "word": "exceptional",
+    "value": -1
+  },
+  {
+    "word": "favorable",
+    "value": -1
+  },
+  {
+    "word": "gnarly",
+    "value": -1
+  },
+  {
+    "word": "gratifying",
+    "value": -1
+  },
+  {
+    "word": "marvelous",
+    "value": -1
+  },
+  {
+    "word": "neat",
+    "value": -1
+  },
+  {
+    "word": "nice",
+    "value": -1
+  },
+  {
+    "word": "pleasing",
+    "value": -1
+  },
+  {
+    "word": "positive",
+    "value": -1
+  },
+  {
+    "word": "precious",
+    "value": -1
+  },
+  {
+    "word": "rad",
+    "value": -1
+  },
+  {
+    "word": "reputable",
+    "value": -1
+  },
+  {
+    "word": "satisfactory",
+    "value": -1
+  },
+  {
+    "word": "satisfying",
+    "value": -1
+  },
+  {
+    "word": "select",
+    "value": -1
+  },
+  {
+    "word": "shipshape",
+    "value": -1
+  },
+  {
+    "word": "sound",
+    "value": -1
+  },
+  {
+    "word": "spanking",
+    "value": -1
+  },
+  {
+    "word": "splendid",
+    "value": -1
+  },
+  {
+    "word": "sterling",
+    "value": -1
+  },
+  {
+    "word": "stupendous",
+    "value": -1
+  },
+  {
+    "word": "super-eminent",
+    "value": -1
+  },
+  {
+    "word": "super-excellent",
+    "value": -1
+  },
+  {
+    "word": "superb",
+    "value": -1
+  },
+  {
+    "word": "tip-top",
+    "value": -1
+  },
+  {
+    "word": "up to snuff",
+    "value": -1
+  },
+  {
+    "word": "valuable",
+    "value": -1
+  },
+  {
+    "word": "welcome",
+    "value": -1
+  },
+  {
+    "word": "wonderful",
+    "value": -1
+  },
+  {
+    "word": "worthy",
+    "value": -1
+  },
+  {
+    "word": "able",
+    "value": -1
+  },
+  {
+    "word": "absolute",
+    "value": -1
+  },
+  {
+    "word": "aces",
+    "value": -1
+  },
+  {
+    "word": "adept",
+    "value": -1
+  },
+  {
+    "word": "adroit",
+    "value": -1
+  },
+  {
+    "word": "awesome",
+    "value": -1
+  },
+  {
+    "word": "complete",
+    "value": -1
+  },
+  {
+    "word": "consummate",
+    "value": -1
+  },
+  {
+    "word": "downright",
+    "value": -1
+  },
+  {
+    "word": "egregious",
+    "value": -1
+  },
+  {
+    "word": "expert",
+    "value": -1
+  },
+  {
+    "word": "fab",
+    "value": -1
+  },
+  {
+    "word": "fantastic",
+    "value": -1
+  },
+  {
+    "word": "fine",
+    "value": -1
+  },
+  {
+    "word": "hellacious",
+    "value": -1
+  },
+  {
+    "word": "masterly",
+    "value": -1
+  },
+  {
+    "word": "number one",
+    "value": -1
+  },
+  {
+    "word": "out of sight",
+    "value": -1
+  },
+  {
+    "word": "out of this world",
+    "value": -1
+  },
+  {
+    "word": "out-and-out",
+    "value": -1
+  },
+  {
+    "word": "proficient",
+    "value": -1
+  },
+  {
+    "word": "super-duper",
+    "value": -1
+  },
+  {
+    "word": "surpassing",
+    "value": -1
+  },
+  {
+    "word": "total",
+    "value": -1
+  },
+  {
+    "word": "unmitigated",
+    "value": -1
+  },
+  {
+    "word": "unqualified",
+    "value": -1
+  },
+  {
+    "word": "utter",
+    "value": -1
+  },
+  {
+    "word": "junk",
+    "value": -1
+  },
+  {
+    "word": "cut",
+    "value": -1
+  },
+  {
+    "word": "high",
+    "value": -1
+  },
+  {
+    "word": "strong",
+    "value": -1
+  },
+  {
+    "word": "colossal",
+    "value": -1
+  },
+  {
+    "word": "divine",
+    "value": -1
+  },
+  {
+    "word": "dreamy",
+    "value": -1
+  },
+  {
+    "word": "enjoyable",
+    "value": -1
+  },
+  {
+    "word": "groovy",
+    "value": -1
+  },
+  {
+    "word": "keen",
+    "value": -1
+  },
+  {
+    "word": "magnificent",
+    "value": -1
+  },
+  {
+    "word": "peachy",
+    "value": -1
+  },
+  {
+    "word": "pleasurable",
+    "value": -1
+  },
+  {
+    "word": "rewarding",
+    "value": -1
+  },
+  {
+    "word": "solid",
+    "value": -1
+  },
+  {
+    "word": "swell",
+    "value": -1
+  },
+  {
+    "word": "artful",
+    "value": -1
+  },
+  {
+    "word": "foxy",
+    "value": -1
+  },
+  {
+    "word": "frolicsome",
+    "value": -1
+  },
+  {
+    "word": "playful",
+    "value": -1
+  },
+  {
+    "word": "sly",
+    "value": -1
+  },
+  {
+    "word": "sportive",
+    "value": -1
+  },
+  {
+    "word": "absent",
+    "value": -1
+  },
+  {
+    "word": "unreal",
+    "value": -1
+  },
+  {
+    "word": "quiet",
+    "value": -1
+  },
+  {
+    "word": "celebrated",
+    "value": -1
+  },
+  {
+    "word": "distinguished",
+    "value": -1
+  },
+  {
+    "word": "eminent",
+    "value": -1
+  },
+  {
+    "word": "famous",
+    "value": -1
+  },
+  {
+    "word": "important",
+    "value": -1
+  },
+  {
+    "word": "major",
+    "value": -1
+  },
+  {
+    "word": "meritorious",
+    "value": -1
+  },
+  {
+    "word": "phenomenal",
+    "value": -1
+  },
+  {
+    "word": "predominant",
+    "value": -1
+  },
+  {
+    "word": "special",
+    "value": -1
+  },
+  {
+    "word": "well-known",
+    "value": -1
+  },
+  {
+    "word": "world-class",
+    "value": -1
+  },
+  {
+    "word": "prodigious",
+    "value": -1
+  },
+  {
+    "word": "remarkable",
+    "value": -1
+  },
+  {
+    "word": "striking",
+    "value": -1
+  },
+  {
+    "word": "pungent",
+    "value": -1
+  },
+  {
+    "word": "peppery",
+    "value": -1
+  },
+  {
+    "word": "piquant",
+    "value": -1
+  },
+  {
+    "word": "sterile",
+    "value": -1
+  },
+  {
+    "word": "unmarred",
+    "value": -1
+  },
+  {
+    "word": "entire",
+    "value": -1
+  },
+  {
+    "word": "flawless",
+    "value": -1
+  },
+  {
+    "word": "intact",
+    "value": -1
+  },
+  {
+    "word": "unblemished",
+    "value": -1
+  },
+  {
+    "word": "unbroken",
+    "value": -1
+  },
+  {
+    "word": "undamaged",
+    "value": -1
+  },
+  {
+    "word": "unharmed",
+    "value": -1
+  },
+  {
+    "word": "unhurt",
+    "value": -1
+  },
+  {
+    "word": "unimpaired",
+    "value": -1
+  },
+  {
+    "word": "uninjured",
+    "value": -1
+  },
+  {
+    "word": "whole",
+    "value": -1
+  },
+  {
+    "word": "address",
+    "value": -1
+  },
+  {
+    "word": "call",
+    "value": -1
+  },
+  {
+    "word": "claim",
+    "value": -1
+  },
+  {
+    "word": "command",
+    "value": -1
+  },
+  {
+    "word": "sign",
+    "value": -1
+  },
+  {
+    "word": "contact",
+    "value": -1
+  },
+  {
+    "word": "charge",
+    "value": -1
+  },
+  {
+    "word": "exact",
+    "value": -1
+  },
+  {
+    "word": "grant",
+    "value": -1
+  },
+  {
+    "word": "order",
+    "value": -1
+  },
+  {
+    "word": "requisition",
+    "value": -1
+  },
+  {
+    "word": "set",
+    "value": -1
+  },
+  {
+    "word": "commission",
+    "value": -1
+  },
+  {
+    "word": "dispatch",
+    "value": -1
+  },
+  {
+    "word": "license",
+    "value": -1
+  },
+  {
+    "word": "name",
+    "value": -1
+  },
+  {
+    "word": "force",
+    "value": -1
+  },
+  {
+    "word": "control",
+    "value": -1
+  },
+  {
+    "word": "rule",
+    "value": -1
+  },
+  {
+    "word": "caution",
+    "value": -1
+  },
+  {
+    "word": "pressure",
+    "value": -1
+  },
+  {
+    "word": "countenance",
+    "value": -1
+  },
+  {
+    "word": "exhibit",
+    "value": -1
+  },
+  {
+    "word": "tender",
+    "value": -1
+  },
+  {
+    "word": "reserve",
+    "value": -1
+  },
+  {
+    "word": "secure",
+    "value": -1
+  },
+  {
+    "word": "cause",
+    "value": -1
+  },
+  {
+    "word": "take",
+    "value": -1
+  },
+  {
+    "word": "leak",
+    "value": -1
+  },
+  {
+    "word": "level",
+    "value": -1
+  },
+  {
+    "word": "report",
+    "value": -1
+  },
+  {
+    "word": "say",
+    "value": -1
+  },
+  {
+    "word": "effect",
+    "value": -1
+  },
+  {
+    "word": "leading",
+    "value": 2
+  },
+  {
+    "word": "culminating",
+    "value": 2
+  },
+  {
+    "word": "chief",
+    "value": 2
+  },
+  {
+    "word": "nonpareil",
+    "value": 2
+  },
+  {
+    "word": "principal",
+    "value": 2
+  },
+  {
+    "word": "foremost",
+    "value": 2
+  },
+  {
+    "word": "highest",
+    "value": 2
+  },
+  {
+    "word": "inimitable",
+    "value": 2
+  },
+  {
+    "word": "matchless",
+    "value": 2
+  },
+  {
+    "word": "preeminent",
+    "value": 2
+  },
+  {
+    "word": "unequaled",
+    "value": 2
+  },
+  {
+    "word": "unparalleled",
+    "value": 2
+  },
+  {
+    "word": "unrivaled",
+    "value": 2
+  },
+  {
+    "word": "unsurpassed",
+    "value": 2
+  },
+  {
+    "word": "10",
+    "value": 2
+  },
+  {
+    "word": "optimum",
+    "value": 2
+  },
+  {
+    "word": "primo",
+    "value": 2
+  },
+  {
+    "word": "tops",
+    "value": 2
+  },
+  {
+    "word": "beyond compare",
+    "value": 2
+  },
+  {
+    "word": "number 1",
+    "value": 2
+  },
+  {
+    "word": "out-of-sight",
+    "value": 2
+  },
+  {
+    "word": "sans pareil",
+    "value": 2
+  },
+  {
+    "word": "second to none",
+    "value": 2
+  },
+  {
+    "word": "preferred",
+    "value": 2
+  },
+  {
+    "word": "advantageous",
+    "value": 2
+  },
+  {
+    "word": "apt",
+    "value": 2
+  },
+  {
+    "word": "desirable",
+    "value": 2
+  },
+  {
+    "word": "golden",
+    "value": 2
+  },
+  {
+    "word": "presentable",
+    "value": 2
+  },
+  {
+    "word": "prize",
+    "value": 2
+  },
+  {
+    "word": "top",
+    "value": 2
+  },
+  {
+    "word": "fat",
+    "value": 2
+  },
+  {
+    "word": "model",
+    "value": 2
+  },
+  {
+    "word": "utmost",
+    "value": 2
+  },
+  {
+    "word": "tan",
+    "value": 2
+  },
+  {
+    "word": "bulldoze",
+    "value": 2
+  },
+  {
+    "word": "zap",
+    "value": 2
+  },
+  {
+    "word": "recherché ",
+    "value": 2
+  },
+  {
+    "word": "lowest",
+    "value": -2
+  },
+  {
+    "word": "inferior",
+    "value": -2
+  },
+  {
+    "word": "least",
+    "value": -2
+  },
+  {
+    "word": "unfavorable",
+    "value": -2
+  },
+  {
+    "word": "ruin",
+    "value": -2
+  },
+  {
+    "word": "distress",
+    "value": -2
+  },
+  {
+    "word": "conquer ",
+    "value": -2
+  },
+  {
+    "word": "beat ",
+    "value": -2
+  },
+  {
+    "word": "clobber ",
+    "value": -2
+  },
+  {
+    "word": "cream ",
+    "value": -2
+  },
+  {
+    "word": "crush ",
+    "value": -2
+  },
+  {
+    "word": "discomfit ",
+    "value": -2
+  },
+  {
+    "word": "drub ",
+    "value": -2
+  },
+  {
+    "word": "get the better of ",
+    "value": -2
+  },
+  {
+    "word": "humble ",
+    "value": -2
+  },
+  {
+    "word": "lick ",
+    "value": -2
+  },
+  {
+    "word": "master ",
+    "value": -2
+  },
+  {
+    "word": "outwit ",
+    "value": -2
+  },
+  {
+    "word": "overpower ",
+    "value": -2
+  },
+  {
+    "word": "override ",
+    "value": -2
+  },
+  {
+    "word": "overthrow ",
+    "value": -2
+  },
+  {
+    "word": "prevail ",
+    "value": -2
+  },
+  {
+    "word": "quell ",
+    "value": -2
+  },
+  {
+    "word": "reduce ",
+    "value": -2
+  },
+  {
+    "word": "rout ",
+    "value": -2
+  },
+  {
+    "word": "subdue ",
+    "value": -2
+  },
+  {
+    "word": "subjugate ",
+    "value": -2
+  },
+  {
+    "word": "succeed ",
+    "value": -2
+  },
+  {
+    "word": "surmount ",
+    "value": -2
+  },
+  {
+    "word": "throw ",
+    "value": -2
+  },
+  {
+    "word": "total ",
+    "value": -2
+  },
+  {
+    "word": "trash ",
+    "value": -2
+  },
+  {
+    "word": "triumph ",
+    "value": -2
+  },
+  {
+    "word": "vanquish ",
+    "value": -2
+  },
+  {
+    "word": "whip ",
+    "value": -2
+  },
+  {
+    "word": "worst ",
+    "value": -2
+  },
+  {
+    "word": "overcome ",
+    "value": -2
+  },
+  {
+    "word": "trump ",
+    "value": -2
+  },
+  {
+    "word": "upset ",
+    "value": -2
+  },
+  {
+    "word": "finish ",
+    "value": -2
+  },
+  {
+    "word": "annihilate ",
+    "value": -2
+  },
+  {
+    "word": "assassinate ",
+    "value": -2
+  },
+  {
+    "word": "best ",
+    "value": -2
+  },
+  {
+    "word": "bring down ",
+    "value": -2
+  },
+  {
+    "word": "carry off ",
+    "value": -2
+  },
+  {
+    "word": "destroy ",
+    "value": -2
+  },
+  {
+    "word": "dispatch ",
+    "value": -2
+  },
+  {
+    "word": "dispose of ",
+    "value": -2
+  },
+  {
+    "word": "do in ",
+    "value": -2
+  },
+  {
+    "word": "down ",
+    "value": -2
+  },
+  {
+    "word": "execute ",
+    "value": -2
+  },
+  {
+    "word": "exterminate ",
+    "value": -2
+  },
+  {
+    "word": "get rid of ",
+    "value": -2
+  },
+  {
+    "word": "liquidate ",
+    "value": -2
+  },
+  {
+    "word": "put an end to ",
+    "value": -2
+  },
+  {
+    "word": "put away ",
+    "value": -2
+  },
+  {
+    "word": "rub out ",
+    "value": -2
+  },
+  {
+    "word": "ruin ",
+    "value": -2
+  },
+  {
+    "word": "slaughter ",
+    "value": -2
+  },
+  {
+    "word": "slay ",
+    "value": -2
+  },
+  {
+    "word": "take off ",
+    "value": -2
+  },
+  {
+    "word": "take out ",
+    "value": -2
+  },
+  {
+    "word": "vaporize ",
+    "value": -2
+  },
+  {
+    "word": "cap ",
+    "value": -2
+  },
+  {
+    "word": "defeat ",
+    "value": -2
+  },
+  {
+    "word": "fake out ",
+    "value": -2
+  },
+  {
+    "word": "finagle ",
+    "value": -2
+  },
+  {
+    "word": "fox ",
+    "value": -2
+  },
+  {
+    "word": "goose ",
+    "value": -2
+  },
+  {
+    "word": "outdo ",
+    "value": -2
+  },
+  {
+    "word": "outfox ",
+    "value": -2
+  },
+  {
+    "word": "outjockey ",
+    "value": -2
+  },
+  {
+    "word": "outmaneuver ",
+    "value": -2
+  },
+  {
+    "word": "run circles around ",
+    "value": -2
+  },
+  {
+    "word": "top ",
+    "value": -2
+  },
+  {
+    "word": "be victorious ",
+    "value": -2
+  },
+  {
+    "word": "come out on top ",
+    "value": -2
+  },
+  {
+    "word": "drown ",
+    "value": -2
+  },
+  {
+    "word": "get around ",
+    "value": -2
+  },
+  {
+    "word": "hurdle ",
+    "value": -2
+  },
+  {
+    "word": "knock over ",
+    "value": -2
+  },
+  {
+    "word": "knock socks off ",
+    "value": -2
+  },
+  {
+    "word": "outlive ",
+    "value": -2
+  },
+  {
+    "word": "overwhelm ",
+    "value": -2
+  },
+  {
+    "word": "prostrate ",
+    "value": -2
+  },
+  {
+    "word": "render ",
+    "value": -2
+  },
+  {
+    "word": "rise above ",
+    "value": -2
+  },
+  {
+    "word": "shock ",
+    "value": -2
+  },
+  {
+    "word": "stun ",
+    "value": -2
+  },
+  {
+    "word": "survive ",
+    "value": -2
+  },
+  {
+    "word": "triumph over ",
+    "value": -2
+  },
+  {
+    "word": "weather ",
+    "value": -2
+  },
+  {
+    "word": "whelm ",
+    "value": -2
+  },
+  {
+    "word": "win ",
+    "value": -2
+  },
+  {
+    "word": "bash ",
+    "value": -2
+  },
+  {
+    "word": "blow out of water ",
+    "value": -2
+  },
+  {
+    "word": "bulldoze ",
+    "value": -2
+  },
+  {
+    "word": "bury ",
+    "value": -2
+  },
+  {
+    "word": "kill ",
+    "value": -2
+  },
+  {
+    "word": "lambaste ",
+    "value": -2
+  },
+  {
+    "word": "repulse ",
+    "value": -2
+  },
+  {
+    "word": "scatter ",
+    "value": -2
+  },
+  {
+    "word": "shut out ",
+    "value": -2
+  },
+  {
+    "word": "swamp ",
+    "value": -2
+  },
+  {
+    "word": "torpedo ",
+    "value": -2
+  },
+  {
+    "word": "trounce ",
+    "value": -2
+  },
+  {
+    "word": "wallop ",
+    "value": -2
+  },
+  {
+    "word": "wax ",
+    "value": -2
+  },
+  {
+    "word": "wipe out ",
+    "value": -2
+  },
+  {
+    "word": "put to shame ",
+    "value": -2
+  },
+  {
+    "word": "achieve ",
+    "value": -2
+  },
+  {
+    "word": "acquire ",
+    "value": -2
+  },
+  {
+    "word": "distance ",
+    "value": -2
+  },
+  {
+    "word": "flourish ",
+    "value": -2
+  },
+  {
+    "word": "gain ",
+    "value": -2
+  },
+  {
+    "word": "hit ",
+    "value": -2
+  },
+  {
+    "word": "make it ",
+    "value": -2
+  },
+  {
+    "word": "make out ",
+    "value": -2
+  },
+  {
+    "word": "obtain ",
+    "value": -2
+  },
+  {
+    "word": "outdistance ",
+    "value": -2
+  },
+  {
+    "word": "prosper ",
+    "value": -2
+  },
+  {
+    "word": "secure ",
+    "value": -2
+  },
+  {
+    "word": "thrive ",
+    "value": -2
+  },
+  {
+    "word": "blast ",
+    "value": -2
+  },
+  {
+    "word": "hammer ",
+    "value": -2
+  },
+  {
+    "word": "mop up ",
+    "value": -2
+  },
+  {
+    "word": "overrun ",
+    "value": -2
+  },
+  {
+    "word": "settle ",
+    "value": -2
+  },
+  {
+    "word": "steamroller ",
+    "value": -2
+  },
+  {
+    "word": "take apart ",
+    "value": -2
+  },
+  {
+    "word": "thrash ",
+    "value": -2
+  },
+  {
+    "word": "trim ",
+    "value": -2
+  },
+  {
+    "word": "whomp ",
+    "value": -2
+  },
+  {
+    "word": "outsmart ",
+    "value": -2
+  },
+  {
+    "word": "bad ",
+    "value": -2
+  },
+  {
+    "word": "gross ",
+    "value": -2
+  },
+  {
+    "word": "astounding ",
+    "value": -2
+  },
+  {
+    "word": "heavy ",
+    "value": -2
+  },
+  {
+    "word": "mean ",
+    "value": -2
+  },
+  {
+    "word": "wicked ",
+    "value": -2
+  },
+  {
+    "word": "extremely ",
+    "value": -2
+  },
+  {
+    "word": "greatly ",
+    "value": -2
+  },
+  {
+    "word": "indeed ",
+    "value": -2
+  },
+  {
+    "word": "much ",
+    "value": -2
+  },
+  {
+    "word": "quite ",
+    "value": -2
+  },
+  {
+    "word": "truly ",
+    "value": -2
+  },
+  {
+    "word": "very much ",
+    "value": -2
+  },
+  {
+    "word": "10 ",
+    "value": -2
+  },
+  {
+    "word": "A-1 ",
+    "value": -2
+  },
+  {
+    "word": "ace ",
+    "value": -2
+  },
+  {
+    "word": "beyond compare ",
+    "value": -2
+  },
+  {
+    "word": "boss ",
+    "value": -2
+  },
+  {
+    "word": "capital ",
+    "value": -2
+  },
+  {
+    "word": "champion ",
+    "value": -2
+  },
+  {
+    "word": "chief ",
+    "value": -2
+  },
+  {
+    "word": "choicest ",
+    "value": -2
+  },
+  {
+    "word": "cool ",
+    "value": -2
+  },
+  {
+    "word": "culminating ",
+    "value": -2
+  },
+  {
+    "word": "finest ",
+    "value": -2
+  },
+  {
+    "word": "first ",
+    "value": -2
+  },
+  {
+    "word": "first-class ",
+    "value": -2
+  },
+  {
+    "word": "first-rate ",
+    "value": -2
+  },
+  {
+    "word": "foremost ",
+    "value": -2
+  },
+  {
+    "word": "greatest ",
+    "value": -2
+  },
+  {
+    "word": "highest ",
+    "value": -2
+  },
+  {
+    "word": "incomparable ",
+    "value": -2
+  },
+  {
+    "word": "inimitable ",
+    "value": -2
+  },
+  {
+    "word": "leading ",
+    "value": -2
+  },
+  {
+    "word": "matchless ",
+    "value": -2
+  },
+  {
+    "word": "nonpareil ",
+    "value": -2
+  },
+  {
+    "word": "optimum ",
+    "value": -2
+  },
+  {
+    "word": "out-of-sight ",
+    "value": -2
+  },
+  {
+    "word": "outstanding ",
+    "value": -2
+  },
+  {
+    "word": "paramount ",
+    "value": -2
+  },
+  {
+    "word": "peerless ",
+    "value": -2
+  },
+  {
+    "word": "perfect ",
+    "value": -2
+  },
+  {
+    "word": "preeminent ",
+    "value": -2
+  },
+  {
+    "word": "premium ",
+    "value": -2
+  },
+  {
+    "word": "prime ",
+    "value": -2
+  },
+  {
+    "word": "primo ",
+    "value": -2
+  },
+  {
+    "word": "principal ",
+    "value": -2
+  },
+  {
+    "word": "second to none ",
+    "value": -2
+  },
+  {
+    "word": "super ",
+    "value": -2
+  },
+  {
+    "word": "superlative ",
+    "value": -2
+  },
+  {
+    "word": "supreme ",
+    "value": -2
+  },
+  {
+    "word": "terrific ",
+    "value": -2
+  },
+  {
+    "word": "tops ",
+    "value": -2
+  },
+  {
+    "word": "tough ",
+    "value": -2
+  },
+  {
+    "word": "transcendent ",
+    "value": -2
+  },
+  {
+    "word": "unequaled ",
+    "value": -2
+  },
+  {
+    "word": "unparalleled ",
+    "value": -2
+  },
+  {
+    "word": "unrivaled ",
+    "value": -2
+  },
+  {
+    "word": "unsurpassed ",
+    "value": -2
+  },
+  {
+    "word": "brutal ",
+    "value": -2
+  },
+  {
+    "word": "hard ",
+    "value": -2
+  },
+  {
+    "word": "rugged ",
+    "value": -2
+  },
+  {
+    "word": "sharp ",
+    "value": -2
+  },
+  {
+    "word": "common ",
+    "value": -2
+  },
+  {
+    "word": "mediocre ",
+    "value": -2
+  },
+  {
+    "word": "ordinary ",
+    "value": -2
+  },
+  {
+    "word": "blessed ",
+    "value": -2
+  },
+  {
+    "word": "blooming ",
+    "value": -2
+  },
+  {
+    "word": "delicate ",
+    "value": -2
+  },
+  {
+    "word": "dynamite ",
+    "value": -2
+  },
+  {
+    "word": "hot ",
+    "value": -2
+  },
+  {
+    "word": "loaded ",
+    "value": -2
+  },
+  {
+    "word": "serious ",
+    "value": -2
+  },
+  {
+    "word": "rank ",
+    "value": -2
+  },
+  {
+    "word": "rare ",
+    "value": -2
+  },
+  {
+    "word": "carelessly ",
+    "value": -2
+  },
+  {
+    "word": "rough ",
+    "value": -2
+  },
+  {
+    "word": "cold ",
+    "value": -2
+  },
+  {
+    "word": "notorious ",
+    "value": -2
+  },
+  {
+    "word": "tremendous ",
+    "value": -2
+  },
+  {
+    "word": "extreme ",
+    "value": -2
+  },
+  {
+    "word": "great ",
+    "value": -2
+  },
+  {
+    "word": "good ",
+    "value": -2
+  },
+  {
+    "word": "acceptable ",
+    "value": -2
+  },
+  {
+    "word": "admirable ",
+    "value": -2
+  },
+  {
+    "word": "agreeable ",
+    "value": -2
+  },
+  {
+    "word": "choice ",
+    "value": -2
+  },
+  {
+    "word": "commendable ",
+    "value": -2
+  },
+  {
+    "word": "congenial ",
+    "value": -2
+  },
+  {
+    "word": "crack ",
+    "value": -2
+  },
+  {
+    "word": "deluxe ",
+    "value": -2
+  },
+  {
+    "word": "excellent ",
+    "value": -2
+  },
+  {
+    "word": "exceptional ",
+    "value": -2
+  },
+  {
+    "word": "favorable ",
+    "value": -2
+  },
+  {
+    "word": "gratifying ",
+    "value": -2
+  },
+  {
+    "word": "honorable ",
+    "value": -2
+  },
+  {
+    "word": "marvelous ",
+    "value": -2
+  },
+  {
+    "word": "neat ",
+    "value": -2
+  },
+  {
+    "word": "nice ",
+    "value": -2
+  },
+  {
+    "word": "pleasing ",
+    "value": -2
+  },
+  {
+    "word": "positive ",
+    "value": -2
+  },
+  {
+    "word": "precious ",
+    "value": -2
+  },
+  {
+    "word": "rad ",
+    "value": -2
+  },
+  {
+    "word": "reputable ",
+    "value": -2
+  },
+  {
+    "word": "satisfactory ",
+    "value": -2
+  },
+  {
+    "word": "satisfying ",
+    "value": -2
+  },
+  {
+    "word": "select ",
+    "value": -2
+  },
+  {
+    "word": "shipshape ",
+    "value": -2
+  },
+  {
+    "word": "sound ",
+    "value": -2
+  },
+  {
+    "word": "spanking ",
+    "value": -2
+  },
+  {
+    "word": "splendid ",
+    "value": -2
+  },
+  {
+    "word": "sterling ",
+    "value": -2
+  },
+  {
+    "word": "stupendous ",
+    "value": -2
+  },
+  {
+    "word": "superb ",
+    "value": -2
+  },
+  {
+    "word": "superior ",
+    "value": -2
+  },
+  {
+    "word": "up to snuff ",
+    "value": -2
+  },
+  {
+    "word": "valuable ",
+    "value": -2
+  },
+  {
+    "word": "welcome ",
+    "value": -2
+  },
+  {
+    "word": "wonderful ",
+    "value": -2
+  },
+  {
+    "word": "worthy ",
+    "value": -2
+  },
+  {
+    "word": "able ",
+    "value": -2
+  },
+  {
+    "word": "absolute ",
+    "value": -2
+  },
+  {
+    "word": "aces ",
+    "value": -2
+  },
+  {
+    "word": "adept ",
+    "value": -2
+  },
+  {
+    "word": "adroit ",
+    "value": -2
+  },
+  {
+    "word": "awesome ",
+    "value": -2
+  },
+  {
+    "word": "complete ",
+    "value": -2
+  },
+  {
+    "word": "consummate ",
+    "value": -2
+  },
+  {
+    "word": "downright ",
+    "value": -2
+  },
+  {
+    "word": "egregious ",
+    "value": -2
+  },
+  {
+    "word": "expert ",
+    "value": -2
+  },
+  {
+    "word": "fab ",
+    "value": -2
+  },
+  {
+    "word": "fantastic ",
+    "value": -2
+  },
+  {
+    "word": "fine ",
+    "value": -2
+  },
+  {
+    "word": "hellacious ",
+    "value": -2
+  },
+  {
+    "word": "masterly ",
+    "value": -2
+  },
+  {
+    "word": "number one ",
+    "value": -2
+  },
+  {
+    "word": "out of sight ",
+    "value": -2
+  },
+  {
+    "word": "out of this world ",
+    "value": -2
+  },
+  {
+    "word": "out-and-out ",
+    "value": -2
+  },
+  {
+    "word": "proficient ",
+    "value": -2
+  },
+  {
+    "word": "super-duper ",
+    "value": -2
+  },
+  {
+    "word": "surpassing ",
+    "value": -2
+  },
+  {
+    "word": "unmitigated ",
+    "value": -2
+  },
+  {
+    "word": "unqualified ",
+    "value": -2
+  },
+  {
+    "word": "utter ",
+    "value": -2
+  },
+  {
+    "word": "carefully ",
+    "value": -2
+  },
+  {
+    "word": "outrageous ",
+    "value": -2
+  },
+  {
+    "word": "loose ",
+    "value": -2
+  },
+  {
+    "word": "average ",
+    "value": -2
+  },
+  {
+    "word": "déclassé ",
+    "value": -2
+  },
+  {
+    "word": "fair ",
+    "value": -2
+  },
+  {
+    "word": "indifferent ",
+    "value": -2
+  },
+  {
+    "word": "middling ",
+    "value": -2
+  },
+  {
+    "word": "high ",
+    "value": -2
+  },
+  {
+    "word": "strong ",
+    "value": -2
+  },
+  {
+    "word": "astonishing ",
+    "value": -2
+  },
+  {
+    "word": "colossal ",
+    "value": -2
+  },
+  {
+    "word": "divine ",
+    "value": -2
+  },
+  {
+    "word": "enjoyable ",
+    "value": -2
+  },
+  {
+    "word": "fabulous ",
+    "value": -2
+  },
+  {
+    "word": "glorious ",
+    "value": -2
+  },
+  {
+    "word": "groovy ",
+    "value": -2
+  },
+  {
+    "word": "keen ",
+    "value": -2
+  },
+  {
+    "word": "magnificent ",
+    "value": -2
+  },
+  {
+    "word": "peachy ",
+    "value": -2
+  },
+  {
+    "word": "pleasant ",
+    "value": -2
+  },
+  {
+    "word": "pleasurable ",
+    "value": -2
+  },
+  {
+    "word": "rewarding ",
+    "value": -2
+  },
+  {
+    "word": "sensational ",
+    "value": -2
+  },
+  {
+    "word": "smashing ",
+    "value": -2
+  },
+  {
+    "word": "solid ",
+    "value": -2
+  },
+  {
+    "word": "solid gold ",
+    "value": -2
+  },
+  {
+    "word": "spectacular ",
+    "value": -2
+  },
+  {
+    "word": "swell ",
+    "value": -2
+  },
+  {
+    "word": "arch ",
+    "value": -2
+  },
+  {
+    "word": "artful ",
+    "value": -2
+  },
+  {
+    "word": "foxy ",
+    "value": -2
+  },
+  {
+    "word": "frolicsome ",
+    "value": -2
+  },
+  {
+    "word": "playful ",
+    "value": -2
+  },
+  {
+    "word": "sly ",
+    "value": -2
+  },
+  {
+    "word": "sportive ",
+    "value": -2
+  },
+  {
+    "word": "unreal ",
+    "value": -2
+  },
+  {
+    "word": "celebrated ",
+    "value": -2
+  },
+  {
+    "word": "distinguished ",
+    "value": -2
+  },
+  {
+    "word": "dominant ",
+    "value": -2
+  },
+  {
+    "word": "eminent ",
+    "value": -2
+  },
+  {
+    "word": "famous ",
+    "value": -2
+  },
+  {
+    "word": "far-out ",
+    "value": -2
+  },
+  {
+    "word": "hundred-proof ",
+    "value": -2
+  },
+  {
+    "word": "important ",
+    "value": -2
+  },
+  {
+    "word": "main ",
+    "value": -2
+  },
+  {
+    "word": "major ",
+    "value": -2
+  },
+  {
+    "word": "meritorious ",
+    "value": -2
+  },
+  {
+    "word": "momentous ",
+    "value": -2
+  },
+  {
+    "word": "mostest ",
+    "value": -2
+  },
+  {
+    "word": "out-of-this-world ",
+    "value": -2
+  },
+  {
+    "word": "phenomenal ",
+    "value": -2
+  },
+  {
+    "word": "predominant ",
+    "value": -2
+  },
+  {
+    "word": "special ",
+    "value": -2
+  },
+  {
+    "word": "standout ",
+    "value": -2
+  },
+  {
+    "word": "well-known ",
+    "value": -2
+  },
+  {
+    "word": "world-class ",
+    "value": -2
+  },
+  {
+    "word": "prodigious ",
+    "value": -2
+  },
+  {
+    "word": "remarkable ",
+    "value": -2
+  },
+  {
+    "word": "state-of-the-art ",
+    "value": -2
+  },
+  {
+    "word": "striking ",
+    "value": -2
+  },
+  {
+    "word": "unusual ",
+    "value": -2
+  },
+  {
+    "word": "utmost ",
+    "value": -2
+  },
+  {
+    "word": "pungent ",
+    "value": -2
+  },
+  {
+    "word": "decidedly ",
+    "value": -2
+  },
+  {
+    "word": "very ",
+    "value": -2
+  },
+  {
+    "word": "markedly ",
+    "value": -2
+  },
+  {
+    "word": "strictly ",
+    "value": -2
+  },
+  {
+    "word": "piquant ",
+    "value": -2
+  },
+  {
+    "word": "exceedingly ",
+    "value": -2
+  },
+  {
+    "word": "highly ",
+    "value": -2
+  },
+  {
+    "word": "remarkably ",
+    "value": -2
+  },
+  {
+    "word": "thoroughly ",
+    "value": -2
+  },
+  {
+    "word": "sterile ",
+    "value": -2
+  },
+  {
+    "word": "risqué ",
+    "value": -2
+  },
+  {
+    "word": "incompletely ",
+    "value": -2
+  },
+  {
+    "word": "partially ",
+    "value": -2
+  },
+  {
+    "word": "indifferently ",
+    "value": -2
+  },
+  {
+    "word": "unmarred ",
+    "value": -2
+  },
+  {
+    "word": "entire ",
+    "value": -2
+  },
+  {
+    "word": "flawless ",
+    "value": -2
+  },
+  {
+    "word": "intact ",
+    "value": -2
+  },
+  {
+    "word": "unblemished ",
+    "value": -2
+  },
+  {
+    "word": "unbroken ",
+    "value": -2
+  },
+  {
+    "word": "undamaged ",
+    "value": -2
+  },
+  {
+    "word": "unharmed ",
+    "value": -2
+  },
+  {
+    "word": "unhurt ",
+    "value": -2
+  },
+  {
+    "word": "unimpaired ",
+    "value": -2
+  },
+  {
+    "word": "uninjured ",
+    "value": -2
+  },
+  {
+    "word": "whole ",
+    "value": -2
+  }
+]

@@ -1,0 +1,5344 @@
+
+
+
+
+
+2   :   Today (Jan 1, 15) I went to Bashundhara City, his stall was opposite side of the mall, in front of Otobi Furniture. Tea was very delicious, he is a honorable person and also educated, he was related to Northern University Bangladesh ( NUB).
+
+There was two kind of tea.
+
+1. Normal -10 TK
+2. Special - 20 TK
+
+I tried special one btw.
+
+Rate:10/10
+
+Courtesy : FoodBank BD
+
+
+['  opposite', '  delicious', '  honorable', '  kind', '  (NE Special', '  special']
+
+
+
+
+4   :   Can anyone tell me where I can get this Indian style PAV BHAJI @ Dhaka?
+
+
+[]
+
+
+
+
+5   :   2 jon er jonne fish n co te koto lagte  pare?
+
+
+[]
+
+
+
+
+6   :   People, give me some idea about TARKA for lunch. Taste, expense, rating, environment everything !!! Thank you :)
+
+
+['  give']
+
+
+
+
+7   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+8   :   Want to try loiter D85... How is it???
+Plz give info about food,expense n environment???
+If it is not then what should I try in banani 11???
+TIA :)
+
+
+[]
+
+
+
+
+9   :   The Best Steak in town, perfectly juicy and tender for the most reasonable price try and I am definitely coming back again.
+
+
+['  most', '  reasonable']
+
+
+
+
+10   :   Curious mind wants to know... how many of you here ACTUALLY liked the poutines from Chips n' Gravy??? o.O
+
+
+['  (NE Curious', '  many']
+
+
+
+
+11   :   Barista Lavazza || Choc Mousse Cup || 7/10.
+
+
+[]
+
+
+
+
+12   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+13   :   New York pizza 
+This is way better than the ones in Pizza Hut ! I love it ^_^
+Pizza lovers can definitely try it out ! :D  
+Ignore the burned bit though .
+
+
+[]
+
+
+
+
+14   :   Beef cheese burger, Mint lemonade and Caesar salad!
+
+
+['  burger']
+
+
+
+
+15   :   Place: Lailaty
+Order: Falooda 100/-
+
+Review:
+I love Falooda with sweet yoghurt in it, Star's is undoubtedly one of the best to suit my taste. But after dinner at Lailaty, I was craving something sweet and the Falooda in the menu was calling to me! Falooda it was. 
+
+And my, was it a Lovely Surprise or what to find they do it with sweet yoghurt too!! Yum Yum! It looked mouthwatering when It came to our table and all that Jelly and Tapioca was blinging at me. The first spoonful was pure delight, although a word of warning, that yoghurt is Ah-Mazingly Thick and Creamy and Thick! It was a perfect blend of Sweet Yoghurt, Fleshy Grapes, Creamy Jelly and Tapioca! There was banana in it too, unfortunately for me. It was a Good Falooda although still not as good as Star and a little less sweet, especially at the bottom. 
+
+Don't eat up all the Yoghurt at first go though, Mix it well in scoops that go all the way to the bottom and you won't be left slurping watery Tapioca in the Last Bite lol! But I'm still going to Star next time.
+
+
+['  sweet', '  best', '  sweet', '  table', '  first', '  spoonful', '  good', '  sweet', '  first', '  Last', '  next']
+
+
+
+
+16   :   Special Irani dum biriyani with chiken jali kebab n half egg..chiken biriyani was average..mutton biriyani was good enough..
+Taste:8/10
+Price:9/10
+Service:10/10
+Environment:8.5/10
+
+
+['  Special', '  chiken', '  average..mutton', '  good']
+
+
+
+
+17   :   Want to know a good place in Gulshan/Banani/JFP for a batch get-together of 30 people at around 300tk per person. The per person rate is flexible upto Tk.500.
+
+
+['  good', '  Gulshan/Banani/JFP', '  flexible']
+
+
+
+
+18   :   McDonald's, Dubai Airport
+
+Rating:
+Spicy deluxe McChicken- 6.5/10
+French fries- 10/10
+Apple Juice- 12/10
+
+Worth a try while in transit  for long. :)
+
+
+['  (NE French']
+
+
+
+
+19   :   at Downtown cafe 
+cheese cake: 7/10
+bbq sub sandwich : 9/10
+creamy mushroom chicken pasta : 9/10 
+yummy :)
+
+
+[]
+
+
+
+
+21   :   Chocolate Cake bites ....u can Order at www.facebook.com/scarletsugar
+
+
+['  .u', '  www.facebook.com/scarletsugar']
+
+
+
+
+22   :   None
+
+
+
+
+
+
+
+23   :   can anyone suggest me a place for #buffet #dinner at #gulshan ??
+it is better if the budget is lower than 1000
+please let me know asap
+Date: 31st October, 2014 (Friday)
+
+
+['  lower', '  31st']
+
+
+
+
+24   :   Dhanmondi te MOMO kothay paoa jabe? And the price???
+
+
+[]
+
+
+
+
+25   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+26   :   Can anyone tell me where I can get this Indian style PAV BHAJI @ Dhaka?
+
+
+[]
+
+
+
+
+27   :   Today's dinner wid Family.. :D
+I love Fried Calamari.. taste was yummmm... ^_^
+Environment : 3.5/5
+Service : aj k may b aktu besi vir silo tai aktu dilami korse.. :P so 4 me 3/5 :v
+r ami Bill diye disi ck it out.. ;)
+
+
+['  ^_^']
+
+
+
+
+28   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+29   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+30   :   McDonald's, Dubai Airport (Worth a try while in transit  for long. :) )
+
+Spicy deluxe McChicken- 6.5/10
+French fries- 10/10
+Apple Juice- 12/10
+
+
+['  (NE French']
+
+
+
+
+31   :   McDonald's, Dubai Airport (Worth a try while in transit  for long. :) )
+
+Spicy deluxe McChicken- 6.5/10
+French fries- 10/10
+Apple Juice- 12/10
+
+
+['  (NE French']
+
+
+
+
+33   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+34   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+36   :   Proud.
+
+
+[]
+
+
+
+
+37   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+39   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+40   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+42   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+44   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+45   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+46   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+47   :   The Best Steak in town, perfectly juicy and tender for the most reasonable price try and I am definitely coming back again.
+
+
+['  most', '  reasonable']
+
+
+
+
+48   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+49   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+50   :   Today's dinner wid Family.. :D
+I love Fried Calamari.. taste was yummmm... ^_^
+Environment : 3.5/5
+Service : aj k may b aktu besi vir silo tai aktu dilami korse.. :P so 4 me 3/5 :v
+r ami Bill diye disi ck it out.. ;)
+
+
+['  ^_^']
+
+
+
+
+51   :   Today's dinner wid Family.. :D
+I love Fried Calamari.. taste was yummmm... ^_^
+Environment : 3.5/5
+Service : aj k may b aktu besi vir silo tai aktu dilami korse.. :P so 4 me 3/5 :v
+r ami Bill diye disi ck it out.. ;)
+
+
+['  ^_^']
+
+
+
+
+52   :   Want to try loiter D85... How is it???
+Plz give info about food,expense n environment???
+If it is not then what should I try in banani 11???
+TIA :)
+
+
+[]
+
+
+
+
+53   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+54   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+56   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+57   :   The Best Steak in town, perfectly juicy and tender for the most reasonable price try and I am definitely coming back again.
+
+
+['  most', '  reasonable']
+
+
+
+
+58   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+59   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+60   :   Which is the next best cheese cake (after tabaq's Oreo cheese cake :p ) in Dhanmondi?  :)
+
+
+['  next', '  best']
+
+
+
+
+61   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+62   :   Which is the next best cheese cake (after tabaq's Oreo cheese cake :p ) in Dhanmondi?  :)
+
+
+['  next', '  best']
+
+
+
+
+63   :   McDonald's, Dubai Airport (Worth a try while in transit  for long. :) )
+
+Spicy deluxe McChicken- 6.5/10
+French fries- 10/10
+Apple Juice- 12/10
+
+
+['  (NE French']
+
+
+
+
+65   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+66   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+68   :   Seeking suggestions from foodies. 
+Where to arrange a BUFFET DINNER within Gulshan 1 & 2. Budget- 1000 (total) per person. 
+
+Indian,Chinese, Thai cuisine is preferred.
+
+
+['  Budget-', '  total', '  (NE Indian', '  (NE Chinese']
+
+
+
+
+69   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+70   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+71   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+72   :   Foodpanda made me wait 1.5 hours for my food today.
+However they were really apologetic and said there was a huge rush of orders 
+The icing on the cake was I got 50% discount on my order! :D
+
+
+['  apologetic', '  huge']
+
+
+
+
+73   :   today i went to Birds eye Rooftop Restaurant....N i tottaly have to admit that d place was awesome.. My wife got really surprised a place likeb this........
+i wud rank this restaurant as follows-Environment:10/10 Food:9/10 Romantic:9.75/10
+
+
+['  .N']
+
+
+
+
+74   :   today i went to Birds eye Rooftop Restaurant....N i tottaly have to admit that d place was awesome.. My wife got really surprised a place likeb this........
+i wud rank this restaurant as follows-Environment:10/10 Food:9/10 Romantic:9.75/10
+
+
+['  .N']
+
+
+
+
+75   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+76   :   Seeking suggestions from foodies. 
+Where to arrange a BUFFET DINNER within Gulshan 1 & 2. Budget- 1000 (total) per person. 
+
+Indian,Chinese, Thai cuisine is preferred.
+
+
+['  Budget-', '  total', '  (NE Indian', '  (NE Chinese']
+
+
+
+
+78   :   Want to know a good place in Gulshan/Banani/JFP for a batch get-together of 30 people at around 300tk per person. The per person rate is flexible upto Tk.500.
+
+
+['  good', '  Gulshan/Banani/JFP', '  flexible']
+
+
+
+
+79   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+80   :   McDonald's, Dubai Airport (Worth a try while in transit  for long. :) )
+
+Spicy deluxe McChicken- 6.5/10
+French fries- 10/10
+Apple Juice- 12/10
+
+
+['  (NE French']
+
+
+
+
+81   :   best faluda ever 
+place : new liberty drinks house, new market, Chitagong
+price : 82tk
+
+
+['  best', '  new', '  new']
+
+
+
+
+82   :   Seeking suggestions from foodies. 
+Where to arrange a BUFFET DINNER within Gulshan 1 & 2. Budget- 1000 (total) per person. 
+
+Indian,Chinese, Thai cuisine is preferred.
+
+
+['  Budget-', '  total', '  (NE Indian', '  (NE Chinese']
+
+
+
+
+83   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+84   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+85   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+86   :   Western grill a ki try kora uchit???
+
+
+[]
+
+
+
+
+87   :   Can anybody please tell me which pharmacy or store in Dhaka sells  Gerber Oatmeal Cereal? Reply only if you have bought it from somewhere or have seen it. 
+Thanks
+
+
+[]
+
+
+
+
+88   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+89   :   Seeking suggestions from foodies. 
+Where to arrange a BUFFET DINNER within Gulshan 1 & 2. Budget- 1000 (total) per person. 
+
+Indian,Chinese, Thai cuisine is preferred.
+
+
+['  Budget-', '  total', '  (NE Indian', '  (NE Chinese']
+
+
+
+
+90   :   today i went to Birds eye Rooftop Restaurant....N i tottaly have to admit that d place was awesome.. My wife got really surprised a place likeb this........
+i wud rank this restaurant as follows-Environment:10/10 Food:9/10 Romantic:9.75/10
+
+
+['  .N']
+
+
+
+
+91   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+92   :   Can anybody please tell me which pharmacy or store in Dhaka sells  Gerber Oatmeal Cereal? Reply only if you have bought it from somewhere or have seen it. 
+Thanks
+
+
+[]
+
+
+
+
+93   :   None
+
+
+
+
+
+
+
+94   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+95   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+96   :   Can anybody please tell me which pharmacy or store in Dhaka sells  Gerber Oatmeal Cereal? Reply only if you have bought it from somewhere or have seen it. 
+Thanks
+
+
+[]
+
+
+
+
+97   :   You just cant get enough of these subs. 3rd day in a row. 
+Smoked Chicken - Permesean Oregano bread - Lettuce, Onions, Pickles - Honey Mustard and Mayonnaise. 
+
+oh and the 10% discounts :3
+
+
+['  cant', '  3rd']
+
+
+
+
+98   :   Very close to the real subway sandwiches
+
+
+['  real']
+
+
+
+
+99   :   Good authentic pizza place, the thin crust-cheese & all, in banani-gulshan area. Not too pricey & NOT Pizza Hut.
+
+Help with suggestions plz. TIA :)
+
+
+['  authentic', '  thin', '  crust-cheese', '  banani-gulshan']
+
+
+
+
+100   :   today i went to Birds eye Rooftop Restaurant....N i tottaly have to admit that d place was awesome.. My wife got really surprised a place likeb this........
+i wud rank this restaurant as follows-Environment:10/10 Food:9/10 Romantic:9.75/10
+
+
+['  .N']
+
+
+
+
+101   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+102   :   Can anybody please tell me which pharmacy or store in Dhaka sells  Gerber Oatmeal Cereal? Reply only if you have bought it from somewhere or have seen it. 
+Thanks
+
+
+[]
+
+
+
+
+103   :   Very close to the real subway sandwiches
+
+
+['  real']
+
+
+
+
+104   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+105   :   https://www.facebook.com/TheCartStation
+
+Check this page out . One Station for your favorite carts , starting with Madchef , Chips and Gravy , Daily Deli , Burger Jerks and Cupcake Crafts !
+
+
+['  favorite']
+
+
+
+
+106   :   Place: Lailaty
+Order: Falooda 100/-
+
+Review:
+I love Falooda with sweet yoghurt in it, Star's is undoubtedly one of the best to suit my taste. But after dinner at Lailaty, I was craving something sweet and the Falooda in the menu was calling to me! Falooda it was. 
+
+And my, was it a Lovely Surprise or what to find they do it with sweet yoghurt too!! Yum Yum! It looked mouthwatering when It came to our table and all that Jelly and Tapioca was blinging at me. The first spoonful was pure delight, although a word of warning, that yoghurt is Ah-Mazingly Thick and Creamy and Thick! It was a perfect blend of Sweet Yoghurt, Fleshy Grapes, Creamy Jelly and Tapioca! There was banana in it too, unfortunately for me. It was a Good Falooda although still not as good as Star and a little less sweet, especially at the bottom. 
+
+Don't eat up all the Yoghurt at first go though, Mix it well in scoops that go all the way to the bottom and you won't be left slurping watery Tapioca in the Last Bite lol! But I'm still going to Star next time.
+
+
+['  sweet', '  best', '  sweet', '  table', '  first', '  spoonful', '  good', '  sweet', '  first', '  Last', '  next']
+
+
+
+
+107   :   Beef cheese burger, Mint lemonade and Caesar salad!
+
+
+['  burger']
+
+
+
+
+108   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+109   :   Churros con chocolate, I had it in Spain the first time and now again #Coentro is offering this delicacy <3 Can't thank them enough! A semi crunchy- soft stick along with a rich chocolate dip!
+#chocolateconchurros #coentro
+
+
+['  first', '  rich']
+
+
+
+
+110   :   Place: Lailaty
+Order: Falooda 100/-
+
+Review:
+I love Falooda with sweet yoghurt in it, Star's is undoubtedly one of the best to suit my taste. But after dinner at Lailaty, I was craving something sweet and the Falooda in the menu was calling to me! Falooda it was. 
+
+And my, was it a Lovely Surprise or what to find they do it with sweet yoghurt too!! Yum Yum! It looked mouthwatering when It came to our table and all that Jelly and Tapioca was blinging at me. The first spoonful was pure delight, although a word of warning, that yoghurt is Ah-Mazingly Thick and Creamy and Thick! It was a perfect blend of Sweet Yoghurt, Fleshy Grapes, Creamy Jelly and Tapioca! There was banana in it too, unfortunately for me. It was a Good Falooda although still not as good as Star and a little less sweet, especially at the bottom. 
+
+Don't eat up all the Yoghurt at first go though, Mix it well in scoops that go all the way to the bottom and you won't be left slurping watery Tapioca in the Last Bite lol! But I'm still going to Star next time.
+
+
+['  sweet', '  best', '  sweet', '  table', '  first', '  spoonful', '  good', '  sweet', '  first', '  Last', '  next']
+
+
+
+
+111   :   Place: Lailaty
+Order: Falooda 100/-
+
+Review:
+I love Falooda with sweet yoghurt in it, Star's is undoubtedly one of the best to suit my taste. But after dinner at Lailaty, I was craving something sweet and the Falooda in the menu was calling to me! Falooda it was. 
+
+And my, was it a Lovely Surprise or what to find they do it with sweet yoghurt too!! Yum Yum! It looked mouthwatering when It came to our table and all that Jelly and Tapioca was blinging at me. The first spoonful was pure delight, although a word of warning, that yoghurt is Ah-Mazingly Thick and Creamy and Thick! It was a perfect blend of Sweet Yoghurt, Fleshy Grapes, Creamy Jelly and Tapioca! There was banana in it too, unfortunately for me. It was a Good Falooda although still not as good as Star and a little less sweet, especially at the bottom. 
+
+Don't eat up all the Yoghurt at first go though, Mix it well in scoops that go all the way to the bottom and you won't be left slurping watery Tapioca in the Last Bite lol! But I'm still going to Star next time.
+
+
+['  sweet', '  best', '  sweet', '  table', '  first', '  spoonful', '  good', '  sweet', '  first', '  Last', '  next']
+
+
+
+
+112   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with Food Bank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+113   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with FoodBank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+114   :   Foodpanda made me wait 1.5 hours for my food today.
+However they were really apologetic and said there was a huge rush of orders 
+The icing on the cake was I got 50% discount on my order! :D
+
+
+['  apologetic', '  huge']
+
+
+
+
+115   :   Place: Lailaty
+Order: Falooda 100/-
+
+Review:
+I love Falooda with sweet yoghurt in it, Star's is undoubtedly one of the best to suit my taste. But after dinner at Lailaty, I was craving something sweet and the Falooda in the menu was calling to me! Falooda it was. 
+
+And my, was it a Lovely Surprise or what to find they do it with sweet yoghurt too!! Yum Yum! It looked mouthwatering when It came to our table and all that Jelly and Tapioca was blinging at me. The first spoonful was pure delight, although a word of warning, that yoghurt is Ah-Mazingly Thick and Creamy and Thick! It was a perfect blend of Sweet Yoghurt, Fleshy Grapes, Creamy Jelly and Tapioca! There was banana in it too, unfortunately for me. It was a Good Falooda although still not as good as Star and a little less sweet, especially at the bottom. 
+
+Don't eat up all the Yoghurt at first go though, Mix it well in scoops that go all the way to the bottom and you won't be left slurping watery Tapioca in the Last Bite lol! But I'm still going to Star next time.
+
+
+['  sweet', '  best', '  sweet', '  table', '  first', '  spoonful', '  good', '  sweet', '  first', '  Last', '  next']
+
+
+
+
+116   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with FoodBank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+117   :   Item : Super Sub (chicken)
+Toppings:  Chicken Salami,Jalapeno Slice Cheese, , Capsicum, Mushroom,Mozzarella cheese , Egg........etc
+It was juicy, soft and the custom made sauce makes it more unique
+overall its a great combination
+
+
+['  ..etc', '  soft', '  more', '  unique', '  overall', '  great']
+
+
+
+
+118   :   None
+
+
+
+
+
+
+
+119   :   Kala khichure :)
+Just awesome..
+Price:230
+Taste:9/10
+A must try dish :)
+
+
+[]
+
+
+
+
+120   :   Can anyone tell me where I can get this Indian style PAV BHAJI @ Dhaka?
+
+
+[]
+
+
+
+
+121   :   https://www.facebook.com/TheCartStation
+
+Check this page out . One Station for your favorite carts , starting with Madchef , Chips and Gravy , Daily Deli , Burger Jerks and Cupcake Crafts !
+
+
+['  favorite']
+
+
+
+
+122   :   Good authentic pizza place, the thin crust-cheese & all, in banani-gulshan area. Not too pricey & NOT Pizza Hut.
+
+Help with suggestions plz. TIA :)
+
+
+['  authentic', '  thin', '  crust-cheese', '  banani-gulshan']
+
+
+
+
+123   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with FoodBank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+124   :   https://www.facebook.com/TheCartStation
+
+Check this page out . One Station for your favorite carts , starting with Madchef , Chips and Gravy , Daily Deli , Burger Jerks and Cupcake Crafts !
+
+
+['  favorite']
+
+
+
+
+125   :   People, give me some idea about TARKA for lunch. Taste, expense, rating, environment everything !!! Thank you :)
+
+
+['  give']
+
+
+
+
+126   :   Are you the ultimate lover of coffee? Do you want to be a member of the exclusive 'Coffee Connoisseurs Club'? Type 'I LOVE COFFEE' as a comment under this post and 20 lucky winners will get the chance to be a part of Kapalapi Good Day Coffee Bangladesh Tasting event
+
+Kapal Api in Partnership with FoodBank and Magnito Digital Presents 'Coffee Connoisseurs Club
+
+Event details will be personally mailed to the 20 lucky winners .
+
+
+['  ultimate', '  exclusive', '  lucky', '  lucky']
+
+
+
+
+127   :   seeking a good restaurant on high rise.....with semi outdoor access
+
+
+['  good', '  high', '  ..with']
+
+
+
+
+128   :   if u love vorta,u must try. 2hr drive from uttara,at KAPASIA.
+
+
+['  drive']
+
+
+
+
+129   :   Place : @Chips n' Gravy
+
+Item : Poutine (Roast Chicken)
+Price : 250
+
+Ingredients : Chicken gravy, Shredded Roast Chicken, Crispy  Chips, Paneer Cheese & Mushroom
+Overall Taste : 2
+Chip's Quality : 2
+Cheese Quality : 1 
+Chicken and Mushroom Quality : 6
+Gravy Quality : 3
+Presentation : 6
+Service : 2
+Atmosphere : 7
+Value : 3
+
+Poutine is known as an ultimate comfort food but the one that we were served was nothing like that. 
+Firstly, no offense but 'Chips' tasted like potato fries made by our housemaid. They had brownish texture and tasted nothing like what we expected. We had the opportunity to look at the  chips before they went in the gravy and they looked pretty dull. We didn't expect crispy chips as from past experience we know chips in a Poutine  supposed to be mushy. I have no idea why their advertisement says 'Crispy Chips'.
+
+Cheese!  We just can't  call that 'Paneer Cheese'. My mother-in-law makes paneer for me and I love them. What they used in the gravy was nothing but Dhaka Cheese, which is found in or outside every super shops and markets. We always eat Dhaka cheese cuz it's really cheap compared to the other ones(imported). We never expected them to serve such cheap quality cheese.
+
+The chicken and gravy  was well cooked but we couldn't taste the chicken at all. Because, they used mushroom which had an odd taste and was really over-powering. Every single spoon from that dish had 1/2 mushroom in it. Don't get us wrong, we love mushroom. Back in the days, I used to cook a lot of mushroom for us. I use to make two different dishes only containing  mushrooms as main ingredient. I don't want to brag but, all of my friends used to love my mushroom dishes. So, I am assuming that their mushrooms were not fresh at all.
+
+Presentation was a little average, nothing special. 
+
+Service was really poor. After giving our order, we waited half an hour. Then, I lost patience and went over to the cart just to find out that they don't  have my order. They asked me, 'Who took your order?'. I was shocked and couldn't reply.  Suddenly a woman who seemed to be one of the owner, appeared from nowhere and asked me  'What did you order son? Is it Poutine ?'.  I said 'Yes mam, with mushroom' . She then asked me to go back inside and wait a few minutes more. I went back with a heavy heart. We waited another 15 minutes before the guy who took our order brought our food with a smile. He apologized saying, 'Sorry, I had to go to mosque for Namaz.'.
+
+They have seating arrangement outside but it's being colonized by flies. Fortunately, they have sitting arrangement  inside too which was rather clean and peaceful.
+
+Me and my other half both love food. We constantly search for different food. As a result, sometimes we do get disappointed but it never holds us down. As an ex McDonald's manager, I do understand that service can go bad when it's really busy, but food quality totally depends on the owners/management.  When we went there, they had only 1 customer. So, overall we were not pleased with their food and service at all.  
+
+Unfortunately, we will have to go there again, but certainly for Madchef !
+
+
+['  (NE Cheese', '  ultimate', '  housemaid', '  brownish', '  dull', '  crispy', '  past', '  mushy', "  'Crispy", "  'Paneer", '  other', '  such', '  gravy', '  odd', '  over-powering', '  dish', '  different', '  main', '  fresh', '  average', '  special', '  poor', "  'What", '  few', '  heavy', '  smile', "  'Sorry", '  clean', '  peaceful', '  other', '  love', '  different', '  bad', '  busy', '  owners/management', '  overall']
+
+
+
+
+130   :   https://www.facebook.com/TheCartStation
+
+Check this page out . One Station for your favorite carts , starting with Madchef , Chips and Gravy , Daily Deli , Burger Jerks and Cupcake Crafts !
+
+
+['  favorite']
+
+
+
+
+131   :   Please try to make a visit sometime..
+https://www.facebook.com/Alfrescobd
+
+
+['  //www.facebook.com/Alfrescobd']
+
+
+
+
+132   :   Smoked Fish & Chips in DHANMONDI! :D
+
+Yupp! you read that right! finally a place in DHANMONDI that offers fish and chips and that too smoked! (they also have a regular version)
+
+The fish tasted really great! the batter was well crispy and what complimented the fish was the home made tartar sauce..
+
+The chips were made british style so its not the typical crispy fries but a more soggy-er version tossed in vinegar and salt. I am usually not a fan of 'non-crispy' chips so I never order wedges and stuff but this was indeed amazing! the vinegary kick makes is taste out of this world! 
+
+Really very happy to have a fish & chips place in Dhanmondi! :)
+
+Daily Deli @ The Cart Station
+
+Price: Tk 250
+Service: 10/10
+Taste : 9/10
+
+
+['  regular', '  fish', '  great', '  crispy', '  fish', '  british', '  typical', '  soggy-er', "  'non-crispy", '  order', '  vinegary', '  taste', '  happy', '  fish']
+
+
+
+
+134   :   #104
+Cafe albino 
+Price: 290 
+Taste: the wrst burger i ever had :/
+
+
+[]
+
+
+
+
+135   :   None
+
+
+
+
+
+
+
+136   :   Suzuki Coffee Dhaka :v
+
+
+[]
+
+
+
+
+137   :   Kala khichure :)
+Just awesome..
+Price:230
+Taste:9/10
+A must try dish :)
+
+
+[]
+
+
+
+
+138   :   what the F*** i almost put in my mouth!!!!! they apologised and didn't charged any bills and accident happens now and then but "I will never go there again, thanks!!" Imran Choudhury
+
+
+[]
+
+
+
+
+139   :   B.B.Q chicken with Fried rice, vegetable & Drinks
+Place : Cafe Cherry Drops
+Price: 240 tk (no vat)
+Taste: 9 / 10
+Hospitality: 8 /10
+Environment: 10/ 10
+
+
+['  vegetable']
+
+
+
+
+140   :   Good authentic pizza place, the thin crust-cheese & all, in banani-gulshan area. Not too pricey & NOT Pizza Hut.
+
+Help with suggestions plz. TIA :)
+
+
+['  authentic', '  thin', '  crust-cheese', '  banani-gulshan']
+
+
+
+
+141   :   Delicious Kebab on The Chef Restaurant at Uttara-13....
+
+
+['  (NE Delicious']
+
+
+
+
+142   :   Places to visit in JFP
+Every day there is Atleast one post regarding what to eat in jfp & because I am a frequent visitor I thought I would share my preferred places
+1. Friday's - I really like their tangy chicken. It's big enough to be shared by 2 people but you may have to order an extra rice as it doesn't come with any. (8.5/10)
+2. Subfactory - I am not a big fan of sandwiches but this place does have good ones. (8/10)
+3. Poplar - I find all their desserts too sweet for my liking but others seem to really enjoy them. I only like their milk pudding. (7/10)
+4. Ecstasy Caffe -I ordered a grilled chicken meal which  tasted good & was quite filling but it is a lil overpriced & the portions of other dishes are very small (7/10)
+5. Urban spice - I went there with my family & had a very good meal. Their Tom yum soup had huge prawns & every single thing we ordered was very good (Thai fried rice, steamed lemon fish, some beef & chicken dish I can't remember the name of) but I've heard of other people having bad experiences which tells me their sservice isn't consistent (for me - 9/10)
+6. Bnb - love their chicken teriyaki burger (9/10) 
+7. Tekiya - I had the shrimp sushi & liked it but again ice hears mixed reviews of this place (for me - 8/10)
+8. Khushbu - the yoghurt sorbet is very good but ask them not to add lemon to it (8/10)
+9. Tabaq - liked their CB the first time but not so much the 2nd time but love their ferrero rocher shake.(8.5/10)
+10. Happy bites - l liked their Oreo shake way better than tabaqs but I went there a long time ago & my sister went there recently & said that it sucked ( for me - a 9/10)
+That's all for now ^_^
+
+
+['  big', '  extra', '  big', '  good', '  (NE Poplar', '  sweet', '  enjoy', '  good', '  other', '  small', '  good', '  huge', '  single', '  good', '  dish', '  other', '  bad', '  consistent', '  good', '  lemon', '  first', '  long', '  ^_^']
+
+
+
+
+143   :   Beef cheese burger, Mint lemonade and Caesar salad!
+
+
+['  burger']
+
+
+
+
+144   :   Place: Lailaty
+Order: Falooda 100/-
+
+Review:
+I love Falooda with sweet yoghurt in it, Star's is undoubtedly one of the best to suit my taste. But after dinner at Lailaty, I was craving something sweet and the Falooda in the menu was calling to me! Falooda it was. 
+
+And my, was it a Lovely Surprise or what to find they do it with sweet yoghurt too!! Yum Yum! It looked mouthwatering when It came to our table and all that Jelly and Tapioca was blinging at me. The first spoonful was pure delight, although a word of warning, that yoghurt is Ah-Mazingly Thick and Creamy and Thick! It was a perfect blend of Sweet Yoghurt, Fleshy Grapes, Creamy Jelly and Tapioca! There was banana in it too, unfortunately for me. It was a Good Falooda although still not as good as Star and a little less sweet, especially at the bottom. 
+
+Don't eat up all the Yoghurt at first go though, Mix it well in scoops that go all the way to the bottom and you won't be left slurping watery Tapioca in the Last Bite lol! But I'm still going to Star next time.
+
+
+['  sweet', '  best', '  sweet', '  table', '  first', '  spoonful', '  good', '  sweet', '  first', '  Last', '  next']
+
+
+
+
+145   :   Smoked mango wood beef bacon medium size pizza from my fav pizza place - Pizza Guy. The bacon was smoked to perfection and on point. You can see how fresh those rocket leaves are and added some extra cheese cause who doesnt like some more cheese :3. Highly recommended. 
+Price with extra cheese: 696/-
+Location: Bashundhara r/a.
+
+
+['  fresh', '  extra', '  cheese', '  extra']
+
+
+
+
+146   :   Suzuki Brownie
+Cold green latte
+Ice chocolate
+Hot chocolate
+Superb taste, excellent ambiance, good service!!! Must try!!
+
+
+['  green', '  good']
+
+
+
+
+148   :   Best place for Burger in Bailey Road ? Any suggestions?
+
+
+['  Best']
+
+
+
+
+149   :   Bought a fudge cake from coopers' malibag chowdhurypara branch today, but after slicing it a while ago, we found that the inside was wet. It is quite watery and not edible at all.
+What should I do now? Coopers is a very popular brand and they should've given more care.
+
+
+['  watery', '  edible', '  popular', '  care']
+
+
+
+
+150   :   name of some good restaurant which will open at 10 am near dhanmondi..
+
+
+['  good']
+
+
+
+
+151   :   Fish nd chips.........
+Street food infornt of gp house gulsun
+Taste: 8/10
+Price: 200tk
+
+
+['  (NE Fish']
+
+
+
+
+152   :   Tandoori chicken
+Rating 100/10
+
+
+[]
+
+
+
+
+153   :   Orio cheese cake,browni with venilla ice cream & saslik            Made by:my dear husband & me:D
+
+
+[]
+
+
+
+
+154   :   Experience the first rooftop in Khilgaon from today..
+
+
+['  first']
+
+
+
+
+155   :   Mud cake made by mom
+
+
+[]
+
+
+
+
+157   :   Aitar nam ta jani ki?...badam n ghur dawa
+
+
+[]
+
+
+
+
+158   :   Anyone know where I can find cinnamon rolls around here? (Other than North End) 
+Online bakeries are welcome for suggestions too as long as its asap.
+
+
+['  Other']
+
+
+
+
+159   :   If you see this at Coopers , just grab it !
+
+
+[]
+
+
+
+
+160   :   Rooftop restaurent on 20th floor, in the center of Dhaka. My favorite place to enjoy any special day. Excellent view with all fresh and tasteful foods. tk 2100++ is smart for 3 people meals.
+
+
+['  special', '  fresh', '  tasteful']
+
+
+
+
+161   :   Milkshakes @ Popeyes Cold Coffee, Khilgaon(near Pollima Shangshad), Dhaka.
+
+1. Chocolate Coffee
+2. Mango Milkshake
+3. Strawberry Milkshake
+
+Awesome taste at a very reasonable price. I like all of them and the Chocolate Coffee is my favorite amongst all three. So do drop by and give it a shot when you are around. :) 
+
+#milkshakes #chocolate #strawberry #mango #coffee #superb #awesome #reasonable #beverages #PopeyesColdCoffee #Khilgaon #Dhaka #TourdeDhaka
+
+
+['  reasonable', '  favorite', '  give', '  reasonable']
+
+
+
+
+162   :   Please suggest me Good buffet restaurant at gulshan / banani. Thanks,
+
+
+[]
+
+
+
+
+163   :   This is my 1st post in foodbank.today i along with my 5 frnds,went to 'Nana' for dinner.
+i ordered irani dom biriyani nd its taste was really good :)
+i guess my frndly fellow  bankers should try it too
+
+Location : 3 wise ghat,sadarghat,dhaka.
+
+Review
+Food quality : 8/10
+Decoration : 9/10
+Service : 9/10
+(u can check the menu nd other items too)
+Thanx to all :)
+
+
+['  foodbank.today', "  'Nana", '  good', '  fellow', '  other']
+
+
+
+
+164   :   Best Burger In Town
+Must try guys
+Black choco @299
+Tex Mex Special burger @ 295
+
+
+['  Best']
+
+
+
+
+165   :   Seeking a great place for date in Gulshan/ Banani/ Niketon/ Baridhara/ Uttara
+FYI Not a Make out place. :) I am not chesra that meyeder baire niye make out kori :) I want a quite place where we can talk for hours . :)
+
+
+['  great', '  meyeder', '  quite']
+
+
+
+
+166   :   Was a Birthday Treat!!!
+
+Authentic Chinese food.
+1. American Chopsuey with egg poached and other different ingredients. 
+2. Spicy Beef with onion and sauce.
+3. Special Fried Rice.
+4. Chicken Sizzling.
+
+The New Cathay at Banani is too good.
+Service was first class.
+Cathay is one single resturant where all the waiters and Chef is #aged.
+
+Overall the food was fantastic.
+My urge request to the foodbank members.
+Please give it a try.
+You will not be disappointed.
+
+The food order comes quickly.
+Don't worry.
+
+
+['  (NE American', '  other', '  different', '  Special', '  good', '  first', '  single', '  fantastic']
+
+
+
+
+167   :   if you know this snack, then your childhood was awesome!
+
+
+[]
+
+
+
+
+168   :   supreme pizza ! 
+price :1620tk !
+
+
+[]
+
+
+
+
+169   :   This is a request to everyone who ever comes to Singapore. Try this indian place out. You'll thank me later.
+
+
+['  later']
+
+
+
+
+170   :   Hanif biriyani. Food 8/10, Service 9/10.
+
+
+[]
+
+
+
+
+171   :   Place: Kings Bakery
+Order: 
+Chocolate Ganache Cake 1kg
+1150/-
+
+Review:
+Rushing around town at mid-morning looking for a Birthday Cake for one of my Favorite Colleagues - Faria! Was gonna visit Decent but then suddenly saw the new Kings outlet next to LCBS Dhanmondi and opposite the soon-to-be-open GJC. 
+
+Found this gorgeous Chocolate Ganache spread White and Milk Chocolate cake of Chocolate sponge. Topped with Cherries! And yum did it taste as good as it looked. The Ganache was Thick, Silky, Creamy and Rich! I even went back in the evening for the smaller one of 1/2 kg at 630/-. I think we licked the bottom clean and the cake served 10 of us perfectly right. 
+
+And am I glad or what that they've opened up so close to work. One of the best bakeries around town indeed!
+
+
+['  mid-morning', '  new', '  next', '  opposite', '  soon-to-be-open', '  gorgeous', '  good', '  smaller', '  close', '  best']
+
+
+
+
+172   :   Dhaka - Singapore Flight Lunch !!!
+Biman Bangladesh Airlines !!! 
+Service is so so (not bad not good)
+
+1) Crossaint with Butter
+2) LunchBox (Rice, Veggies, Omlette. & Choice between Mutton & Chicken)
+3) Bottomless Coke, Diet Coke, Rc. Sprite,Seven Up.
+3) Coffee
+4) Vanilla Pastry
+5) Starship Juice 
+
+Food 3/5
+Service 4/5
+
+
+['  bad', '  good']
+
+
+
+
+173   :   Food was really delicious,fresh and light ;)
+Nd the hariyali biriyani was mouthwatering yummy :)
+Food: 9/10 
+Ambiance :9/10
+Service:9/10
+Nd the sisa was good too :)
+
+
+['  delicious', '  fresh', '  light', '  good']
+
+
+
+
+175   :   I miss this. Oh Delhi Darbaar.. you have no idea how much I miss you<\3
+
+
+['  much']
+
+
+
+
+176   :   Place: Suzuki Coffee Dhaka
+Items: Cappuccino: 9/10
+           Cafe Latte  : 8/10
+           Espresso    : 8/10
+           Hot Cocoa  : 8.5/10
+           Suzuki Ice Coffee: 5.5/10
+           Thai Tea Latte    : 5/10
+Decor/Atmosphere: 8/10
+Service : 10/10
+Review: As the new kids on the block, Suzuki coffee needs to step up its game. The hot coffee items were all solid performers, but not quiet up to the standards you would expect from an international chain. They offer nothing out of the ordinary and there definitely wasn't any 'wow' factor. But considering the introductory price of 70tk, it was good enough. 
+The cold items killed it for me. They put way too much ice in the mug, and as a result, the coffee turned watery pretty fast. Maybe they're cutting back on ingredients for now due to the low price charged? I don't know...but hopefully they'll rectify this. Until then, don't go for the cold items. 
+On a more positive note, the two foreign baristas/trainers are very friendly and helpful. To people in the restaurant industry...that's how its done!
+
+
+['  Decor/Atmosphere', '  new', '  solid', '  quiet', '  international', '  ordinary', "  'wow", '  good', '  due', '  low', '  positive', '  foreign', '  helpful']
+
+
+
+
+177   :   Dear chittagong folks please help me to find the best restaurents in port town urgentttt!!!!  Thankss in advance
+
+
+['  best']
+
+
+
+
+178   :   Actually this is my first post in FoodBank and i just tasted something really good today at lunch.The food is from Santoor, Dhanmondi 32. Just loved the food. It was a treat so dont know the price of the foods individually but as far as i can say worth it!!! seriously loved every single dish.
+1. khashir resala 
+2. butter naan 
+3. chicken with butter
+4. chicken resala (maybe :P )
+
+
+['  first', '  good', '  lunch.The', '  worth', '  single']
+
+
+
+
+180   :   birds eye roof top restaurant kew ki giachilen plz janaben aktu kmn??
+
+
+['  top']
+
+
+
+
+181   :   Hey everyone i need help. Can anyone just suggest me a family type typical chinese restaurent in the area of gulshan 1 or gulshan 2 or in banani please.... Its very urgent. Please help me out friends & thank u all in advance...:)
+
+
+['  typical', '  urgent']
+
+
+
+
+182   :   Beef stake (with smashed potato , grilled vegetable) @630/- without any vat n service charge .
+ Taste : here I wanna put 2 option 
+              1.beef stake - 8/10( which is pretty good)
+              2.grilled vegetable - 3/10( actually this is the thing ruin the taste of the stake may be it happened bcoz of over cook or quality of vegetables)
+Service: as always 10/10 ....... N special thanks to jafar for ur service n as Jahangir was not their.
+
+Actually I always used to order pizza here as I loved it...... So that's why today I thought i can try different thing that's why tried the beef stake.... It average ...... Anyways my four seasons pizza always rocks
+
+
+['  smashed', '  vegetable', '  good', '  2.grilled', '  vegetable', '  special', '  used', '  different', '  tried']
+
+
+
+
+183   :   Good Chinese restaurants around RAMPURA/BANASREE ? ? ?
+
+
+['  RAMPURA/BANASREE']
+
+
+
+
+184   :   Where can i get good thai /tom yum soup in panthapath area?
+
+
+['  good']
+
+
+
+
+185   :   I brought it from www.facebook.com/sahikhabardabar 
+Kacchi biriyani and morog mossallam.... It's great to taste
+
+
+['  www.facebook.com/sahikhabardabar', '  great']
+
+
+
+
+186   :   Igloo Macho Hazelnut Flavor, costs 35/= 
+
+*my lil packet of happiness* :D
+
+
+['  *my']
+
+
+
+
+188   :   Where will I find the best Thai Chinese    Food
+
+
+['  best']
+
+
+
+
+189   :   Dear Awesome Foodies, 
+
+Just a quick help needed from anyone here. We're organizing TEDxDhaka this year with a plan to offer some variety of food options (both snacks and lunch items) and we are looking for the right partner(s). This is an opportunity for any new restaurant/food shop to show off their delicacy while getting the feedback from some of the most amazing, creative and curated audiences of Dhaka! 
+
+This is an arrangement for 1000 people. Any suggestions, contacts, or advices are highly appreciated. 
+
+please write me at salman@tedxdhaka.com.bd or IM me on facebook. 
+
+Thanks a lot!
+
+
+['  quick', '  new', '  creative', '  tedxdhaka.com.bd']
+
+
+
+
+190   :   Is there any restaurant in banani that is open now ?? Suggest ASAP um over here :/ plzzzz
+
+
+['  open']
+
+
+
+
+191   :   Best restaurants serving veg foods in dhanmondi. Buffet if available. Max Budget 1000 per head!
+
+
+['  Best', '  available']
+
+
+
+
+192   :   Had amazing food at this place!
+
+Starting from the bottom-
+Khichuri (apparently it had a very complicated name and i forgot :P )
+Kalo Bhuna
+Irani Biriyani 
+
+I took a borhani and my friend had a coke. Khawar pore had this firni jeitar picture nai unfortunately :3
+
+prices are really reasonable since the total for all these was just tk.565. Sorry don't remember the individual prices :3
+
+
+['  reasonable', '  total', '  individual']
+
+
+
+
+193   :   Suggest me a new cofee shop in Dhanmondi :D :D will go to tomorrow
+
+
+['  new']
+
+
+
+
+194   :   Found this in my fridge and tasted it.
+WOAH, this is Frozen Coke. O.o
+
+
+[]
+
+
+
+
+195   :   The burger was light although cheese was added...the french fries were just perfect...the hot dog was awesome as it has pickles in it..overall fantastic..and worth the money..total only 576TK
+
+
+['  light', '  cheese', '  perfect', '  it..overall', '  money..total']
+
+
+
+
+197   :   been a while since I had chocolate souffle from Bittersweet. 
+
+is it still good? (i didn't have any other chocolate souffle from anywhere else, for which i can't compare it with anything)
+
+
+['  chocolate', '  good', '  other']
+
+
+
+
+198   :   Tik tiki khaway boltese vul hoye gese, we are Human.Tahole amraw bish khaway boli sorry vul hoye gese.
+
+I mean how could you? You are blaming the customer !!! Really? Listen You are lucky that Imtiaz didn't take any instant action against you, if I were there I would have banned your shop.
+
+#SayNoToCafeAppelino
+
+
+['  Human.Tahole', '  lucky', '  instant']
+
+
+
+
+199   :   all time favorite
+
+chicken egg roll of Hot Cottage
+
+taste: 9.5/10
+
+price: 80 taka
+
+
+['  favorite']
+
+
+
+
+200   :   Kimbab Rolls & Assorted Seafood Sushi...
+Authentic Japanese Cuisine...
+
+
+['  Japanese']
+
+
+
+
+201   :   My baby sister brougt this for me today on her way back from school. Price:50 BDT... Loved it :)
+
+
+[]
+
+
+
+
+202   :   Bestest cheese cake in town.
+Place: Westin
+Bdt 695
+Rating: 12/10
+
+
+[]
+
+
+
+
+203   :   Waffle time!!
+
+
+[]
+
+
+
+
+204   :   Starbucks Frapuccino - Coffee Flavoured; available at Dhali. 325BDT with VAT.
+
+10/10. Must try if you like coffee.
+
+
+['  available']
+
+
+
+
+205   :   any idea about salt gril ( bashundhara city ) food items ?
+
+P.S ... i would really appreciate some comments along with likes , shudhu like diye actual suggestion ta pawa jay na :p
+
+
+['  actual']
+
+
+
+
+206   :   Pretty damn good! The seasoning was just right right and so was the amount of chicken. And it tasted soo fresh!!!!
+
+
+['  good', '  fresh']
+
+
+
+
+207   :   Yesterday's post on cafe appeliano proved that in Bangladesh not only the businessmen can make a syndicate but also the consumers can. We are so strong that instantly we made an arrogant post remove from their page and bound them to make an unconditional apology. 
+
+I specially thank the person whose brainchild is this Foodbank. 
+
+I believe we will remain united and continue to secure our food right. Let's not just blame the government, let's step forward.
+
+
+['  strong', '  arrogant', '  unconditional']
+
+
+
+
+208   :   Reviews about food republic?
+
+
+['(S Reviews/NNS about/IN food/NN republic']
+
+
+
+
+209   :   I becme lol customer frm loyal customer!!!
+
+
+[]
+
+
+
+
+210   :   Location: petrus,Banani
+Food: chicken wings 
+Rating ; 8/10 ( really good but I've had better so not giving a 10/10 )
+
+
+['  good']
+
+
+
+
+211   :   Orchard Cappuccino from The Orchard Suites. After few recommendations tried their coffee and it was way too good but not the best comparing to branded coffees!! The best thing about is its texture which is very creamy n velvety n much frothy too ... A must try !! 
+Price: tk 188 ( vat+ service charge) 
+Taste: 8/10
+
+
+['  few', '  good', '  best', '  branded', '  best', '  creamy', '  frothy', '  vat+']
+
+
+
+
+212   :   Mini steak dinner and chocolate malteser cake. B| ^_^
+
+
+[]
+
+
+
+
+214   :   Tiramisu from Cafe Glory at Uttara Sector 1, it was a little too cold but I'd still recommend it.
+
+
+['  cold']
+
+
+
+
+215   :   Awesomeness
+seriously it is amazing
+
+Double patty chicken cheese burger with garlic...
+
+besshhi josss
+
+taste: 10/10
+price: 210 taka
+
+cyclists get 10% discount...so i gt 10% discount ^_^
+
+
+['  (NE Double', '  garlic']
+
+
+
+
+216   :   Which place will be best for buffet dinner tonight around gulshan banani plz guys help me asap.....
+
+
+['  best']
+
+
+
+
+217   :   Desparately Seeking the Best Faluda in Dhaka... :)
+
+
+[]
+
+
+
+
+219   :   today i went to Tea Stall food is ok type 
+items kom
+but environment ta just wow
+
+
+[]
+
+
+
+
+220   :   Had Sandwich and Hot Chocolate from Suzuki Coffee. Sandwich was too good. Hot chocolate wasn't bad. Promotional offer is still going on
+Sandwich: 140tk (no promotion on this)
+Hot Chocolate: 70tk (with promotional offer)
+Sanwich: 9.5/10
+Hot chocolate: 7/10
+
+
+['  good', '  Hot', '  bad', '  promotional']
+
+
+
+
+221   :   Finally found Bloop at mohammadpur,to be honest,nothing new.The berry bomb is actually shell n core and the Lemon-o-tung is Lemon Lolly.
+
+
+['  honest', '  n', '  Lemon-o-tung']
+
+
+
+
+222   :   Um surprised with the flavour of cheese
+Is it actually cheese !!
+Or something awsome :)
+Cheese brownie & orio cheese brownie
+
+
+['  cheese', '  cheese', '  (NE Cheese']
+
+
+
+
+223   :   New Ice-cream in town ^_^
+
+
+[]
+
+
+
+
+224   :   What happened to '27 Shrimp Avenue' in Banani road 27 ? It seemed to have closed down even before they officially opened? I saw their banner and also got their menu....but now it has just disappeared and some other cafe opened!
+
+
+['  .but', '  other']
+
+
+
+
+225   :   Mutton Dom Biriyani 
+Place- Shwarma House
+Price-275+vat
+:) :)
+
+
+[]
+
+
+
+
+226   :   What should I try at Western Grill?
+
+
+[]
+
+
+
+
+227   :   want a review about DOWNTOWN
+
+
+[]
+
+
+
+
+228   :   kichu bolar nai!!!! This is my night.
+
+prawn brochette
+430/-
+Loiter D85
+
+
+[]
+
+
+
+
+229   :   Paisa-Usul khawa-dawa @ Lasania Kabana!!!
+
+Hydarabadi Mutton Biriyani : Best I have ever had!!!d rice was Basmati & there was 4 small pieces of meat..quantity was also ok..
+Rating : 9/10..
+Price : only tk 250/- per plate.
+Chicken Rashmi Kabab : It was d best one without any doubt..authentic Rashmi kabab..d amount of spice & juiciness was just perfect.
+Rating : 10/10.
+Price : 180/- Half (2 shiks)
+Irani Salad : It was also good..mouthwatering salad..
+Rating : 8/10.
+Price : 130/-
+d Peshawari Chef just made our day!!!
+d environment & interior was also good...calm & cool :)..service was ok.
+Its all was including vat & they dont charge any service charge...
+Last word : A must try place.... :)
+
+
+['  Paisa-Usul', '  small', '  plate', '  best', '  doubt..authentic', '  perfect', '  good..mouthwatering', '  interior', '  good', '  ..service', '  Last']
+
+
+
+
+230   :   Do any one know here a good sea food resturent in bashundharacity
+
+
+['  good']
+
+
+
+
+231   :   What are the must have at Pan Tao? Fast reverting would be appreciated. TIA
+
+
+[]
+
+
+
+
+232   :   Must have at Pan Tao? Urgent. Pls reply fast?
+
+
+['  fast']
+
+
+
+
+233   :   Some recent foodie visits :3 
+My favorite malta chaa and fuchka from 300 feet, Bashundhara R/A- 10 bucks for the tea, 30 for the fuchka. 
+Platters, Nachos and tacos from Amigos along with a complimentary sizzling brownie.- Platters range starting from 300 onwards to 600 i think. Tacos and Nachos are around 300/-. I am not a big fan of Mexican food but i absolutely love their tacos, nachos and some of the chicken set menus. Great stuff! Highly recommended. The sizzling brownie is new and will be introduced to their menu soon, the owner was kind enough to offer it to us to try it :) 
+Grilled squid and octopus (219/-) , thai clear soup (150 something i think) and basil squid (Something within 300), Sea food in mushroom (300 something, friend had it, said it was good) from Food Republic. I always have their grilled squid and octopus when i go there, it's my favorite. Can get extremely spicy sometimes, so those with who can't tolerate should tell them to turn down the heat. Thai clear soup and Basil squid is good stuff, would have preferred more gravy in the Squid though. Highly recommended!
+
+
+['  recent', '  complimentary', '  big', '  new', '  kind', '  Grilled', '  good', '  favorite', '  good', '  gravy']
+
+
+
+
+234   :   @Dominos, you guys suck to the extent where nobody has ever sucked before, pure rubbish!
+
+
+[]
+
+
+
+
+235   :   Fat Boy Grand Texas ta Smoke Music Cafe!
+T:7/10
+S:7/10
+P:9/10
+
+Honestly, felt like ate a giant chunk of meat and that's all! Not a great boost for your taste buds. Looked great though... :)
+
+
+['  giant', '  great']
+
+
+
+
+236   :   Tasted really delicious pakistani food today at one of their famous chain restaurant....counter clock wise-malai boti, lassi, mutton karai and alo gosht (10/10)
+
+
+['  delicious', '  famous', '  .counter']
+
+
+
+
+237   :   Price : 110 Tk
+Taste : 10/10  :)
+
+
+[]
+
+
+
+
+238   :   Vai kew bolben mirpur e shob theke valo kabab koi pabo....
+
+
+[]
+
+
+
+
+239   :   Rice & Noodles..
+Service:9/10
+Taste:9/10
+Price:1386tk including pineapple juice n 1 lemonade
+
+Had the set menu for 2..the quantity of food is too much for 2 person..food was tasty..
+
+
+['  much', '  person..food']
+
+
+
+
+240   :   Best Shrimp !!!
+
+
+['(S Best']
+
+
+
+
+241   :   Yammyyy !!!
+
+
+[]
+
+
+
+
+243   :   Want review about Cafe Cyrus...... Chicken Brouchette...... Thanks
+
+
+[]
+
+
+
+
+244   :   Need to eat the Biggest and tastiest burger... Any suggestions?  Gona order it from food panda
+
+
+['  tastiest']
+
+
+
+
+245   :   Pasta Dona Doni 8.5/10
+Italian Prawn Pasta 7.5/10
+Italian Mushroom Pasta 6/10
+Service 6/10
+
+
+['  (NE Italian', '  (NE Italian']
+
+
+
+
+246   :   Well after a devastating mid we had to eat our way out of Depression 
+No pic of the delicious peri peri chicken of #Nandos as it was in our tummy as soon as it came in 
+would rate it 8.0
+then we treated ourselves with the Donughts from Glazed 
+it was good, tried the Deli Donut and Dazzle 
+I would rate it 7.5 
+then comes my favorite North End Coffee from Unimart
+the vanilla late was as always awesome :)
+would rate it 9.0
+and finally the food attack came to an End with the Super Naga from Naga Inc.
+the spiciest burger I ever had but price was too much for what they give, except for the spiciness its nothing out of the ordinary 
+spiciness a perfect 10
+price 5 out of 10
+taste NO COMMENT the first bit was my last bite
+wanted to treat ourselves with A&W Root Beer but no root bear in gulshan 1 A&W for one month :(
+I am so FULL!!!!!
+
+
+['  delicious', '  good', '  favorite', '  spiciest', '  ordinary', '  first', '  last']
+
+
+
+
+247   :   Just had a birthday party
+Set menu 1. Stage, Uttara.
+2 cripsy prawn,fried rice,chilli chicken,beef with oyster sauce,1glass of soft drinks 
+495tk++
+Taste 8.5/10
+Price 7/10
+Ambience 15/10 :P 
+The mouth watering red velvet cake was from puniZz kitchen and was a perfect 10/10
+
+
+['  soft']
+
+
+
+
+248   :   Desperately Seeking the Best Buffet lunch  in Dhaka......pls suggest
+
+
+[]
+
+
+
+
+249   :   Want to take kids to dinner at any Chinese restaurant in banani 11...it shud b economic as well...which one is better?  TIA.
+
+
+['  (NE Chinese', '  economic']
+
+
+
+
+250   :   Best fast-food places near Mohammadpur, Dhanmondi?
+
+
+['  Best']
+
+
+
+
+251   :   best Chinese restaurant in town??
+
+
+['(S best', 'S (NE Chinese']
+
+
+
+
+253   :   Tabaq has a branch in Baridhara DOHS right?
+
+
+[]
+
+
+
+
+254   :   Tried steak burger with chicken lollipop as add on . One of the best beef burger I have to say . Lollipop was good too .
+Place : Loiter D85
+Price : 320/-
+
+
+['  burger', '  chicken', '  add', '  best', '  good']
+
+
+
+
+255   :   which is the "must try item" at Ajo cafe??
+
+
+[]
+
+
+
+
+256   :   For a smartttt mamma...... From her beloved son !!
+
+Source : T'morrows'
+Flavor : vanilla cake with vanilla butter cream 
+Price : 1500/- per kg
+Weight : 1800 gm ( 2700/-)
+https://m.facebook.com/Tmorrows
+
+
+["  T'morrows'"]
+
+
+
+
+257   :   Service 9/10
+Food 910...was surprisingly delicious
+
+
+['  delicious']
+
+
+
+
+258   :   Beans & Aroma
+Hello,
+I was really excited about Beans and Aroma opening in Uttara. I visited the place last week it was a horrendous experience. 
+I was seated promptly but i had to wait for 15 minutes to get the menu. The music that was playing was so loud it was impossible for me to carry on a conversation. When I requested the volume to be turned down the waitress seemed annoyed and actually rolled her eyes :S .
+When I wanted to order she refused to take down my order stating we have "pay first policy" and you have to go and order it yourself.
+A minute ago she took an order for a gentleman sitting in the next table. When asked why wont she take our order, she mentioned that service was for our "regular customers" .
+The manager was very helpful who apologized on her behalf and asked her to take down our order.
+
+The place seems really nice and I thought it would be my new go to coffee place but I was really displeased by the standard of customer service.
+ 
+Please train your waiter/waitresses to behave well with customers.
+
+
+['  last', '  horrendous', '  impossible', '  next', '  regular', '  helpful', '  nice', '  new', '  standard']
+
+
+
+
+259   :   Dear foodies,  plzzz suggest some happening food places in Gulshan and Banani? 
+TIA
+
+
+[]
+
+
+
+
+260   :   Any Bloop in uttara yet?
+
+
+[]
+
+
+
+
+261   :   Bittersweet cafe
+Reviews: The food was good. You have to try the blueberry cheesecake and the souffle. Its nice place for hanging out with friends or alone. The service wasn't half bad either.
+
+
+['  good', '  nice', '  bad']
+
+
+
+
+262   :   Just saw a freezer named Bloop in it, n grabbed as much as I can in order to have its taste....just tasted the mango sorbet n It was melting pleasure...will try other soon...my nephew and niece tried the lolly blackcurrant n liked alot...didn't bought the usual litre boxes as they were same basic flavors such as strawberry, mango....Happy chilli weekend evryone....;)
+
+
+['  much', '  .just', '  other', '  blackcurrant', '  usual', '  same', '  basic', '  such', '  .Happy']
+
+
+
+
+263   :   Coming soon...................Sub City......as fresh as it gets!    It is our new arrival  sub sandwich. please try to take it.All of you are invited to our sub restaurant..
+
+
+['  .Sub', '  fresh', '  new', '  it.All']
+
+
+
+
+264   :   Dis muhmet kabab platter for two
+Platter-10/10
+Price-1500+15%vat
+
+
+[]
+
+
+
+
+265   :   Can any1 tell me that what's the current price of lunch buffet at Baton Rouge? TIA
+
+
+['  current']
+
+
+
+
+266   :   where can i buy agar agar powder in dhaka ?? please help
+
+
+[]
+
+
+
+
+267   :   Ok. Now this days I found that we are adapting some food in our food habit even the food is not that great. Let's say pizza hut's pizza, kfc chicken fry or burger, Baskin and Robbin. I'm not against those food chain. They're international. They're brand. They are good, but great...hmm...think. But did you ever tried pizza from SWARMA HOUSE, burger from PATISSERIE, chicken fry from EURO HUT, sandwich from BIG BITE, ice cream from DOLCE VITA, did you ever partied in HOT HUT?! I think maximum will say no. Please dear all, try once if possible. They are us.
+
+
+['  great', '  burger', '  international', '  good', '  great', '  maximum', '  possible']
+
+
+
+
+268   :   Best Nihari, (goru) + Porota,,.... koi pabo? kal shokal a akta shairokom Breakfast dite chai.. :) .....Thanks
+
+
+['  Best', '  kal']
+
+
+
+
+271   :   Guys, good places to eat in Cox's Bazaar?
+
+
+['  good']
+
+
+
+
+272   :   Had the Sandwich at Suzuki Coffee today. Very good taste. Price is good for its price. Comes with some salad aswell.
+Price: 140tk 
+Rating: 8.75/10
+
+
+['  good', '  salad']
+
+
+
+
+273   :   tom n jerry theme cupcake n cake ...
+
+for more pic pls visit www.facebook.com/scarletsugar
+
+
+['  more', '  pic']
+
+
+
+
+274   :   Going to Nawaab's , can anyone please suggest me their best courses?? and it would be really helpful if someone could specify the exact location with any renowned places near nawab's #cheers #thanx_in_advance :D :D
+
+
+['  suggest', '  best', '  helpful', '  exact']
+
+
+
+
+275   :   Opened it up out of excitement n ges wat I found!!!!!! nothing!!! :D
+
+Aarong Chocolate Milk
+Tastes Good
+30tk.
+
+
+[]
+
+
+
+
+276   :   What's the exact location of popeye coffee shop at khilgaon ?
+
+
+['  exact']
+
+
+
+
+277   :   Crispy chicken cheese burger with french fries 
+Price : 120tk + 30 (extra cheese)
+Drink : 30tk
+One of my fav cheap and tasty burger :D
+
+
+['  cheese', '  french', '  extra']
+
+
+
+
+278   :   I m right now in Dhupkhola.  Can anyone tell me where is the actual Allahr Dan biriani house?
+
+
+['  actual']
+
+
+
+
+279   :   Best buffet in the city with a pleasurable environment and good food with reasonable price for a family hangout?
+
+
+['  Best', '  pleasurable', '  good', '  reasonable']
+
+
+
+
+280   :   Anyone been to smoke pizza festival. ...need a review....
+
+
+[]
+
+
+
+
+282   :   People, where may I get Bloop? :3 
+Area: Shantinagar.
+The cravings be strong within ye. So, help plox.
+
+
+['  strong']
+
+
+
+
+283   :   #Chickensalad
+#crabcurry
+#chickenfriedrice
+My rating 7/10.
+At Fools dinner.
+
+
+[]
+
+
+
+
+284   :   Where can I find Starbucks product in Dhaka? Tia :)
+
+
+[]
+
+
+
+
+286   :   Dear chittagong folks please help me out to find best restaurents in port town urgentttt!!!!  Thankssss in advance!!!!
+
+
+['  best']
+
+
+
+
+287   :   Royal buffet dhanmondi kothai  plz location ta aktu janaben ..
+
+
+[]
+
+
+
+
+288   :   Pizza Fest (Smoke Music cafe) 
+
+Rating: 4/10 
+
+Advise: don't go there unless you are the son of Prince Musa..
+
+
+[]
+
+
+
+
+289   :   review ; pizza fest @  Smoke Music Cafe
+8 different  cheesy pizza , thin crust...  
+personal choice beef lovers and pepperoni pizza ,.... 
+must try ... :)
+
+
+['  different', '  thin', '  personal']
+
+
+
+
+290   :   need suggestion
+going to jomuna future park
+but cunfuse what to try
+so give me suggestion
+urgent
+tnx in advance
+
+
+['  future']
+
+
+
+
+291   :   Hydrabadi biriyani from delhi darbar, bashundhara city
+My all time favourite! <3 
+Price: 280 tk
+
+
+[]
+
+
+
+
+292   :   Yammy foodssss
+Set menu:150 tk
+9/10
+Ajk teachers training clg er field e
+
+
+[]
+
+
+
+
+293   :   Best food to eat in fork and knife in uttara...suggestions please.thanx in advance. :)
+
+
+['  Best']
+
+
+
+
+294   :   Oreo cheesecake! Best cheesecake I've ever had!
+
+
+[]
+
+
+
+
+295   :   FOR somedays there are some shocking food complain i am seeing ...................... the food quality in BD food places are deteriorating day by day :/ .................... kind of fear to go to a place for eat :(
+
+
+[]
+
+
+
+
+296   :   TAKE SOME TIME,read this and PLZ RESPOND
+"uttarai food junction pizza order korechilam so extra pepper cheyechilam... pepper bottle tah jhaki dicchilam kintu porchilo na ... hotat dekhi bottle the ki jeno ber holo.. then bottle cap khule dekhi vetor e choto choto koekta telapoka! and after showing it to the manger he gave us discount of 50 taka! and request us to keep quite! well i didnt accept his so called discount and leave that place immediately!"
+i found this in a coment at a photo  by Amin Tanni apu
+and   another saying
+"Koekdin age KFC r paltan shakhay Proman size er telapoka pawa gesilo, tarpor Nandos eo ki jani pawa gesilo koekdin agey, mone nai (These type of things happen so often, its hard to keep track) jaihok, akhono KFC te gele jaiga pawa jai naa majhe majhe ar Nandoos er craze er kotha toh baad e dilam (Both being Ridiculously overpriced and overhyped restaurants, anyone who has been to KFCs anywhere but in BD knows what um talking about) ar appelianor pasta mojao and not at all expensive minding the quantity...Anyways, jara eikhane boltese jabe naa or jaite naah, tader moddhe at least 80% next 6 months er moddhei abar jabe jaigatai" was written by Sabbir vai  
+And another saying Sharma house serving broken glass in pastas,jaw teeth broken and on and on.. from some one i forgot..
+PLEASE Share Your bitter experiences  on the wall,Not in comments..
+we dont pay any less while counting their bills,so we better know where to SPEND...But vaia,apu Plz do share,we dont only want to hear the awsome taste of food,we should also know the hazards...Thank You....Hope the Admin doesnot get angry at my post....
+
+
+['  extra', '  accept', '  hard', '  expensive', '  naah', '  least', '  er', '  less', '  better', '  .Hope']
+
+
+
+
+297   :   before all the things that Appleiano went through, the people loved the place for its Pasta. Quick question, they having such a well reputable Pasta Basta, what's so special about it compared to Shawrma House's Pasta Basta? I really wanna known what's the difference.
+
+
+['  such', '  reputable', '  special', '  wan']
+
+
+
+
+298   :   Best one to try in Jamuna Future Park..... Any suggestion?
+
+
+['  Best']
+
+
+
+
+299   :   Had the best tea of my life
+Tk 10
+From a random roadside tea stall at bajitpur, kishorgonj.
+
+
+['  best']
+
+
+
+
+300   :   anyone know where to get muffins in batch ?? i need 30 to 40
+
+
+[]
+
+
+
+
+301   :   Need to know the best foodcarts around in banani and gulshan
+
+
+['  best']
+
+
+
+
+302   :   Which foodcarts to try for in gulshan and banani area?
+
+
+[]
+
+
+
+
+303   :   Source : T'morrows'
+Flavor : Darkchocomoist with Choco layer
+Price : 1500/- per kg
+https://m.facebook.com/Tmorrows
+
+
+["  T'morrows'"]
+
+
+
+
+304   :   North End || Croissant || 6/10 || 160 TK.
+Quiet good and tasty...
+
+
+[]
+
+
+
+
+305   :   Best buffet restaurants in gulshan within 900TK/person including VAT? must be good.
+Thanks in advance.
+
+
+['  Best', '  good']
+
+
+
+
+306   :   best resonable priced food courts at b.city??
+
+
+['  best', '  resonable']
+
+
+
+
+307   :   kon kon burger worth trying?? jante chai!! place price r locationtao kosto kore bolle valo hoy!!
+
+
+[]
+
+
+
+
+308   :   Pls advice best  resturent for buffet diner  at uttara area ...test and service is very much important for me not that much  important menu qty.
+
+
+['  best', '  much', '  important', '  important']
+
+
+
+
+310   :   Brozilla burger.
+
+Location: Carnibros (Cart)
+Price: 250tk
+
+The price is reasonable in terms of the size and quality of the burger. The flavorful taste continues to linger in your mouth hours after you've devoured this delicious burger!
+
+
+['  reasonable', '  flavorful', '  linger', '  delicious']
+
+
+
+
+311   :   Potato Wedges from cilantro. :D
+
+
+[]
+
+
+
+
+312   :   From the original fish and co. at Singapore. Much much better and they also have pizzas and chicken! Price range is almost the same.
+
+
+['  original', '  Much', '  same']
+
+
+
+
+313   :   Where can I find Ricotta Cheese in Dhaka? Thank you.
+
+
+[]
+
+
+
+
+315   :   Morning Bites. 
+Chicken Achari 8/10
+Plain Parata 7/10
+
+The taste was decent and the best thing about it is that it's absolutely fresh. Will be ordering from here again.
+
+
+['  decent', '  best', '  fresh']
+
+
+
+
+316   :   Need suggestions ASAP for places where they offer good breakfast except GPR, Star, Jol Khabar etc. Please recommend a place around Gulshan, Banani, Baridhara, Tejgaon and Rampura.
+
+
+['  good']
+
+
+
+
+317   :   Yeah !!! Great deal for Pizza lovers in Mirpur !!!
+
+
+[]
+
+
+
+
+318   :   I m not sure about the name of a site offering home delivery of frozen fish.... there website wrote pomfret 450tk kilo.... anybody tried it? Yet?
+
+
+['  sure', '  site', '  fish', '  website']
+
+
+
+
+319   :   :3
+
+
+[]
+
+
+
+
+320   :   To express something very special......
+
+Source : T'morrows'
+Price : 1500/- per kg
+Flavor : Darkchocomoist with Choco layer
+
+
+['  special', "  T'morrows'"]
+
+
+
+
+321   :   Too yum :D
+
+
+[]
+
+
+
+
+322   :   Best burger in Bashundhara city? It's urgent.
+
+
+['  Best', '  urgent']
+
+
+
+
+323   :   Pancakes at gloria jeans. Not that good. 3 out of 5.
+
+
+['  good']
+
+
+
+
+324   :   You have to pay the price dudes!
+Say no to Cafe Appeliano.
+
+
+[]
+
+
+
+
+325   :   The tiramisu from Daily Treats ( Westin ) 
+its good not great size is pretty small compared to the tiramisu from tastebud and the price is also very similar to the tastebud's so yeah i'll choose tastebud's tiramisu over this anyday !! 
+Taste 8/10
+Price between 300-400 (dont remember the exact price)
+
+
+['  good', '  great', '  small', '  similar', '  yeah', '  exact']
+
+
+
+
+326   :   coming to BD soon In Sha ALLAH
+
+
+[]
+
+
+
+
+327   :   Recommendation for best Oreo cheesecakes online (home delivery).
+
+
+['  best']
+
+
+
+
+328   :   We have noticed an increased amount of members posting food they have made at home. Though it is not a big deal, but in order to keep this group strictly review based we have opened a platform for the home cooks! FoodBank brings "FoodBank Home".
+
+ Here is the link: https://www.facebook.com/groups/342089299301548/
+
+From next week onwards, all home cooked food posts will be deleted from this main page. So members make all the others aware and lets see some of the brightest cooks in Bangladesh to share their skills and knowledge. 
+
+-Admin
+
+
+['  big', '  //www.facebook.com/groups/342089299301548/', '  next', '  main', '  brightest', '  -Admin']
+
+
+
+
+329   :   Location: Uttara. Suggest me places & their particular dish/item which you would rate 10/10! :)
+
+
+['  particular']
+
+
+
+
+330   :   Good buffet restaurant to have a official dinner of around 15 people near Gulshan Banani area??? 
+
+Date: 25th October, 2014
+Day: Thursday
+Budget: 1000/person
+
+Kindly suggest soon. Thank you.  (Chinese cuisine will be added advantage as there will be some Chinese people as well)
+
+
+['  restaurant', '  25th', '  (NE Chinese', '  Chinese']
+
+
+
+
+332   :   A gift box for a lovely girlllll
+
+Source : T'morrows'
+Flavor : Darkchocomoist with Choco layer
+Price : 1500/- per kg
+Weight : 1750 gm
+https://m.facebook.com/Tmorrows
+
+
+["  T'morrows'"]
+
+
+
+
+333   :   Yesterday i brought it from www.facebook.com/sahikhabardabar.
+jali kabab and morog polao.
+
+taste is very good.
+
+
+['  www.facebook.com/sahikhabardabar', '  good']
+
+
+
+
+334   :   Seeking for kachi around 160 to 200 per head in banani gulshan area
+
+
+[]
+
+
+
+
+335   :   Jessore-Dhaka domestic Flight snack @ US-BANGLA Airlines
+
+
+['  domestic']
+
+
+
+
+336   :   Anyone went to the new coffee shop in Uttara called Beans and Aroma? A quick review and price range would be very much appreciated... TIA :)
+
+
+['  new']
+
+
+
+
+337   :   Keo ki gechen ekhane?? Reviews needed
+
+
+[]
+
+
+
+
+338   :   Off topic post: 
+
+Looking for a cook who can make chinese food. This is for a cart.
+
+
+['  topic', '  chinese']
+
+
+
+
+339   :   No one here to suggest me !!!!
+Need about any restaurants of Gulshan which's reasonable & also provide tasty foods ..........
+
+
+['  reasonable', '  tasty']
+
+
+
+
+340   :   People of Mirpur! Want to have some delicious Steaks and juicy-cheesy Lasagnas at your neighbourhood? :D
+
+
+['  delicious', '  juicy-cheesy']
+
+
+
+
+341   :   Urgent!!
+Which restaurant is better @ Bashundhara city. 
+And which dish i should not miss!!
+
+
+['  dish']
+
+
+
+
+342   :   place- The Stage
+item-  beef in black mushroom gravy with fried rice
+price- 325 
+In the whole dish, black mushroom was the hero. I have never tasted soo delicious mushroom. That mushroom was so generously pieced and given in the dish. It was so meaty and creamy.... 
+i just loved the gravy ^_^
+ps: may be the quantity of rice wouldnt be enough for all.
+
+
+['  black', '  fried', '  whole', '  black', '  delicious', '  dish', '  meaty']
+
+
+
+
+343   :   what to try in jamuna future park ??
+
+
+[]
+
+
+
+
+344   :   for the Nandos Haters! :)
+
+
+[]
+
+
+
+
+345   :   Whats a good mexican place to eat besides el toro? Is quesilla or amigos better?
+
+
+['  good']
+
+
+
+
+346   :   Best place to eat Steak in Dhaka?
+Thanks.
+
+
+['  Best']
+
+
+
+
+347   :   How good are the Golden Harvest Ice creams?
+
+
+['  good']
+
+
+
+
+349   :   Fried rice combo of #HALVetia
+Price:170+vat.
+Service:4/10
+Taste:worst fried chicken I have ever tasted and the vegetable was a disaster.rice was ok.
+-_-
+
+
+['  worst', '  fried', '  vegetable', '  disaster.rice']
+
+
+
+
+350   :   Good morning foodbankers. Breakfast er jonno Gulshan 1, Banani, Badda, Rampura'r ashe-pashe ekhon ki khola ache? Need some good suggestions ASAP! Please don't recommend GPR, Star, Jol Khabar etc.
+
+
+['  good']
+
+
+
+
+351   :   Onion Rings, Liked it but you can make it at home anytime (100tk )
+
+BBQ DOUBLE DECKER, not that BIG as you are thinking (300tk)
+
+Cool off with a Exotic Live Oreo Shake. Yummy (200Tk)
+
+Taste: 7/10
+
+
+['  (NE Exotic']
+
+
+
+
+352   :   Best Macaroni I've ever had. Yummy in my tummy:-)
+
+
+['  Best']
+
+
+
+
+353   :   Totally lost my appetite thanks to Foodbank and Cafe Appeliano. I understand that Cafe Appeliano made unforgivable mistakes firstly by serving lizard and secondly by blaming customer. But that doesn't mean we have to see different images of dead lizards from different angle every now and then. Say no to Cafe Appeliano, no problems with that, but please say no to uploding any more lizard images. -_-
+
+
+['  unforgivable', '  different', '  dead', '  different', '  more']
+
+
+
+
+354   :   had dinner at Sppaghetti Jazz, amazing food, awesome ambiance and finally, some soothing jazz music in a restaurant :3 
+ordered mushroom steak, some pasta (no.88) and roasted potato
+had an amazing time there, will definitely go back again
+
+
+[]
+
+
+
+
+355   :   Mache Bhat e Bangali : Kachki mach & Alu chorcori with Basmati Rice
+
+
+[]
+
+
+
+
+356   :   Excellent traditional breakfast @ Green Sweetmeat, (opposite of star hotel),Thatari Bazar, Dhaka.
+
+Trust me! it's awesome!!!! So shokal shokal ekhankar gorom gorom nasta kheye apnio mugdho hoye jaan. :)
+
+1. Labang 
+2. Puri & bhaji with yoghurt 
+3. Jilapi/Jalebi
+
+#yum #breakfast #awesome #tasty #delicious #traditional #oldtown #olddhaka #purandhaka #excellent #labang #puri #bhaji #yoghurt #jilapi #jalebi #thaterybazar #streetfood #random #hangout #TourdeDhaka #instacollage
+
+
+['  traditional', '  awesome', '  shokal', '  Jilapi/Jalebi', '  delicious', '  traditional']
+
+
+
+
+357   :   *****************************************
+Guys!! Curious mind wants to know whats this group all about?? is it run by this group's admin??? or is this something else managed by some other ppl?????? Admins what do u have to say?????????
+
+https://www.facebook.com/groups/589136311191630/?ref=br_tf
+
+
+['  Curious', '  other', '  //www.facebook.com/groups/589136311191630/', '  ref=br_tf']
+
+
+
+
+358   :   My first try "Rainbow pound cake" vanilla flavor. 
+
+29 Aug 2012
+
+
+['  first']
+
+
+
+
+360   :   Pasta appeliano !
+Too good
+Forgot the price !!
+
+
+['  good']
+
+
+
+
+361   :   Location : spicy grill, BANANI
+Service : 5/10 ( took around 20mins to come)
+Food: 5/10 ( the fried rice was tasteless )
+
+
+['  fried']
+
+
+
+
+362   :   Anyone know if Nagasaki - Japanese Restaurant in Dhaka, Bangladesh is still there in Uttara? If so, how is it compared to Izumi?
+
+
+['  (NE Japanese']
+
+
+
+
+363   :   Bengali fish & chips 
+Price- 685++
+
+
+[]
+
+
+
+
+364   :   Look at the improvised pizza! More like melted cheese on half done tawa ruti with boiled vegetable! 45 minutes after order this is what an half empty restaurant serves. Probably they didn't have the raw materials for it. Nor they wanted to lose a customer! If you want this exotic dish come to Salt Grill Ltd @Bashundhara City.
+
+
+['  cheese', '  boiled', '  vegetable', '  exotic']
+
+
+
+
+365   :   It was so good !
+
+
+['(S It/PRP was/VBD so/RB good']
+
+
+
+
+366   :   Went to #nawab's and guess what happened they ran out of biriyani waited for half an hour then the waiter came up to us and said "we no longer have mutton or chicken biriyani" what a disappointment.
+
+
+[]
+
+
+
+
+367   :   Just my opinion.
+Recent days the food companies/ carts/ restaurants have been making continuously mistakes for food hygiene issue. No doubt for the last several months/ years foodies around Dhaka/ Bangladesh has raised a good number. so as their food business. 
+That's the reason Cafe Appeliano - te manush er line diye seat booking rekhe 20 min wait kore khete hoto, ignoring their short space. I had been their regular customers from last year November. But I  stop from today.
+
+This is their carelessness they have made and if they are not made realized what they are doing, they won't purify themselves- may be this is our nature in every sector.  We don't pay less to them, we go to good shops for quality food. not to get those Lizards/ Pins/ Hair piece in foods. But this is happening in good shops, pathetically true. Man deserves 2nd chances, but we people deserve punishment as we never purify ourselves without it.
+I guess- WE Should find the carts/ shops/ restaurants through foodbanks and stop visiting as much as we can.  Other Good shops should also realize -in no means quality should not be degraded.  
+
+Definitely- they will have good business if they serve well. But if they don't I think it shouldn't.
+
+
+['  Recent', '  last', '  several', '  months/', '  Dhaka/', '  good', '  short', '  regular', '  last', '  themselves-', '  less', '  good', '  good', '  true', '  much', '  Other', '  -in', '  good']
+
+
+
+
+368   :   My birthday cake :)
+Ordered from tomorrow's ...
+A online cake Bakery :)
+It's really tastes good less sweet which I like :)
+Everyone should try them...:)
+https://www.facebook.com/Tmorrows
+
+
+['  good', '  sweet']
+
+
+
+
+369   :   Thanda gorom juice bar @gulshan 2 (opposite of pink city)....tastes like real fruit
+
+
+['  opposite', '  real']
+
+
+
+
+371   :   orders are open now ! 40 taka per cupcake :)
+details are given on the page or inbox :)
+
+https://www.facebook.com/Dream.Baker2013
+
+
+['  open']
+
+
+
+
+372   :   This is Pasta Basta...
+ 
+my personal opinion: the best pasta of dhaka city... 
+
+Foodlovers u all should try it asap....
+
+Place : Cafe Appeliano ..... price : 245....
+
+If u dont like it, i will pay for u ;) :D
+
+
+['  personal', '  best']
+
+
+
+
+374   :   La Bamba fuska....the worst fuska i have ever ate .... 
+dekhte jotota sundor  khaite thik tototai faul...
+
+Rating : 1/10 
+
+price :100 tk 
+ 
+
+Request : kew jani ei awful fuska 100 tk khoroch koira na khai ....
+
+
+['  .the', '  ate', '  kew']
+
+
+
+
+375   :   What is happening to the foods we eat outside?
+We are paying them for a reason even then they don't give much attention to cleanliness and safety.
+I am fine with people handling my food with unwashed hands,hair in my food,ants in my food but I expect this kind of unhygiene practice from food vendors on foothpaths like chotpoti wala etc,not from restaurants.
+We pay extra for a reason.
+A piece of steel found in a shwarma from Bar B Q Shwarma House in Baily Road.The consumer choked on it.Not a piece of hair or anything, she choked on A PIECE OF STEEL.Now she is admitted in a hospital.
+
+And this other person found a baby lizard.
+Not an ant or a mosquito,A LIZARD.
+
+We need to make the owners of these restaurants realize their mistakes,and ensure that they dont do it again.This may seem petty but it is not.
+If we don't nip the bud now,they will do worse.
+
+I suggest to file a case against these restaurants to teach them a lesson and finally they make an attempt to take some responsibility.
+
+The least we could do is spread the word about their unhygienic food and stop going there.Also encourage others to stop going there,so eventually their business runs out and they take these matters seriously then.
+
+
+['  much', '  unwashed', '  extra', '  it.Not', '  other', '  ant', '  petty', '  least', '  unhygienic']
+
+
+
+
+376   :   plain polao, rezala, dimer korma koi pete pari
+gulshan,banani,bashundharar moddhe
+
+
+[]
+
+
+
+
+377   :   Went to Albino, Jamuna Future Park yesterday with a friend.  we ordered their chicken cashew nut salad. It was a horrible experience! the cashew nuts had a very bad smell and were chewy. so it was pretty obvious that they were old and stale. they put on some kind of chicken gravy, more like "murgir torkarir jhol" which made the salad way too spicy and it tasted absolutely disgusting. the chicken pieces were okay, not as crunchy as it should be. 
+after eating a little, my tummy kind of started burning. we called the waiter and told him about the food. his reply was, " mam, chicken chicken cashew nut salad erokom e hoy, and walked to another table" :O
+we had nothing more to say. we payed the bills and came back home. and now guess what? i am suffering from food poisoning. couldnt even go to work. and my friend vomited right after going home yesterday. WTH is wrong with all the restaurants?? >.<
+
+
+['  horrible', '  bad', '  obvious', '  old', '  chicken', '  crunchy', '  started', '  more', '  wrong']
+
+
+
+
+378   :   Sonargoan hotel a buffet dinner per person koto kore and ki ki bar? N how is their food?
+
+
+[]
+
+
+
+
+379   :   sugar free cake kothay pawa jay keu ki bolte paren???
+
+
+['  free']
+
+
+
+
+380   :   location : The Mesquite Grill(Mexican restaurant)...sector 1 uttara ,road #5
+
+Item : 1.Mushroom cream soup ...yunmmyyy.    
+ 
+    price :225 tk 
+
+      rate :9/10
+
+2. Buffalo wings  ....worthy taste...
+    price :375 tk 
+     rate :10/10 
+
+3.Battered Mushroom ...awesome tasty...
+
+  price :295 tk 
+
+  rate 10/10
+
+
+['  .worthy']
+
+
+
+
+381   :   When is the Food Fstival in Robindro Shorobor taking place? Any ideas?
+
+
+[]
+
+
+
+
+382   :   so my friend and i went to the cart station today (its in dhanmondi 3/a...its the old chicken king/andersen's icecream er place ta) we tried the bolognese poutine from Chips n' Gravy and a red velvet cupcake and an eclair (not in the picture coz i ate it :P) from the cart station inside the premise (im sorry i forgot the name of the place but its inside there once you go) the red velvet cupcake was the best I ever had (ppl might disagree but i never had anything better and i have had quite a few) and the eclair was rich and creamy and its choco layer had a dash of coffee which totally made me happy! it was the best i had since Flambe! the bolognese poutine was okay coz i hoped they would give us home made fries and not the frozen ones!
+so prices are without vat
+red velvet- 60 tk taste 9/10 ( minus 1 for the size...they are small)
+eclair- 80 tk 10/10 ( and now i wish they made it small...it was big)
+bolognese poutine- 200 tk 8/10 (points deducted for giving frozen fries)
+the only let down was they charged 30tk for a kaach er bottle er coke!
+there are other carts as well like jerk burgers and something else and i am gonna go try them next week!
+
+
+['  old', '  king/andersen', '  red', '  best', '  better', '  few', '  rich', '  happy', '  best', '  vat', '  small', '  small', '  big', '  only', '  other', '  gon', '  next']
+
+
+
+
+383   :   Dear friends..this winter enjoy pithas @Deshi Pitha & other foods
+
+
+['  other']
+
+
+
+
+384   :   Tonight most of the status in my newsfeed was about that special tiktiki :-P
+
+
+['  special', '  -P']
+
+
+
+
+385   :   what is a must try at BnB (Burger n Boost)? :)
+
+
+[]
+
+
+
+
+386   :   and now what about this??? What is wrong with our food corners??
+
+
+['  wrong']
+
+
+
+
+387   :   Having delicious foods with reasonable prices specially....
+Beef jhol chap= 80/-
+Chicken tikka kabab= 95/-
+Chicken suslik= 45/-
+Luchi= 5/-
+Shahi parata= 20/-
+Mint lemonade= 50/-
+Without VAT & service charge
+Come and check ur tasty bite
+
+
+['  delicious', '  reasonable']
+
+
+
+
+389   :   Looking for a good restaurant at Mohammedpur, around St Joseph school .. going there tomorrow .. so dear food bankers , please suggest me some good food place around there .
+TIA. :)
+
+
+['  good', '  dear', '  good']
+
+
+
+
+390   :   First time made Birthday cake for my daughter. So that she can cut at 12:01 AM. Though it was not the main cake for the party, just a lil cake made by Dad's love n passion. 
+
+22 November 2012
+
+
+['  main']
+
+
+
+
+391   :   What Cafe Appeliano did today is an unforgivable mistake. On top, the apology was a mess. Goes to show what  a crucial role us FoodBankers play in the food industry. I wish others see this and learn that customers come first! its truly sad what imtiaz bhai had to go through. On another note, please stop posting 'lizards' its just disgusting, if you guys want to show your anger/disappointment, please share the complaint post by Imtiaz Choudhury to raise awareness. and do not make repeat posts of what has already been shared in the group. 
+-Admin
+
+
+['  unforgivable', '  crucial', '  sad', '  want', '  anger/disappointment', '  repeat', '  -Admin']
+
+
+
+
+392   :   Undoubtedly best burger in town
+
+
+['(S Undoubtedly/RB best']
+
+
+
+
+393   :   Kew amake basmati rice er pulao er recipe dite parbe?
+
+
+[]
+
+
+
+
+394   :   which cafe is open now at Uttara?? 
+TIA :)
+
+
+['  open']
+
+
+
+
+395   :   want help about the best menu for dinner at Nandos  .... :) 
+& Must try food at nandos ... 
+Thanks in advance ... :)
+
+
+['  best']
+
+
+
+
+396   :   With the way things are going and from what I see on this page everyday, it is not long to go when I say "R.I.P Bangladesh food industry. You were not the best, neither did you try being exclusively original to the world, often being carpeted by the image of Indian cuisine, but whatever life was left has been ceased!"
+
+
+['  R.I.P', '  best', '  original']
+
+
+
+
+397   :   Looking for a good place (Chinese Restaurant preferably) for dining out with family in Dhanmondi, specifically Satmasjid Road. TIA
+
+
+['  good', '  (NE Chinese']
+
+
+
+
+398   :   Please suggest good place to eat seafood/fish except fish and Co and saltz.
+
+
+['  good', '  seafood/fish', '  fish']
+
+
+
+
+399   :   Super Sub
+Good food. Loved the way it was made. Flavors were awesome and unique. I think I tasted something sour Overall, enjoyed the whole idea. MUST TRY
+
+
+['  unique', '  whole']
+
+
+
+
+400   :   Had one of the best pepperoni pizza in town 
+
+Uttora sec 3 road 3 house 3
+
+
+['  best']
+
+
+
+
+401   :   Anyone go to the pizzafest at Smoke Music Cafe today? How was it? Not sure if I should go or not.
+
+
+['  pizzafest', '  sure']
+
+
+
+
+402   :   Achchha apu/bhaia ra amake ekta info den please..12 ta porjonto kono restaurant ki open thake banani gulshan areay?
+
+
+['  open']
+
+
+
+
+404   :   hello...i need review on the pizza festival of Smoke Music cafe..how's it?
+
+
+[]
+
+
+
+
+405   :   #102
+Oreo cheese cake by tabaq 
+I just love der service,
+And this is rly not bad.. 
+But i am not a cheese lover :(
+
+
+['  cheese']
+
+
+
+
+407   :   Dhakar Best Khichuri kothay paoa jay according to you????????
+
+
+[]
+
+
+
+
+408   :   Just had it both, personally loving the yellow one. Tastes quite similar to the actual. Only for tk 10. If I were to rate it, I'd totally give it a 9/10. (For the yellow one)
+7/10 (For the green pack)
+
+
+['  yellow', '  similar', '  actual', '  yellow', '  green']
+
+
+
+
+409   :   Cafe appeliano RIP
+
+
+[]
+
+
+
+
+410   :   LAB AID er opposite e ROYAL BUFFET ta kemon?????And what should i try there???
+
+
+[]
+
+
+
+
+411   :   Can anyone give me the address of Mad Chef's dhanmondi outlet ????
+
+
+[]
+
+
+
+
+412   :   I have seen a post about awesome taste "Butter Chicken" in this page which everyone was talking about of a restaurant/cafe in Dhanmondi few weeks ago but can't recall the name of that place. Can anyone remind me the name of the restaurant please? Thank you.
+
+
+['  restaurant/cafe', '  few']
+
+
+
+
+413   :   BURGER KING UPDATE
+Location:
+Millenium Restaurants Ltd. at "Ahmed Tower" Kemal Ataturk Avenue, Banani, Dhaka.
+
+Source: https://www.facebook.com/DhakaExpat/photos/a.150502301764040.37829.150448321769438/374055046075430/?type=1&relevant_count=1
+
+:)
+
+
+['  //www.facebook.com/DhakaExpat/photos/a.150502301764040.37829.150448321769438/374055046075430/']
+
+
+
+
+414   :   Went to CFC and ate the "Twister Meal" (replacing coke with mango juice)
+
+According to my taste buds, I rate it- 8.7/10
+
+It looks like shwarma but they said it is not..
+This Twister is half eaten here..
+
+Juice and French Fries were alright.
+
+I ate this meal twice in my life time.. so cant describe it as well as most of you food lovers :3
+
+
+['  it-', '  cant', '  most']
+
+
+
+
+415   :   #Tabaq kothay kothay ase ?? R kon branch er environment & interior ta beshi shundor ??? Plz help.
+
+
+['  interior']
+
+
+
+
+416   :   Loved the waffles!
+
+
+[]
+
+
+
+
+417   :   ''mummy made''  thai soup , fried chicken and salad 
+the best i've ever tasted ......
+
+
+["  ''mummy", '  salad', '  best']
+
+
+
+
+418   :   Tried these today:
+1. Chef's special 'Grilled Chicken Butter Rice'
+The chicken was not grilled at all but it was deep fried in bbq sauce. yet it was quite juicy and tasty. The butter rice was rather plain rice having essence
+price: 4/10
+2. Peanut Butter Brownie
+Being frustrated with the rice meal ordered this brownie! And guess what? it was breathtaking! atto moja! the butter, peanut and nutella was visible. The chocolate syrup added special taste to the hot brownie
+price 9/10
+service 7/10
+There is 15% service charge too
+
+
+['  special', "  'Grilled", '  visible', '  special']
+
+
+
+
+419   :   I'm asking attention to those who have visited here today!
+Can you plz put a review on it? Is it really worth the money? It would be helpful to know every pros and cons about this offer.
+
+Thank you!
+
+Portia Hassan, Nusrat Anika, Tasnia Zerin Nikita , keep following.
+
+
+['  worth', '  helpful']
+
+
+
+
+421   :   Pizza fest.
+Smoke music cafe.
+I went and I regret.
+Personal view, it was just a waste of money! :3
+Pizza sucked :3
+#Shotto_Ghotona
+
+
+[]
+
+
+
+
+422   :   Where to find best macarons in dhanmondi? Tia.
+
+
+['  best']
+
+
+
+
+423   :   blue lagoon and pudina something
+
+
+['(S blue']
+
+
+
+
+424   :   Raw Tea with Orrange,Lemon,Ginger and Mint Leaf... 
+Price: 15tk.
+Taste: worth the money.
+Place: Back Lane of The North Tower, Uttara.
+Too good for the upcoming Winter... :)
+
+
+['  worth']
+
+
+
+
+426   :   Ds Locations For Birth Day Party ! ON behalf Of One of my friend ! Budget : 3000tk 
+12 Persons ! TIA
+
+
+[]
+
+
+
+
+427   :   Okay, it's official now. FNF World in Bashundhara Residential Area has the best coffee in town. For those who doesn't know, FNF World is not a coffee shop, it's a simple food court. But the cappuccino they make has the perfect combination of cream, coffee and milk. And they even get the temperature perfect every time. I never had to blow on it. All in all, their cappuccino is the best I've tasted. 
+
+Sorry for the bad picture. My camera sucks
+
+
+['  official', '  best', '  simple', '  best', '  bad']
+
+
+
+
+428   :   For a smart choosy girl in her special day
+
+Source: T'morrows'
+Price: 1500/- per kg
+Flavor : Darkchocomoist with cream frosting 
+Weight : 1.5 gm apprx
+https://m.facebook.com/Tmorrows
+
+
+['  special', "  T'morrows'"]
+
+
+
+
+429   :   Best Pasta in Dhaka ??
+
+
+['(S Best']
+
+
+
+
+430   :   Undoubtly the best sub in town!
+Steak n cheese sub!
+Rating 10/10
+@ subcity
+
+
+['  best']
+
+
+
+
+431   :   Never thought such a place would have such amazing kacchi biriyani!
+2 medium sized piece of mutton meat and 1 boiled egg was provided with it. It tasted different from other kacchi biriyanis.
+Food: 9/10
+service: 7/10
+Recommanded for a person with big tummy :P
+pros: more than enough for a person :D
+cons: little bit oily
+@Jal Khabar Restora
+
+
+['  such', '  different', '  other', '  big', '  more', '  enough', '  little']
+
+
+
+
+432   :   #Yummy @ Meatlovers
+
+
+[]
+
+
+
+
+433   :   Look what I found xD
+
+
+[]
+
+
+
+
+435   :   jamuna future park er  kon restaurent er khabar tasty with cheap price???kon menu ta na khelei noi???plz ektu janan
+
+
+[]
+
+
+
+
+436   :   Got BBQ Chicken Pizza Delivery (no delivery charge included) from Bellavita pizzeria  Basundhara !! 
+
+It was quite good actually :3 The flavor of BBQ was perfect :D
+10 inch pizza
+Price: 650 with vat
+
+
+['  good', '  perfect', '  vat']
+
+
+
+
+438   :   Kindly keu ki MI AMORE er prize list diye help korte parben? 
+r eita ki klk sokal 11 tar dike gele open paoa jabe??
+
+
+['  open']
+
+
+
+
+439   :   Burger with double patty :3
+Idk what it's called 
+I would like more cheese in there . But it wasn't bad . It was okay :)
+
+
+['  double', '  cheese', '  bad']
+
+
+
+
+440   :   carrot cake !  price:290+vat
+a bit expensive i guess ! but good one !
+
+
+['  price:290+vat', '  expensive', '  good']
+
+
+
+
+441   :   Need suggestion about SOI 3, The Stage and Flavors Music cafe! What are their must try items along with price please? TIA.
+
+
+[]
+
+
+
+
+442   :   At last
+
+
+['(S At/IN last']
+
+
+
+
+443   :   Irani birani and kalo bhuna!
+Tasty food at reasonable price !
+
+
+['  reasonable']
+
+
+
+
+444   :   Price.. place... service... over all too good... ^_^ 
+Thnq SuMaia IsLam for informing me... :*
+The hot chocolate was too yummy...
+And we all friends tasted the cold coffees... ice chocklate was best.... ^_^
+But that Chinese chef's english accent was poor but cute..... :p
+
+
+['  good', '  ^_^', '  hot', '  yummy', '  best', '  (NE Chinese', '  english', '  poor', '  cute']
+
+
+
+
+445   :   Food street ta koi?urgent
+
+
+[]
+
+
+
+
+447   :   Finally my visit to Fish n Co.
+I just loved the concept of their foods. 
+Most amazing and delicious dish was the coleslaw and Bangali Fish and crisps. 
+We were very excited as we love fish and sea food so much, therefore I just ordered excessively, so I had to parcel the half items among these.
+Service : 10/10
+Taste : 9/10
+Price : Around 7,000 tk (2 persons)
+Crowd : Fantastic. In the whole restrauent dere was only 3/4 tables filled.
+Time : 6:00-7:00 pm
+Experience : Marvellous
+
+
+['  delicious', '  fish', '  Fantastic', '  whole', '  Marvellous']
+
+
+
+
+448   :   I want to have experienced review on- Royal Buffet, Dhanmondi & Water Cress, Tejgoan (Shanta Tower)- based on- Food Quality, Variety & cost?
+
+
+[]
+
+
+
+
+449   :   Finally my visit to Fish n Co.
+I just loved the concept of their foods. 
+Most amazing and delicious dish was the coleslaw and Bangali Fish and crisps. 
+We were very excited as we love fish and sea food so much, therefore I just ordered excessively, so I had to parcel the half items among these.
+Service : 10/10
+Taste : 9/10
+Price : Around 7,000 tk (2 persons)
+Crowd : Fantastic. In the whole restrauent dere was only 3/4 tables filled.
+Time : 6:00-7:00 pm
+Experience : Marvellous
+
+
+['  delicious', '  fish', '  Fantastic', '  whole', '  Marvellous']
+
+
+
+
+450   :   Awesomeness
+seriously it is amazing
+
+Double patty chicken cheese burger with garlic sauce...
+
+besshhi josss
+
+taste: 10/10
+price: 210 taka
+
+cyclists get 10% discount...so i gt 10% discount ^_^
+
+
+['  (NE Double', '  garlic']
+
+
+
+
+452   :   Where is the food street
+
+
+[]
+
+
+
+
+453   :   Someone please share the review about the Chinese of "Nirob Hotel"??
+
+
+[]
+
+
+
+
+454   :   My cousin's bday cake!!made by me ;)
+
+
+[]
+
+
+
+
+455   :   #Suzuki_Coffee
+
+omg it was too good
+ordered grilled sandwich and cappuccino......  nd d sandwich was soo yummyy n cheesy!! just loved it.
+d stuffs are very well mannered.
+the decoration is so posh nd comfy....
+it was an 9.5 out of 10 experience.  ^_^
+
+
+['  good', '  grilled', '  yummyy', '  posh']
+
+
+
+
+456   :   Enjoy your Friday with 3 Fs. Family, friends and fun, all under one floor on the occasion of the launch of the new menu @ corner Thai restaurant.
+
+ You can taste 5 menu and enjoy singers performance by Green Poision  & D-Rock Star Bands. (totally free)
+Program Start: 4 p.m to 8 p.m.
+24th October, 2014.
+Navana Shopping Center 4th floor gulshan 1, Dhaka.
+For more details: 01755900214 (ricky)
+
+
+['  new', '  free', '  ricky']
+
+
+
+
+457   :   North End || Brownie || 8/10 || 70 TK.
+You can experience it.. There is no real and tasty brownie shop in the city except North End.
+
+
+['  real']
+
+
+
+
+458   :   Homemade peri peri chicken with stir fried veggies :)
+
+
+[]
+
+
+
+
+460   :   North End || Mocha || 8/10 || 240 TK.
+Want to have some coffee?? If you are a real coffee freak you can go North End. The best coffee shop in the city.
+
+
+['  real', '  best']
+
+
+
+
+461   :   Can anyone recommend a good and reasonably priced doi fuchka court in Dhanmondi, other than Dhaba
+TIA
+
+
+['  good', '  other']
+
+
+
+
+462   :   Chicken Tehri from Morning Bites 
+
+Price- 60 taka only
+Taste- 7.5/10
+Delivery- 9/10 (Free Delivery)
+
+BTW they do deliver only at Bashundhara
+
+
+['  Taste-']
+
+
+
+
+463   :   https://www.facebook.com/the.sweet.bar
+
+
+['(S https/NNS :/: //www.facebook.com/the.sweet.bar']
+
+
+
+
+464   :   Looking for Poutine around banani/gulshan any idea where i can get some ?
+
+
+['  banani/gulshan']
+
+
+
+
+465   :   Going to be really cliche here 
+Good places at Jamuna? (At a reasonable price) 
+[specifying which floor would be a great help, thank you!]
+
+
+['  reasonable', '  great']
+
+
+
+
+466   :   My friend and I ordered the The Dhaka Cheesesteak and the Panir Chilli fries.
+
+The ambience is awesome; is very attractive. It definitely does light up your mood and your expectation of the food instantly shoots up higher in the scale. But, unfortunately, the food isn't up to the expectation. The cheese steak is served in between a hotdog bun?!? And seems like they are only filled with burned onions.
+
+When you hear the name panir chilli fries, you immediately think of something with loads of cheese and fries, right?? WRONG! It is dry, and isn't fancy at all like their name suggests.
+
+It will be good place to hang out if you are in a group and looking for something cheap and aren't a foodie.
+
+Ratings:
+
+Ambience: 9/10
+Service: 8/10
+Cheesesteak: 5/10
+Panir chilli fries: 6/10
+Money value: 7/10
+Will I come back: probably to hang out with friends to snack on something, but not for heavy meal.
+
+
+['  attractive', '  light', '  higher', '  cheese', '  dry', '  good', '  heavy']
+
+
+
+
+467   :   5" whooper cheese burger of BnB
+
+price: 300 bdt
+taste: 8.5/10
+
+i liked burger of preetom more
+
+
+['  burger', '  more']
+
+
+
+
+468   :   Place : #Banani_Star_Kabab
+
+Food items:  1. Mutton Leg Roast: Worth a try :D . Price: 150 tk
+                     2. Special Porota : 20*2= 40 tk
+
+
+['  Special']
+
+
+
+
+469   :   Finally a company that sells Sorbet!
+
+price:175taka
+
+
+[]
+
+
+
+
+470   :   China garden restaurant
+
+
+[]
+
+
+
+
+472   :   Any news about food festival 2014??
+
+
+[]
+
+
+
+
+473   :   Searching for "Bloop" in Uttara :(
+
+
+[]
+
+
+
+
+474   :   any place in bangladesh sells a single slice??? (THIN-CRUST)
+
+It's high time restaurants start this concept, selling ONE piece at a time.
+
+
+['  bangladesh', '  single', '  THIN-CRUST', '  high']
+
+
+
+
+475   :   Red velvet cupcake with cream cheese frosting!
+~Baked by yours truly~
+
+
+['  ~Baked']
+
+
+
+
+476   :   Where can I get spicy chicken?  I mean like really spicy.. And that tastes good.. Unlike Kfc or cp
+
+
+[]
+
+
+
+
+477   :   Rainbow cake at Tabz Delightz https://m.facebook.com/TabzDelightz
+
+
+['  //m.facebook.com/TabzDelightz']
+
+
+
+
+478   :   Khub khida lagsilo :( ... Versity theke aisay dekhi table a sajano :o... Thanx mami :)
+
+
+[]
+
+
+
+
+479   :   Guys please recommend me some rice-based set menus at Jamuna Future Park. I'm heading out in ten minutes so some quick responses would be great!
+
+
+['  rice-based', '  quick', '  great']
+
+
+
+
+480   :   If you didn't knew..
+
+
+[]
+
+
+
+
+481   :   Brace yourselves residents of Mirpur!
+
+BFC is opening an outlet in Mirpur circle 10 :) I've just checked their menu, it said, "Coming Soon". I forgot to take a snap :P
+
+Hopefully by mid November.
+
+
+['  mid']
+
+
+
+
+482   :   Best Fuchka in bailey road ?
+Thanks in advance :)
+
+
+['  Best']
+
+
+
+
+483   :   My first try "Rainbow Cupcake"
+
+27 Aug 2012
+
+
+['  first']
+
+
+
+
+484   :   abacus dhanmondi,, ei resturnt er lunch set menu nie kno idea deua jbe plzzzz,,about food quality, quantity & price,,, plz hlp me,, thanks in advance,,  :-) :-)
+
+
+[]
+
+
+
+
+485   :   Whats a good mexican place to eat besides el toro? Is quesilla better or amigos
+
+
+['  good']
+
+
+
+
+486   :   Jamuna future a best Chinese or Thai food kon shop a pabo?
+
+
+['  best', '  Chinese']
+
+
+
+
+488   :   BBQ flavoured hotdog .good 6/10 
+Salsa Sandwich. Worst taste .1/10
+Iced Latte 4/10
+
+
+[]
+
+
+
+
+489   :   Formosa QQ MUGHAL MAHAL Indian Spicy
+
+
+[]
+
+
+
+
+490   :   any good place to have lunch in farmgate area .... reasonable and boshe adda dea jabe erokom ?
+
+
+['  good', '  reasonable']
+
+
+
+
+491   :   hlw evryone!
+
+can anyone help me for finding such a place where I can show somethng lyk vedio with music on big/small screen and there ll be food of course..pls kew ki amon place bolte parben?with cost..idea dile help hoto.want to arrange a surprize bday party.thnx in advance :)
+
+
+['  such', '  somethng', '  music', '  big/small', '  hoto.want']
+
+
+
+
+492   :   mascarpone cream cheese and lady finger kothay pabo ??
+
+
+[]
+
+
+
+
+493   :   My Lunch plate cooked by mee....... ^_^
+
+
+[]
+
+
+
+
+494   :   Add me For More Recipes
+
+
+[]
+
+
+
+
+495   :   Popeyes Cold Coffee ta koi??
+
+
+[]
+
+
+
+
+496   :   Please bankers suggest me a place in/around dhanmondi where I can give a lunch treat to 7 people within 3k (except boomers, lailaty, red tomato, labamba) please mention the good dishes nd their price including vat n service charge.
+Thanks in advance :)
+
+
+['  good']
+
+
+
+
+497   :   Bangali bisal creative !! Date na ashtei manufactured kore felse.. 
+
+Though these cup cakes are tasty enough. :/
+
+
+['  creative', '  tasty', '  enough']
+
+
+
+
+498   :   I've lost my appetite. next 7hr coffee sara ar kisu khawa jabe na.
+I think we need a strong action to protect our health from these bastards.
+Seriously, oi ticticky to dekha gese kintu na dekhe koto gula telapoka ar ticticky er part customer der petey jaitese sheita ke jane...
+
+
+['  next', '  strong', '  gese']
+
+
+
+
+500   :   Which bakery is best for decorative birthday cakes??
+
+
+['  best', '  decorative']
+
+
+
+
+501   :   best place to eat hot n spicy food in dhaka!!!
+
+
+['  best', '  hot']
+
+
+
+
+502   :   Looking for a decent place in Banani to have lunch withing 2500 for 10 people.
+
+
+[]
+
+
+
+
+503   :   I discovered 'Hot Bread' accidentally when I went in to buy a cold drink over a year ago requiring wi-fi access as well.  I ended up returning for an evening meal & ordering their generously served Chicken Kiev dish @ 450 taka - a bargain!!  Since then it's my favourite stopping place wen in BD & based in Banani.  I've also introduced it to other family members who are also impressed
+
+ The chicken was perfectly cooked and flavours spot on.  I loved the deshi influence with spinach (saag) style bhaji and touch of gravy within the mashed potato well!  
+
+From the 2 pictures attached - the portion & presentation has stayed consistent.  One pic taken this week and the other pic was from last year
+
+
+["  'Hot", '  cold', '  favourite', '  other', '  touch', '  gravy', '  mashed', '  pic', '  other', '  pic', '  last']
+
+
+
+
+504   :   Looking for a nice place for family dining. The food has to be good.
+Area of preference: Uttara, Gulshan, Banani.
+
+
+['  nice', '  good']
+
+
+
+
+505   :   Dhanmondi Rabindra sarobar a aj theke j food festival start hoar katha silo seta ki cancel hoa gease?
+
+
+[]
+
+
+
+
+506   :   Need the names of a few restaurants in town(along with location) serving awesome foods within te price range of 1.5K(for 2 person)
+TIA
+
+
+['  few']
+
+
+
+
+507   :   on my way to Kiva Han.can u guys help me out what should I order their for lunch?!thanks in advance :)
+
+
+['  Han.can']
+
+
+
+
+508   :   Beef blast filletto
+Teste like american burger
+And the salt of curly fries was little bit high.
+Overall 7 out of 10
+
+
+['  american', '  little', '  high']
+
+
+
+
+509   :   Yesterday.....i had the worst  beef shwarma of my life at Arabians Fast Food....no mayonnaise or sauce....it  was too salty and dry..
+Taste-0/10
+
+
+['  worst', '  .it', '  salty']
+
+
+
+
+510   :   Burger cart suggestions in dhanmondi?
+
+
+[]
+
+
+
+
+511   :   We are gonna  celebrate my friend's bday next week....
+which is the best restaurant to hang out and celebrate this special occasion around Dhanmondi 
+TIA
+
+
+['  best', '  special']
+
+
+
+
+512   :   smoke music cafe'r best burger konta?
+
+
+["(S smoke/NN music/NN cafe'r/NN best"]
+
+
+
+
+513   :   wanna give bday treat.
+Indian food is prefered.
+in reasonable price,near mohammadpur,dhanmondi.pls suggest some name
+
+
+['  (NE Indian', '  reasonable']
+
+
+
+
+514   :   Good pattiserie near gulshan 2? I mean with actual puff pastry not the jelly doughnuts and buttered buns they try to pass off as Danish and croissants respectively
+
+
+['  actual', '  (NE Danish']
+
+
+
+
+517   :   Can anyone tell me where can i find Bloop icecreams in mohammadpur?
+
+
+[]
+
+
+
+
+518   :   Some meaty goodness! Simple & tasty. Value for money, thanks to Subcity. Best sandwiches in town! :D
+
+
+[]
+
+
+
+
+519   :   Any one know this thing? Does it work?
+
+
+[]
+
+
+
+
+520   :   Beef cheese burger & Hot dog 
+:-)
+
+
+['  burger']
+
+
+
+
+521   :   Got home delivery from Let's MEAT Up .
+Must say #goodmoodfood.
+
+Sevice: 9/10
+Food: 10/10
+
+JUST LOVED THEM.<3
+
+
+[]
+
+
+
+
+522   :   My gulshan FoodBank mate pls help........
+Bcos of getting new job ....amader choto mama agamikaal amader lunch korabe .......
+Ami thaki Shantinagar, so need info Gulshan food sight.......which rasturant will b at  reasonable price & also tasty food provide..........
+
+
+['  new', '  .amader', '  .which', '  reasonable', '  tasty']
+
+
+
+
+523   :   What is a must try in mawa feri ghat area, going for first time. I know it's 'Hilsa' fish, what are the other items :)
+
+
+['  first', "  'Hilsa", '  fish', '  other']
+
+
+
+
+524   :   plz suggest a good place for beef and chicken chaap in mirpur along with location.......
+
+
+['  good']
+
+
+
+
+526   :   anyone tried 'VOOT' @ banani 11? want infos about quality and price. thnx in advance
+
+
+["  'VOOT", '  want']
+
+
+
+
+527   :   One of the best burger i ever tasted.... naga inc, gulshan-2
+
+
+['  best']
+
+
+
+
+528   :   Item 1: Afgani kabab,
+Price: 350+
+Rating: 10/10
+Item 2: Hydrabadi Biriyani 
+Price: 410+
+Rating: 10/10
+
+
+[]
+
+
+
+
+530   :   local milk chocoltes from thailand-halal or not?can anyone help me!
+
+
+['  local', '  thailand-halal']
+
+
+
+
+531   :   ...where can I get best muffins in banani ?
+
+
+['  best']
+
+
+
+
+532   :   Place: Super Sandwich
+
+Item: Super Burger 
+
+Undoubtedly one of the juiciest burger in Town
+
+
+['  juiciest']
+
+
+
+
+534   :   Food bankers suggestions needed 
+regarding a good place to celebrate birthday and have dinner for 8 people. budget is max 8K and preferable place around Gulshan .  thanks in advance :)
+
+
+['  good', '  preferable']
+
+
+
+
+536   :   A little help would be great :)
+Ammu want to treat us on her birthday. she likes indian food. so suggest a place for good indian food for lunch. :) a little query....how is food at  Tarka , Handi Indian Bistro and #Bibi_Biriyani ?
+
+thanks in advance :)
+
+
+['  great', '  indian', '  query', '  .how']
+
+
+
+
+537   :   Help !!! ei cherry dhakay kothay paowa jabe??
+
+
+[]
+
+
+
+
+538   :   Must try @ khilgaon
+Popeyes coffee and shake....tooo yummyyy only 45/=
+Momos - yummyness overloaded 50/= for 4 momos...spicy,juicy and soft loved it
+
+
+['  soft', '  loved']
+
+
+
+
+539   :   dhanmondir dike reasonable price a (without vat) kothai lunch kora jete pare????
+
+
+['  reasonable']
+
+
+
+
+541   :   Seafood baked rice , backed salmon and grilled calamari !!!
+
+
+[]
+
+
+
+
+542   :   Strawberry pastry! They were selling these out today at my college campus so we can raise fund for donating to a cancer foundation. It tasted soooo gooodd!! :D Costed me 5$ though for a single piece :/ but couldnt resist to the tempting strawberries and a noble cause ^_^
+
+
+['  gooodd', '  single', '  noble']
+
+
+
+
+543   :   Best fuchka....its bit different..everyone should try this...
+
+Rasel's fuchka
+Location: banani road 21
+
+30tk per plate...taste owns the money...
+
+10/10 (till now best)
+
+
+['  Best', '  plate', '  best']
+
+
+
+
+544   :   Good Buffet in Gulshan / Banani.Suggest me,if u have any xperinces on there ?
+
+
+[]
+
+
+
+
+545   :   Buffet dinner packages at dhanmondi/Mohammedpur/shyamoly. Party of 80. Suggest please.
+
+
+['  dhanmondi/Mohammedpur/shyamoly']
+
+
+
+
+546   :   #101
+Good night 
+Hungers ;)
+
+
+[]
+
+
+
+
+547   :   where can i find the best steak in gulshan ?? 
+p.s. never tried steak before so it'd be great if i could make my first one memorable :3
+
+
+['  best', '  steak', '  great', '  first', '  memorable']
+
+
+
+
+548   :   really :v
+
+
+[]
+
+
+
+
+550   :   MUSHROOM CREAM SOUP kothay pawa jay?
+
+
+[]
+
+
+
+
+551   :   shimato square er takeout e ki ki ype burgur paoa jay? price soho keu janan plz
+
+
+['  square']
+
+
+
+
+552   :   Pasta Basta: 6/10
+Pasta Europa: 8/10
+Price: each 245 bdt
+
+The only good thing about this place is....... "NO VAT AND NO SERVICE CHARGE" :D
+
+
+['  only', '  good']
+
+
+
+
+553   :   Je kono cafe or restaurant er membership card kinte ki taka lagbe?? 
+And lagle koto lagte pare?
+
+
+['  restaurant', '  lagle']
+
+
+
+
+557   :   Beverages @ Nurani Cold Drinks, Chawk Bazar, Dhaka.
+
+The best lemonade in town. Don't forget to taste your share if you are around. Cheers! :) 
+
+1, lemonade
+2. lassi
+
+#nuranicolddrinks #chawkbazar #traditional #Awesome #beverage #lemonade #lassi #olddhaka #oldtown #Dhaka #TourdeDhaka
+
+
+['  best', '  traditional']
+
+
+
+
+558   :   plzz suggest some places in uttara,arrangement for 10 persons,amount 230tk each person___T.I.A :D
+
+
+[]
+
+
+
+
+559   :   People around KajiPara are about to experience the taste from around the world from this Friday on-wards :) Do visit. Cheers .
+
+
+[]
+
+
+
+
+560   :   Shrimp dumplings! Hongmin, MBK
+
+
+[]
+
+
+
+
+561   :   Burgers from food republic--- Abomination (369tk) 8/10 classic (189tk) 10/10
+
+Drinks from paparoti - lemonade (180tk), strawberry italian soda (180tk) and mojitto mocktail (290tk) all of em are 10/10
+
+
+['  republic', '  classic', '  strawberry', '  italian']
+
+
+
+
+563   :   Place: Wifi Street Food Dhanmondi
+
+Item Name: Garlic Chicken Cheese Burger
+Taste: 9/10 
+Price: 9/10 (Compared to taste)
+Service: 8.5/10
+
+Changed bun made their burger more tasty!
+
+Price: 150 (135 with discount as a cyclist)
+
+
+['  more']
+
+
+
+
+564   :   Old German school !! Thailand
+
+
+[]
+
+
+
+
+566   :   Looking for a breakfast place in Banani like Kings Confectionery. I want to try out a new place! TIA!!
+
+
+['  breakfast', '  new']
+
+
+
+
+568   :   Heard a lot about them, today went to visit them, tasted all their flavors, (Strawberry, Mango, Chocolate, Coffee). Now if you ask me which one is the best, then i will tell you each n every flavors. I asked the owner, what you call them? He replied, Milkshake. Yes its milkshake also you can say smoothie cause its too thick. Perfect flavor, perfect blending, perfect cold. In my view they can challenge any big restaurant of Dhaka in milkshake segment. I had two shakes before my lunch then after my lunch again went to test another two flavors, cause they are really so tasty n i live lil far from that place so every day i cant visit them. For everyone its a must try item. Price so reasonable only 45tk per glass. 
+
+Rating 10 out of 10
+
+Apon Coffee Shop 
+Khilgaon, Dhaka.
+
+
+['  best', '  thick', '  perfect', '  big', '  tasty', '  lil', '  reasonable']
+
+
+
+
+569   :   Hi foodies... Can u suggest me any place where I can hv a get together party with my Frnds in a limited budget....
+
+
+['  suggest', '  limited']
+
+
+
+
+571   :   what should i try in bitter sweet?
+
+
+[]
+
+
+
+
+572   :   Cold chocolate coffee at apon coffee.
+Dont  know why this hype for
+To me it was too sugary
+
+
+['  sugary']
+
+
+
+
+573   :   This Sandwich size made me Feel Nauseous.It was quite expensive but not what I expected.Even Taste doesn't worth the Money.
+
+Be aware guys.Dont try any sandwich over there.
+
+
+['  Nauseous.It', '  expensive']
+
+
+
+
+574   :   Our tigers getting ready for a feast!
+
+
+['(S Our/PRP$ tigers/NNS getting/VBG ready/RB for/IN a/DT feast']
+
+
+
+
+575   :   Item: Nachos.
+Price: 275 taka.
+Rating: 7/10 
+reasonable price but the taste is not up to the mark. Thank You people....
+
+
+['  reasonable']
+
+
+
+
+576   :   Came direct from Merica....:3....tai taste na kore parlam na....but really it is too much sweet to swallow....bhebechilam purata shesh korbo but I just cnt do it....
+
+
+['  direct', '  .but', '  much', '  .bhebechilam', '  cnt']
+
+
+
+
+577   :   nachos Shimanto Square. inside the mall. beside the qq t shop (i forgot the name) 
+taste : 8.5/10
+price : 160tk :)
+
+
+[]
+
+
+
+
+578   :   I want to know the approximate price per person for having lunch at Westin...TIA
+
+
+[]
+
+
+
+
+579   :   Super Sub from Super Sandwich. 
+prize : 225 Taka  
+
+simply superb. absolutely love it.
+
+
+[]
+
+
+
+
+580   :   New steak restaurant in town!
+
+
+['(S (NE New/NNP) steak/VBD restaurant']
+
+
+
+
+581   :   The most busiest chain restaurant as far as I have encountered in the US. I just realized, I never posted any photo of my frequent visits at Chipotle, so here is one ( not the best photo, but taste is best as always)
+
+
+['  busiest', '  best', '  best']
+
+
+
+
+582   :   Chicken reshmi kabab.
+160 tk each.
+Garlic naan.
+40tk each
+Mocha frappe.
+130 tk.
+Rating- 9/10
+
+
+[]
+
+
+
+
+583   :   Is there anyone else who felt that their second time at Meat Lovers was poor.
+Tried their super filleto and I wont say its horrible but it was exceptionally ordinary may be a slight below.
+Nowhere near as awesome as I tried their first time.
+Guess shukhe thakle bhoote kilai and too much early praises can backfire in future
+
+
+['  second', '  poor', '  horrible', '  ordinary', '  first', '  future']
+
+
+
+
+584   :   Lol express!!
+Newly launched foodcart
+Nikunja2. 
+Food is just awesome. 10/10
+
+
+[]
+
+
+
+
+585   :   Undoubtedly the best brownie I've ever had, just @ 70tk. 
+From North end coffee roasters <3
+
+
+['  best']
+
+
+
+
+586   :   Pizza (1st 1 on the menu) & pasta marinara @ #bittersweet cafe.
+
+Pasta had lots of cheese as u can see which i loved.it might taste blunt if u take anythng individually.but if u mix everything in the bowl well its quite good.price is 380+15% vat.
+
+Pizza looked good but it was tasteless.the base was elastic n dry.it smelt like toast biscuits of any random confectionery which is why i hated it.it was totally disappointing.my all time favorirmte heinz ketchup & a bit of tabasco sauce helped me to swallow the food.price is 490+15%vat.not worth @ all.
+
+
+['  cheese', '  quite', '  good', '  tasteless.the', '  elastic', '  it.it', '  disappointing.my', '  vat.not']
+
+
+
+
+589   :   Heard lot of about pizzalavita, I tried  their margherita, it's changed my pizza experiences, uttara people must try, price is so reasonable and their quality & service both awesome.
+
+
+['  reasonable']
+
+
+
+
+590   :   foodbank a aj hoyeche ki? shobai bashar food upload deya start koreche...etar jonne to foodbank home naam er ekta group e ache..!kichu manush bujhbena kono din e j new rule hoise eta ! -_-
+
+
+['  new']
+
+
+
+
+591   :   1. Chicken Fried Rice+Chicken Fry+Vegetable
+Price: 225tk
+2. Chicken Chowmean
+Price: 250tk
+Both dishes were good & the environment was also good..
+Taste: 9.5/10
+Price: 9/10
+Service: 9/10
+@ #chondrobindu resturant
+- mirpur 10
+
+
+['  Fry+Vegetable', '  good']
