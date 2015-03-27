@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodBankJsonCollector", "FoodBankJsonCollector\FoodBankJsonCollector.csproj", "{731BB3CE-FE5B-4CE6-BE9F-6633C61A28CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodBank Analysis", "FoodBank Analysis\FoodBank Analysis.csproj", "{EF0C7DAF-40F6-4A9C-8F69-C02BE332CF1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{731BB3CE-FE5B-4CE6-BE9F-6633C61A28CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731BB3CE-FE5B-4CE6-BE9F-6633C61A28CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731BB3CE-FE5B-4CE6-BE9F-6633C61A28CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731BB3CE-FE5B-4CE6-BE9F-6633C61A28CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0C7DAF-40F6-4A9C-8F69-C02BE332CF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0C7DAF-40F6-4A9C-8F69-C02BE332CF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0C7DAF-40F6-4A9C-8F69-C02BE332CF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0C7DAF-40F6-4A9C-8F69-C02BE332CF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

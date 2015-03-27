@@ -1,0 +1,8 @@
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\bin\Debug\FoodBankJsonCollector.exe.config
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\bin\Debug\FoodBankJsonCollector.exe
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\bin\Debug\FoodBankJsonCollector.pdb
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\obj\Debug\FoodBankJsonCollector.csprojResolveAssemblyReference.cache
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\obj\Debug\FoodBankJsonCollector.exe
+C:\Users\Zervis\Documents\Visual Studio 2013\Projects\Restaurants Nearby Silverlight\New folder\Alternative\FoodBankJsonCollector\FoodBankJsonCollector\obj\Debug\FoodBankJsonCollector.pdb
