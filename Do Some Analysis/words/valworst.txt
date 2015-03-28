@@ -1,0 +1,7894 @@
+[
+  {
+    "word": "lowest",
+    "value": -2
+  },
+  {
+    "word": "bad",
+    "value": -2
+  },
+  {
+    "word": "inferior",
+    "value": -2
+  },
+  {
+    "word": "least",
+    "value": -2
+  },
+  {
+    "word": "unfavorable",
+    "value": -2
+  },
+  {
+    "word": "calamity",
+    "value": -2
+  },
+  {
+    "word": "catastrophe",
+    "value": -2
+  },
+  {
+    "word": "ruin",
+    "value": -2
+  },
+  {
+    "word": "distress",
+    "value": -2
+  },
+  {
+    "word": "destruction",
+    "value": -2
+  },
+  {
+    "word": "conquer ",
+    "value": -2
+  },
+  {
+    "word": "beat ",
+    "value": -2
+  },
+  {
+    "word": "bring to knees ",
+    "value": -2
+  },
+  {
+    "word": "checkmate ",
+    "value": -2
+  },
+  {
+    "word": "circumvent ",
+    "value": -2
+  },
+  {
+    "word": "clobber ",
+    "value": -2
+  },
+  {
+    "word": "control ",
+    "value": -2
+  },
+  {
+    "word": "cream ",
+    "value": -2
+  },
+  {
+    "word": "crush ",
+    "value": -2
+  },
+  {
+    "word": "discomfit ",
+    "value": -2
+  },
+  {
+    "word": "drub ",
+    "value": -2
+  },
+  {
+    "word": "foil ",
+    "value": -2
+  },
+  {
+    "word": "frustrate ",
+    "value": -2
+  },
+  {
+    "word": "get the better of ",
+    "value": -2
+  },
+  {
+    "word": "humble ",
+    "value": -2
+  },
+  {
+    "word": "lick ",
+    "value": -2
+  },
+  {
+    "word": "master ",
+    "value": -2
+  },
+  {
+    "word": "outwit ",
+    "value": -2
+  },
+  {
+    "word": "overmaster ",
+    "value": -2
+  },
+  {
+    "word": "overpower ",
+    "value": -2
+  },
+  {
+    "word": "override ",
+    "value": -2
+  },
+  {
+    "word": "overthrow ",
+    "value": -2
+  },
+  {
+    "word": "prevail ",
+    "value": -2
+  },
+  {
+    "word": "quell ",
+    "value": -2
+  },
+  {
+    "word": "reduce ",
+    "value": -2
+  },
+  {
+    "word": "rout ",
+    "value": -2
+  },
+  {
+    "word": "shut down ",
+    "value": -2
+  },
+  {
+    "word": "subdue ",
+    "value": -2
+  },
+  {
+    "word": "subjugate ",
+    "value": -2
+  },
+  {
+    "word": "succeed ",
+    "value": -2
+  },
+  {
+    "word": "surmount ",
+    "value": -2
+  },
+  {
+    "word": "throw ",
+    "value": -2
+  },
+  {
+    "word": "thwart ",
+    "value": -2
+  },
+  {
+    "word": "total ",
+    "value": -2
+  },
+  {
+    "word": "trample underfoot ",
+    "value": -2
+  },
+  {
+    "word": "trash ",
+    "value": -2
+  },
+  {
+    "word": "triumph ",
+    "value": -2
+  },
+  {
+    "word": "vanquish ",
+    "value": -2
+  },
+  {
+    "word": "whip ",
+    "value": -2
+  },
+  {
+    "word": "wipe off map ",
+    "value": -2
+  },
+  {
+    "word": "worst ",
+    "value": -2
+  },
+  {
+    "word": "zap ",
+    "value": -2
+  },
+  {
+    "word": "abash ",
+    "value": -2
+  },
+  {
+    "word": "annoy ",
+    "value": -2
+  },
+  {
+    "word": "baffle ",
+    "value": -2
+  },
+  {
+    "word": "balk ",
+    "value": -2
+  },
+  {
+    "word": "bother ",
+    "value": -2
+  },
+  {
+    "word": "confound ",
+    "value": -2
+  },
+  {
+    "word": "demoralize ",
+    "value": -2
+  },
+  {
+    "word": "discompose ",
+    "value": -2
+  },
+  {
+    "word": "disconcert ",
+    "value": -2
+  },
+  {
+    "word": "discountenance ",
+    "value": -2
+  },
+  {
+    "word": "disturb ",
+    "value": -2
+  },
+  {
+    "word": "embarrass ",
+    "value": -2
+  },
+  {
+    "word": "faze ",
+    "value": -2
+  },
+  {
+    "word": "fluster ",
+    "value": -2
+  },
+  {
+    "word": "irk ",
+    "value": -2
+  },
+  {
+    "word": "overcome ",
+    "value": -2
+  },
+  {
+    "word": "perplex ",
+    "value": -2
+  },
+  {
+    "word": "perturb ",
+    "value": -2
+  },
+  {
+    "word": "prevent ",
+    "value": -2
+  },
+  {
+    "word": "rattle ",
+    "value": -2
+  },
+  {
+    "word": "ruffle ",
+    "value": -2
+  },
+  {
+    "word": "take aback ",
+    "value": -2
+  },
+  {
+    "word": "trump ",
+    "value": -2
+  },
+  {
+    "word": "unsettle ",
+    "value": -2
+  },
+  {
+    "word": "upset ",
+    "value": -2
+  },
+  {
+    "word": "vex ",
+    "value": -2
+  },
+  {
+    "word": "worry ",
+    "value": -2
+  },
+  {
+    "word": "finish ",
+    "value": -2
+  },
+  {
+    "word": "annihilate ",
+    "value": -2
+  },
+  {
+    "word": "assassinate ",
+    "value": -2
+  },
+  {
+    "word": "best ",
+    "value": -2
+  },
+  {
+    "word": "bring down ",
+    "value": -2
+  },
+  {
+    "word": "carry off ",
+    "value": -2
+  },
+  {
+    "word": "destroy ",
+    "value": -2
+  },
+  {
+    "word": "dispatch ",
+    "value": -2
+  },
+  {
+    "word": "dispose of ",
+    "value": -2
+  },
+  {
+    "word": "do in ",
+    "value": -2
+  },
+  {
+    "word": "down ",
+    "value": -2
+  },
+  {
+    "word": "execute ",
+    "value": -2
+  },
+  {
+    "word": "exterminate ",
+    "value": -2
+  },
+  {
+    "word": "get rid of ",
+    "value": -2
+  },
+  {
+    "word": "liquidate ",
+    "value": -2
+  },
+  {
+    "word": "put an end to ",
+    "value": -2
+  },
+  {
+    "word": "put away ",
+    "value": -2
+  },
+  {
+    "word": "rub out ",
+    "value": -2
+  },
+  {
+    "word": "ruin ",
+    "value": -2
+  },
+  {
+    "word": "slaughter ",
+    "value": -2
+  },
+  {
+    "word": "slay ",
+    "value": -2
+  },
+  {
+    "word": "take off ",
+    "value": -2
+  },
+  {
+    "word": "take out ",
+    "value": -2
+  },
+  {
+    "word": "vaporize ",
+    "value": -2
+  },
+  {
+    "word": "outwit/outsmart ",
+    "value": -2
+  },
+  {
+    "word": "bamboozle ",
+    "value": -2
+  },
+  {
+    "word": "bewilder ",
+    "value": -2
+  },
+  {
+    "word": "cap ",
+    "value": -2
+  },
+  {
+    "word": "cheat ",
+    "value": -2
+  },
+  {
+    "word": "con ",
+    "value": -2
+  },
+  {
+    "word": "confuse ",
+    "value": -2
+  },
+  {
+    "word": "deceive ",
+    "value": -2
+  },
+  {
+    "word": "defeat ",
+    "value": -2
+  },
+  {
+    "word": "defraud ",
+    "value": -2
+  },
+  {
+    "word": "dupe ",
+    "value": -2
+  },
+  {
+    "word": "end-run ",
+    "value": -2
+  },
+  {
+    "word": "fake out ",
+    "value": -2
+  },
+  {
+    "word": "finagle ",
+    "value": -2
+  },
+  {
+    "word": "fox ",
+    "value": -2
+  },
+  {
+    "word": "goose ",
+    "value": -2
+  },
+  {
+    "word": "gull ",
+    "value": -2
+  },
+  {
+    "word": "have ",
+    "value": -2
+  },
+  {
+    "word": "hoax ",
+    "value": -2
+  },
+  {
+    "word": "hoodwink ",
+    "value": -2
+  },
+  {
+    "word": "lead astray ",
+    "value": -2
+  },
+  {
+    "word": "make a fool of ",
+    "value": -2
+  },
+  {
+    "word": "make a monkey of ",
+    "value": -2
+  },
+  {
+    "word": "mislead ",
+    "value": -2
+  },
+  {
+    "word": "outdo ",
+    "value": -2
+  },
+  {
+    "word": "outfox ",
+    "value": -2
+  },
+  {
+    "word": "outgeneral ",
+    "value": -2
+  },
+  {
+    "word": "outguess ",
+    "value": -2
+  },
+  {
+    "word": "outjockey ",
+    "value": -2
+  },
+  {
+    "word": "outmaneuver ",
+    "value": -2
+  },
+  {
+    "word": "outthink ",
+    "value": -2
+  },
+  {
+    "word": "overreach ",
+    "value": -2
+  },
+  {
+    "word": "pull a fast one on ",
+    "value": -2
+  },
+  {
+    "word": "put one over on ",
+    "value": -2
+  },
+  {
+    "word": "run circles around ",
+    "value": -2
+  },
+  {
+    "word": "swindle ",
+    "value": -2
+  },
+  {
+    "word": "take in ",
+    "value": -2
+  },
+  {
+    "word": "top ",
+    "value": -2
+  },
+  {
+    "word": "trick ",
+    "value": -2
+  },
+  {
+    "word": "be victorious ",
+    "value": -2
+  },
+  {
+    "word": "come out on top ",
+    "value": -2
+  },
+  {
+    "word": "drown ",
+    "value": -2
+  },
+  {
+    "word": "get around ",
+    "value": -2
+  },
+  {
+    "word": "hurdle ",
+    "value": -2
+  },
+  {
+    "word": "knock over ",
+    "value": -2
+  },
+  {
+    "word": "knock socks off ",
+    "value": -2
+  },
+  {
+    "word": "outlive ",
+    "value": -2
+  },
+  {
+    "word": "overwhelm ",
+    "value": -2
+  },
+  {
+    "word": "prostrate ",
+    "value": -2
+  },
+  {
+    "word": "render ",
+    "value": -2
+  },
+  {
+    "word": "rise above ",
+    "value": -2
+  },
+  {
+    "word": "shock ",
+    "value": -2
+  },
+  {
+    "word": "stun ",
+    "value": -2
+  },
+  {
+    "word": "survive ",
+    "value": -2
+  },
+  {
+    "word": "triumph over ",
+    "value": -2
+  },
+  {
+    "word": "weather ",
+    "value": -2
+  },
+  {
+    "word": "whelm ",
+    "value": -2
+  },
+  {
+    "word": "win ",
+    "value": -2
+  },
+  {
+    "word": "bash ",
+    "value": -2
+  },
+  {
+    "word": "blow out of water ",
+    "value": -2
+  },
+  {
+    "word": "bulldoze ",
+    "value": -2
+  },
+  {
+    "word": "bury ",
+    "value": -2
+  },
+  {
+    "word": "chase ",
+    "value": -2
+  },
+  {
+    "word": "clean up on ",
+    "value": -2
+  },
+  {
+    "word": "cut to pieces ",
+    "value": -2
+  },
+  {
+    "word": "dispel ",
+    "value": -2
+  },
+  {
+    "word": "drive off ",
+    "value": -2
+  },
+  {
+    "word": "expel ",
+    "value": -2
+  },
+  {
+    "word": "hunt ",
+    "value": -2
+  },
+  {
+    "word": "kill ",
+    "value": -2
+  },
+  {
+    "word": "lambaste ",
+    "value": -2
+  },
+  {
+    "word": "larrup ",
+    "value": -2
+  },
+  {
+    "word": "murder ",
+    "value": -2
+  },
+  {
+    "word": "put to flight ",
+    "value": -2
+  },
+  {
+    "word": "repulse ",
+    "value": -2
+  },
+  {
+    "word": "scatter ",
+    "value": -2
+  },
+  {
+    "word": "scuttle ",
+    "value": -2
+  },
+  {
+    "word": "shut out ",
+    "value": -2
+  },
+  {
+    "word": "skunk ",
+    "value": -2
+  },
+  {
+    "word": "swamp ",
+    "value": -2
+  },
+  {
+    "word": "torpedo ",
+    "value": -2
+  },
+  {
+    "word": "trounce ",
+    "value": -2
+  },
+  {
+    "word": "wallop ",
+    "value": -2
+  },
+  {
+    "word": "wax ",
+    "value": -2
+  },
+  {
+    "word": "wipe out ",
+    "value": -2
+  },
+  {
+    "word": "show up ",
+    "value": -2
+  },
+  {
+    "word": "belittle ",
+    "value": -2
+  },
+  {
+    "word": "convict ",
+    "value": -2
+  },
+  {
+    "word": "debunk ",
+    "value": -2
+  },
+  {
+    "word": "discover ",
+    "value": -2
+  },
+  {
+    "word": "discredit ",
+    "value": -2
+  },
+  {
+    "word": "highlight ",
+    "value": -2
+  },
+  {
+    "word": "invalidate ",
+    "value": -2
+  },
+  {
+    "word": "lay bare ",
+    "value": -2
+  },
+  {
+    "word": "let down ",
+    "value": -2
+  },
+  {
+    "word": "mortify ",
+    "value": -2
+  },
+  {
+    "word": "pinpoint ",
+    "value": -2
+  },
+  {
+    "word": "put spotlight on ",
+    "value": -2
+  },
+  {
+    "word": "put to shame ",
+    "value": -2
+  },
+  {
+    "word": "reveal ",
+    "value": -2
+  },
+  {
+    "word": "shame ",
+    "value": -2
+  },
+  {
+    "word": "show in bad light ",
+    "value": -2
+  },
+  {
+    "word": "uncloak ",
+    "value": -2
+  },
+  {
+    "word": "undress ",
+    "value": -2
+  },
+  {
+    "word": "unmask ",
+    "value": -2
+  },
+  {
+    "word": "unshroud ",
+    "value": -2
+  },
+  {
+    "word": "accomplish ",
+    "value": -2
+  },
+  {
+    "word": "achieve ",
+    "value": -2
+  },
+  {
+    "word": "acquire ",
+    "value": -2
+  },
+  {
+    "word": "arrive ",
+    "value": -2
+  },
+  {
+    "word": "avail ",
+    "value": -2
+  },
+  {
+    "word": "be successful ",
+    "value": -2
+  },
+  {
+    "word": "benefit ",
+    "value": -2
+  },
+  {
+    "word": "come off ",
+    "value": -2
+  },
+  {
+    "word": "distance ",
+    "value": -2
+  },
+  {
+    "word": "do all right ",
+    "value": -2
+  },
+  {
+    "word": "do the trick ",
+    "value": -2
+  },
+  {
+    "word": "earn ",
+    "value": -2
+  },
+  {
+    "word": "flourish ",
+    "value": -2
+  },
+  {
+    "word": "fulfill ",
+    "value": -2
+  },
+  {
+    "word": "gain ",
+    "value": -2
+  },
+  {
+    "word": "get ",
+    "value": -2
+  },
+  {
+    "word": "get to the top ",
+    "value": -2
+  },
+  {
+    "word": "grow famous ",
+    "value": -2
+  },
+  {
+    "word": "hit ",
+    "value": -2
+  },
+  {
+    "word": "make a fortune ",
+    "value": -2
+  },
+  {
+    "word": "make good ",
+    "value": -2
+  },
+  {
+    "word": "make it ",
+    "value": -2
+  },
+  {
+    "word": "make out ",
+    "value": -2
+  },
+  {
+    "word": "obtain ",
+    "value": -2
+  },
+  {
+    "word": "outdistance ",
+    "value": -2
+  },
+  {
+    "word": "possess ",
+    "value": -2
+  },
+  {
+    "word": "profit ",
+    "value": -2
+  },
+  {
+    "word": "prosper ",
+    "value": -2
+  },
+  {
+    "word": "pull off ",
+    "value": -2
+  },
+  {
+    "word": "realize ",
+    "value": -2
+  },
+  {
+    "word": "reap ",
+    "value": -2
+  },
+  {
+    "word": "receive ",
+    "value": -2
+  },
+  {
+    "word": "recover ",
+    "value": -2
+  },
+  {
+    "word": "retrieve ",
+    "value": -2
+  },
+  {
+    "word": "score ",
+    "value": -2
+  },
+  {
+    "word": "secure ",
+    "value": -2
+  },
+  {
+    "word": "thrive ",
+    "value": -2
+  },
+  {
+    "word": "turn out ",
+    "value": -2
+  },
+  {
+    "word": "work ",
+    "value": -2
+  },
+  {
+    "word": "blast ",
+    "value": -2
+  },
+  {
+    "word": "hammer ",
+    "value": -2
+  },
+  {
+    "word": "mop up ",
+    "value": -2
+  },
+  {
+    "word": "overrun ",
+    "value": -2
+  },
+  {
+    "word": "settle ",
+    "value": -2
+  },
+  {
+    "word": "steamroller ",
+    "value": -2
+  },
+  {
+    "word": "take apart ",
+    "value": -2
+  },
+  {
+    "word": "thrash ",
+    "value": -2
+  },
+  {
+    "word": "trim ",
+    "value": -2
+  },
+  {
+    "word": "whomp ",
+    "value": -2
+  },
+  {
+    "word": "end run ",
+    "value": -2
+  },
+  {
+    "word": "figure out ",
+    "value": -2
+  },
+  {
+    "word": "gyp ",
+    "value": -2
+  },
+  {
+    "word": "jip ",
+    "value": -2
+  },
+  {
+    "word": "juke ",
+    "value": -2
+  },
+  {
+    "word": "outsmart ",
+    "value": -2
+  },
+  {
+    "word": "abominable ",
+    "value": -2
+  },
+  {
+    "word": "abhorrent ",
+    "value": -2
+  },
+  {
+    "word": "atrocious ",
+    "value": -2
+  },
+  {
+    "word": "awful ",
+    "value": -2
+  },
+  {
+    "word": "bad ",
+    "value": -2
+  },
+  {
+    "word": "base ",
+    "value": -2
+  },
+  {
+    "word": "beastly ",
+    "value": -2
+  },
+  {
+    "word": "contemptible ",
+    "value": -2
+  },
+  {
+    "word": "cursed ",
+    "value": -2
+  },
+  {
+    "word": "despicable ",
+    "value": -2
+  },
+  {
+    "word": "disgusting ",
+    "value": -2
+  },
+  {
+    "word": "foul ",
+    "value": -2
+  },
+  {
+    "word": "grim ",
+    "value": -2
+  },
+  {
+    "word": "grody ",
+    "value": -2
+  },
+  {
+    "word": "gross ",
+    "value": -2
+  },
+  {
+    "word": "hairy ",
+    "value": -2
+  },
+  {
+    "word": "hateful ",
+    "value": -2
+  },
+  {
+    "word": "heinous ",
+    "value": -2
+  },
+  {
+    "word": "hellish ",
+    "value": -2
+  },
+  {
+    "word": "horrible ",
+    "value": -2
+  },
+  {
+    "word": "horrid ",
+    "value": -2
+  },
+  {
+    "word": "loathsome ",
+    "value": -2
+  },
+  {
+    "word": "lousy ",
+    "value": -2
+  },
+  {
+    "word": "nauseating ",
+    "value": -2
+  },
+  {
+    "word": "obnoxious ",
+    "value": -2
+  },
+  {
+    "word": "odious ",
+    "value": -2
+  },
+  {
+    "word": "offensive ",
+    "value": -2
+  },
+  {
+    "word": "repellent ",
+    "value": -2
+  },
+  {
+    "word": "reprehensible ",
+    "value": -2
+  },
+  {
+    "word": "repugnant ",
+    "value": -2
+  },
+  {
+    "word": "repulsive ",
+    "value": -2
+  },
+  {
+    "word": "revolting ",
+    "value": -2
+  },
+  {
+    "word": "rotten ",
+    "value": -2
+  },
+  {
+    "word": "sleazy ",
+    "value": -2
+  },
+  {
+    "word": "stinking ",
+    "value": -2
+  },
+  {
+    "word": "terrible ",
+    "value": -2
+  },
+  {
+    "word": "vile ",
+    "value": -2
+  },
+  {
+    "word": "wretched ",
+    "value": -2
+  },
+  {
+    "word": "adversity ",
+    "value": -2
+  },
+  {
+    "word": "affliction ",
+    "value": -2
+  },
+  {
+    "word": "bad break ",
+    "value": -2
+  },
+  {
+    "word": "bummer ",
+    "value": -2
+  },
+  {
+    "word": "calamity ",
+    "value": -2
+  },
+  {
+    "word": "can of worms ",
+    "value": -2
+  },
+  {
+    "word": "catastrophe ",
+    "value": -2
+  },
+  {
+    "word": "clutch ",
+    "value": -2
+  },
+  {
+    "word": "contretemps ",
+    "value": -2
+  },
+  {
+    "word": "crunch ",
+    "value": -2
+  },
+  {
+    "word": "difficulty ",
+    "value": -2
+  },
+  {
+    "word": "disaster ",
+    "value": -2
+  },
+  {
+    "word": "distress ",
+    "value": -2
+  },
+  {
+    "word": "downer ",
+    "value": -2
+  },
+  {
+    "word": "drag ",
+    "value": -2
+  },
+  {
+    "word": "evil eye ",
+    "value": -2
+  },
+  {
+    "word": "hard knocks ",
+    "value": -2
+  },
+  {
+    "word": "hard times ",
+    "value": -2
+  },
+  {
+    "word": "hardship ",
+    "value": -2
+  },
+  {
+    "word": "hurting ",
+    "value": -2
+  },
+  {
+    "word": "ill fortune ",
+    "value": -2
+  },
+  {
+    "word": "jam ",
+    "value": -2
+  },
+  {
+    "word": "jinx ",
+    "value": -2
+  },
+  {
+    "word": "kiss of death ",
+    "value": -2
+  },
+  {
+    "word": "misery ",
+    "value": -2
+  },
+  {
+    "word": "misfortune ",
+    "value": -2
+  },
+  {
+    "word": "mishap ",
+    "value": -2
+  },
+  {
+    "word": "on the skids ",
+    "value": -2
+  },
+  {
+    "word": "pain in the neck ",
+    "value": -2
+  },
+  {
+    "word": "poison ",
+    "value": -2
+  },
+  {
+    "word": "reverse ",
+    "value": -2
+  },
+  {
+    "word": "sorrow ",
+    "value": -2
+  },
+  {
+    "word": "suffering ",
+    "value": -2
+  },
+  {
+    "word": "the worst ",
+    "value": -2
+  },
+  {
+    "word": "tough luck ",
+    "value": -2
+  },
+  {
+    "word": "trial ",
+    "value": -2
+  },
+  {
+    "word": "trouble ",
+    "value": -2
+  },
+  {
+    "word": "ailing ",
+    "value": -2
+  },
+  {
+    "word": "below par ",
+    "value": -2
+  },
+  {
+    "word": "debilitated ",
+    "value": -2
+  },
+  {
+    "word": "diseased ",
+    "value": -2
+  },
+  {
+    "word": "down with ",
+    "value": -2
+  },
+  {
+    "word": "enfeebled ",
+    "value": -2
+  },
+  {
+    "word": "feeble ",
+    "value": -2
+  },
+  {
+    "word": "feeling awful ",
+    "value": -2
+  },
+  {
+    "word": "ill ",
+    "value": -2
+  },
+  {
+    "word": "indisposed ",
+    "value": -2
+  },
+  {
+    "word": "rocky ",
+    "value": -2
+  },
+  {
+    "word": "run down ",
+    "value": -2
+  },
+  {
+    "word": "sick ",
+    "value": -2
+  },
+  {
+    "word": "sick as a dog ",
+    "value": -2
+  },
+  {
+    "word": "sickly ",
+    "value": -2
+  },
+  {
+    "word": "under the weather ",
+    "value": -2
+  },
+  {
+    "word": "unwell ",
+    "value": -2
+  },
+  {
+    "word": "wasting ",
+    "value": -2
+  },
+  {
+    "word": "weak ",
+    "value": -2
+  },
+  {
+    "word": "amiss ",
+    "value": -2
+  },
+  {
+    "word": "awry ",
+    "value": -2
+  },
+  {
+    "word": "confused ",
+    "value": -2
+  },
+  {
+    "word": "crooked ",
+    "value": -2
+  },
+  {
+    "word": "erring ",
+    "value": -2
+  },
+  {
+    "word": "erroneous ",
+    "value": -2
+  },
+  {
+    "word": "fallacious ",
+    "value": -2
+  },
+  {
+    "word": "false ",
+    "value": -2
+  },
+  {
+    "word": "faulty ",
+    "value": -2
+  },
+  {
+    "word": "flawed ",
+    "value": -2
+  },
+  {
+    "word": "glitched up ",
+    "value": -2
+  },
+  {
+    "word": "haywire ",
+    "value": -2
+  },
+  {
+    "word": "imperfect ",
+    "value": -2
+  },
+  {
+    "word": "improper ",
+    "value": -2
+  },
+  {
+    "word": "inaccurate ",
+    "value": -2
+  },
+  {
+    "word": "inappropriate ",
+    "value": -2
+  },
+  {
+    "word": "incorrect ",
+    "value": -2
+  },
+  {
+    "word": "mistaken ",
+    "value": -2
+  },
+  {
+    "word": "out of order ",
+    "value": -2
+  },
+  {
+    "word": "unfair ",
+    "value": -2
+  },
+  {
+    "word": "unlawful ",
+    "value": -2
+  },
+  {
+    "word": "unsuitable ",
+    "value": -2
+  },
+  {
+    "word": "untoward ",
+    "value": -2
+  },
+  {
+    "word": "afield ",
+    "value": -2
+  },
+  {
+    "word": "afoul ",
+    "value": -2
+  },
+  {
+    "word": "badly ",
+    "value": -2
+  },
+  {
+    "word": "erringly ",
+    "value": -2
+  },
+  {
+    "word": "erroneously ",
+    "value": -2
+  },
+  {
+    "word": "faultily ",
+    "value": -2
+  },
+  {
+    "word": "improperly ",
+    "value": -2
+  },
+  {
+    "word": "inappropriately ",
+    "value": -2
+  },
+  {
+    "word": "incorrectly ",
+    "value": -2
+  },
+  {
+    "word": "mistakenly ",
+    "value": -2
+  },
+  {
+    "word": "out of turn ",
+    "value": -2
+  },
+  {
+    "word": "unfavorably ",
+    "value": -2
+  },
+  {
+    "word": "unsuitably ",
+    "value": -2
+  },
+  {
+    "word": "appalling ",
+    "value": -2
+  },
+  {
+    "word": "alarming ",
+    "value": -2
+  },
+  {
+    "word": "astounding ",
+    "value": -2
+  },
+  {
+    "word": "daunting ",
+    "value": -2
+  },
+  {
+    "word": "dire ",
+    "value": -2
+  },
+  {
+    "word": "disheartening ",
+    "value": -2
+  },
+  {
+    "word": "dismaying ",
+    "value": -2
+  },
+  {
+    "word": "dreadful ",
+    "value": -2
+  },
+  {
+    "word": "fearful ",
+    "value": -2
+  },
+  {
+    "word": "formidable ",
+    "value": -2
+  },
+  {
+    "word": "frightening ",
+    "value": -2
+  },
+  {
+    "word": "frightful ",
+    "value": -2
+  },
+  {
+    "word": "ghastly ",
+    "value": -2
+  },
+  {
+    "word": "harrowing ",
+    "value": -2
+  },
+  {
+    "word": "heavy ",
+    "value": -2
+  },
+  {
+    "word": "hideous ",
+    "value": -2
+  },
+  {
+    "word": "horrific ",
+    "value": -2
+  },
+  {
+    "word": "intimidating ",
+    "value": -2
+  },
+  {
+    "word": "mean ",
+    "value": -2
+  },
+  {
+    "word": "petrifying ",
+    "value": -2
+  },
+  {
+    "word": "scaring ",
+    "value": -2
+  },
+  {
+    "word": "shocking ",
+    "value": -2
+  },
+  {
+    "word": "terrifying ",
+    "value": -2
+  },
+  {
+    "word": "the end ",
+    "value": -2
+  },
+  {
+    "word": "unnerving ",
+    "value": -2
+  },
+  {
+    "word": "barbaric ",
+    "value": -2
+  },
+  {
+    "word": "desperate ",
+    "value": -2
+  },
+  {
+    "word": "diabolical ",
+    "value": -2
+  },
+  {
+    "word": "fiendish ",
+    "value": -2
+  },
+  {
+    "word": "flagrant ",
+    "value": -2
+  },
+  {
+    "word": "godawful ",
+    "value": -2
+  },
+  {
+    "word": "monstrous ",
+    "value": -2
+  },
+  {
+    "word": "nefarious ",
+    "value": -2
+  },
+  {
+    "word": "scandalous ",
+    "value": -2
+  },
+  {
+    "word": "villainous ",
+    "value": -2
+  },
+  {
+    "word": "wicked ",
+    "value": -2
+  },
+  {
+    "word": "detestable ",
+    "value": -2
+  },
+  {
+    "word": "execrable ",
+    "value": -2
+  },
+  {
+    "word": "horrifying ",
+    "value": -2
+  },
+  {
+    "word": "icky ",
+    "value": -2
+  },
+  {
+    "word": "noisome ",
+    "value": -2
+  },
+  {
+    "word": "obscene ",
+    "value": -2
+  },
+  {
+    "word": "sickening ",
+    "value": -2
+  },
+  {
+    "word": "awfully ",
+    "value": -2
+  },
+  {
+    "word": "dreadfully ",
+    "value": -2
+  },
+  {
+    "word": "excessively ",
+    "value": -2
+  },
+  {
+    "word": "extremely ",
+    "value": -2
+  },
+  {
+    "word": "greatly ",
+    "value": -2
+  },
+  {
+    "word": "hugely ",
+    "value": -2
+  },
+  {
+    "word": "immensely ",
+    "value": -2
+  },
+  {
+    "word": "indeed ",
+    "value": -2
+  },
+  {
+    "word": "much ",
+    "value": -2
+  },
+  {
+    "word": "quite ",
+    "value": -2
+  },
+  {
+    "word": "terribly ",
+    "value": -2
+  },
+  {
+    "word": "truly ",
+    "value": -2
+  },
+  {
+    "word": "very much ",
+    "value": -2
+  },
+  {
+    "word": "bedridden ",
+    "value": -2
+  },
+  {
+    "word": "disabled ",
+    "value": -2
+  },
+  {
+    "word": "flat on one's back ",
+    "value": -2
+  },
+  {
+    "word": "incapacitated ",
+    "value": -2
+  },
+  {
+    "word": "infirm ",
+    "value": -2
+  },
+  {
+    "word": "invalid ",
+    "value": -2
+  },
+  {
+    "word": "laid up ",
+    "value": -2
+  },
+  {
+    "word": "10 ",
+    "value": -2
+  },
+  {
+    "word": "A-1 ",
+    "value": -2
+  },
+  {
+    "word": "ace ",
+    "value": -2
+  },
+  {
+    "word": "beyond compare ",
+    "value": -2
+  },
+  {
+    "word": "boss ",
+    "value": -2
+  },
+  {
+    "word": "capital ",
+    "value": -2
+  },
+  {
+    "word": "champion ",
+    "value": -2
+  },
+  {
+    "word": "chief ",
+    "value": -2
+  },
+  {
+    "word": "choicest ",
+    "value": -2
+  },
+  {
+    "word": "cool ",
+    "value": -2
+  },
+  {
+    "word": "culminating ",
+    "value": -2
+  },
+  {
+    "word": "finest ",
+    "value": -2
+  },
+  {
+    "word": "first ",
+    "value": -2
+  },
+  {
+    "word": "first-class ",
+    "value": -2
+  },
+  {
+    "word": "first-rate ",
+    "value": -2
+  },
+  {
+    "word": "foremost ",
+    "value": -2
+  },
+  {
+    "word": "greatest ",
+    "value": -2
+  },
+  {
+    "word": "highest ",
+    "value": -2
+  },
+  {
+    "word": "incomparable ",
+    "value": -2
+  },
+  {
+    "word": "inimitable ",
+    "value": -2
+  },
+  {
+    "word": "leading ",
+    "value": -2
+  },
+  {
+    "word": "matchless ",
+    "value": -2
+  },
+  {
+    "word": "nonpareil ",
+    "value": -2
+  },
+  {
+    "word": "number 1 ",
+    "value": -2
+  },
+  {
+    "word": "optimum ",
+    "value": -2
+  },
+  {
+    "word": "out-of-sight ",
+    "value": -2
+  },
+  {
+    "word": "outstanding ",
+    "value": -2
+  },
+  {
+    "word": "paramount ",
+    "value": -2
+  },
+  {
+    "word": "peerless ",
+    "value": -2
+  },
+  {
+    "word": "perfect ",
+    "value": -2
+  },
+  {
+    "word": "preeminent ",
+    "value": -2
+  },
+  {
+    "word": "premium ",
+    "value": -2
+  },
+  {
+    "word": "prime ",
+    "value": -2
+  },
+  {
+    "word": "primo ",
+    "value": -2
+  },
+  {
+    "word": "principal ",
+    "value": -2
+  },
+  {
+    "word": "sans pareil ",
+    "value": -2
+  },
+  {
+    "word": "second to none ",
+    "value": -2
+  },
+  {
+    "word": "super ",
+    "value": -2
+  },
+  {
+    "word": "superlative ",
+    "value": -2
+  },
+  {
+    "word": "supreme ",
+    "value": -2
+  },
+  {
+    "word": "terrific ",
+    "value": -2
+  },
+  {
+    "word": "tops ",
+    "value": -2
+  },
+  {
+    "word": "tough ",
+    "value": -2
+  },
+  {
+    "word": "transcendent ",
+    "value": -2
+  },
+  {
+    "word": "unequaled ",
+    "value": -2
+  },
+  {
+    "word": "unparalleled ",
+    "value": -2
+  },
+  {
+    "word": "unrivaled ",
+    "value": -2
+  },
+  {
+    "word": "unsurpassed ",
+    "value": -2
+  },
+  {
+    "word": "bitter ",
+    "value": -2
+  },
+  {
+    "word": "afflictive ",
+    "value": -2
+  },
+  {
+    "word": "annoying ",
+    "value": -2
+  },
+  {
+    "word": "brutal ",
+    "value": -2
+  },
+  {
+    "word": "calamitous ",
+    "value": -2
+  },
+  {
+    "word": "cruel ",
+    "value": -2
+  },
+  {
+    "word": "disagreeable ",
+    "value": -2
+  },
+  {
+    "word": "displeasing ",
+    "value": -2
+  },
+  {
+    "word": "distasteful ",
+    "value": -2
+  },
+  {
+    "word": "disturbing ",
+    "value": -2
+  },
+  {
+    "word": "galling ",
+    "value": -2
+  },
+  {
+    "word": "grievous ",
+    "value": -2
+  },
+  {
+    "word": "hard ",
+    "value": -2
+  },
+  {
+    "word": "harsh ",
+    "value": -2
+  },
+  {
+    "word": "heartbreaking ",
+    "value": -2
+  },
+  {
+    "word": "hurtful ",
+    "value": -2
+  },
+  {
+    "word": "inclement ",
+    "value": -2
+  },
+  {
+    "word": "intemperate ",
+    "value": -2
+  },
+  {
+    "word": "intense ",
+    "value": -2
+  },
+  {
+    "word": "merciless ",
+    "value": -2
+  },
+  {
+    "word": "poignant ",
+    "value": -2
+  },
+  {
+    "word": "provoking ",
+    "value": -2
+  },
+  {
+    "word": "rigorous ",
+    "value": -2
+  },
+  {
+    "word": "rugged ",
+    "value": -2
+  },
+  {
+    "word": "ruthless ",
+    "value": -2
+  },
+  {
+    "word": "savage ",
+    "value": -2
+  },
+  {
+    "word": "severe ",
+    "value": -2
+  },
+  {
+    "word": "sharp ",
+    "value": -2
+  },
+  {
+    "word": "stinging ",
+    "value": -2
+  },
+  {
+    "word": "unpalatable ",
+    "value": -2
+  },
+  {
+    "word": "unpleasant ",
+    "value": -2
+  },
+  {
+    "word": "vexatious ",
+    "value": -2
+  },
+  {
+    "word": "woeful ",
+    "value": -2
+  },
+  {
+    "word": "black ",
+    "value": -2
+  },
+  {
+    "word": "iniquitous ",
+    "value": -2
+  },
+  {
+    "word": "blue ruin ",
+    "value": -2
+  },
+  {
+    "word": "cataclysm ",
+    "value": -2
+  },
+  {
+    "word": "collapse ",
+    "value": -2
+  },
+  {
+    "word": "cross ",
+    "value": -2
+  },
+  {
+    "word": "curtains ",
+    "value": -2
+  },
+  {
+    "word": "downfall ",
+    "value": -2
+  },
+  {
+    "word": "holy mess ",
+    "value": -2
+  },
+  {
+    "word": "misadventure ",
+    "value": -2
+  },
+  {
+    "word": "mischance ",
+    "value": -2
+  },
+  {
+    "word": "scourge ",
+    "value": -2
+  },
+  {
+    "word": "tribulation ",
+    "value": -2
+  },
+  {
+    "word": "unholy mess ",
+    "value": -2
+  },
+  {
+    "word": "visitation ",
+    "value": -2
+  },
+  {
+    "word": "waterloo ",
+    "value": -2
+  },
+  {
+    "word": "woe ",
+    "value": -2
+  },
+  {
+    "word": "wreck ",
+    "value": -2
+  },
+  {
+    "word": "wretchedness ",
+    "value": -2
+  },
+  {
+    "word": "accident ",
+    "value": -2
+  },
+  {
+    "word": "alluvion ",
+    "value": -2
+  },
+  {
+    "word": "bad luck ",
+    "value": -2
+  },
+  {
+    "word": "bad news ",
+    "value": -2
+  },
+  {
+    "word": "blow ",
+    "value": -2
+  },
+  {
+    "word": "casualty ",
+    "value": -2
+  },
+  {
+    "word": "crash ",
+    "value": -2
+  },
+  {
+    "word": "culmination ",
+    "value": -2
+  },
+  {
+    "word": "debacle ",
+    "value": -2
+  },
+  {
+    "word": "denouement ",
+    "value": -2
+  },
+  {
+    "word": "desolation ",
+    "value": -2
+  },
+  {
+    "word": "devastation ",
+    "value": -2
+  },
+  {
+    "word": "emergency ",
+    "value": -2
+  },
+  {
+    "word": "end ",
+    "value": -2
+  },
+  {
+    "word": "failure ",
+    "value": -2
+  },
+  {
+    "word": "fatality ",
+    "value": -2
+  },
+  {
+    "word": "fiasco ",
+    "value": -2
+  },
+  {
+    "word": "finale ",
+    "value": -2
+  },
+  {
+    "word": "grief ",
+    "value": -2
+  },
+  {
+    "word": "havoc ",
+    "value": -2
+  },
+  {
+    "word": "infliction ",
+    "value": -2
+  },
+  {
+    "word": "meltdown ",
+    "value": -2
+  },
+  {
+    "word": "stroke ",
+    "value": -2
+  },
+  {
+    "word": "termination ",
+    "value": -2
+  },
+  {
+    "word": "tragedy ",
+    "value": -2
+  },
+  {
+    "word": "upshot ",
+    "value": -2
+  },
+  {
+    "word": "cheap ",
+    "value": -2
+  },
+  {
+    "word": "bogus ",
+    "value": -2
+  },
+  {
+    "word": "catchpenny ",
+    "value": -2
+  },
+  {
+    "word": "cheesy ",
+    "value": -2
+  },
+  {
+    "word": "common ",
+    "value": -2
+  },
+  {
+    "word": "commonplace ",
+    "value": -2
+  },
+  {
+    "word": "crappy ",
+    "value": -2
+  },
+  {
+    "word": "cruddy ",
+    "value": -2
+  },
+  {
+    "word": "dud ",
+    "value": -2
+  },
+  {
+    "word": "flashy ",
+    "value": -2
+  },
+  {
+    "word": "garbage ",
+    "value": -2
+  },
+  {
+    "word": "garish ",
+    "value": -2
+  },
+  {
+    "word": "glitzy ",
+    "value": -2
+  },
+  {
+    "word": "junky ",
+    "value": -2
+  },
+  {
+    "word": "mangy ",
+    "value": -2
+  },
+  {
+    "word": "mediocre ",
+    "value": -2
+  },
+  {
+    "word": "meretricious ",
+    "value": -2
+  },
+  {
+    "word": "no bargain ",
+    "value": -2
+  },
+  {
+    "word": "no good ",
+    "value": -2
+  },
+  {
+    "word": "ordinary ",
+    "value": -2
+  },
+  {
+    "word": "paltry ",
+    "value": -2
+  },
+  {
+    "word": "poor ",
+    "value": -2
+  },
+  {
+    "word": "ratty ",
+    "value": -2
+  },
+  {
+    "word": "raunchy ",
+    "value": -2
+  },
+  {
+    "word": "rinky-dink ",
+    "value": -2
+  },
+  {
+    "word": "rubbishy ",
+    "value": -2
+  },
+  {
+    "word": "scroungy ",
+    "value": -2
+  },
+  {
+    "word": "second-rate ",
+    "value": -2
+  },
+  {
+    "word": "shoddy ",
+    "value": -2
+  },
+  {
+    "word": "small-time ",
+    "value": -2
+  },
+  {
+    "word": "tatty ",
+    "value": -2
+  },
+  {
+    "word": "tawdry ",
+    "value": -2
+  },
+  {
+    "word": "trashy ",
+    "value": -2
+  },
+  {
+    "word": "trumpery ",
+    "value": -2
+  },
+  {
+    "word": "two-bit ",
+    "value": -2
+  },
+  {
+    "word": "valueless ",
+    "value": -2
+  },
+  {
+    "word": "white elephant ",
+    "value": -2
+  },
+  {
+    "word": "worthless ",
+    "value": -2
+  },
+  {
+    "word": "abject ",
+    "value": -2
+  },
+  {
+    "word": "beggarly ",
+    "value": -2
+  },
+  {
+    "word": "crass ",
+    "value": -2
+  },
+  {
+    "word": "currish ",
+    "value": -2
+  },
+  {
+    "word": "degenerate ",
+    "value": -2
+  },
+  {
+    "word": "despisable ",
+    "value": -2
+  },
+  {
+    "word": "dirty ",
+    "value": -2
+  },
+  {
+    "word": "heel ",
+    "value": -2
+  },
+  {
+    "word": "ignoble ",
+    "value": -2
+  },
+  {
+    "word": "ignominious ",
+    "value": -2
+  },
+  {
+    "word": "inferior ",
+    "value": -2
+  },
+  {
+    "word": "low ",
+    "value": -2
+  },
+  {
+    "word": "low-down ",
+    "value": -2
+  },
+  {
+    "word": "lowest ",
+    "value": -2
+  },
+  {
+    "word": "outcast ",
+    "value": -2
+  },
+  {
+    "word": "pitiable ",
+    "value": -2
+  },
+  {
+    "word": "pitiful ",
+    "value": -2
+  },
+  {
+    "word": "sad ",
+    "value": -2
+  },
+  {
+    "word": "scummy ",
+    "value": -2
+  },
+  {
+    "word": "scurvy ",
+    "value": -2
+  },
+  {
+    "word": "shabby ",
+    "value": -2
+  },
+  {
+    "word": "sordid ",
+    "value": -2
+  },
+  {
+    "word": "sorry ",
+    "value": -2
+  },
+  {
+    "word": "swinish ",
+    "value": -2
+  },
+  {
+    "word": "unworthy ",
+    "value": -2
+  },
+  {
+    "word": "damaging ",
+    "value": -2
+  },
+  {
+    "word": "deleterious ",
+    "value": -2
+  },
+  {
+    "word": "detrimental ",
+    "value": -2
+  },
+  {
+    "word": "disadvantageous ",
+    "value": -2
+  },
+  {
+    "word": "evil ",
+    "value": -2
+  },
+  {
+    "word": "harmful ",
+    "value": -2
+  },
+  {
+    "word": "injurious ",
+    "value": -2
+  },
+  {
+    "word": "mischievous ",
+    "value": -2
+  },
+  {
+    "word": "nocent ",
+    "value": -2
+  },
+  {
+    "word": "nocuous ",
+    "value": -2
+  },
+  {
+    "word": "prejudicial ",
+    "value": -2
+  },
+  {
+    "word": "ruinous ",
+    "value": -2
+  },
+  {
+    "word": "damned ",
+    "value": -2
+  },
+  {
+    "word": "accursed ",
+    "value": -2
+  },
+  {
+    "word": "all-fired ",
+    "value": -2
+  },
+  {
+    "word": "anathematized ",
+    "value": -2
+  },
+  {
+    "word": "blankety-blank ",
+    "value": -2
+  },
+  {
+    "word": "blasted ",
+    "value": -2
+  },
+  {
+    "word": "blessed ",
+    "value": -2
+  },
+  {
+    "word": "bloody ",
+    "value": -2
+  },
+  {
+    "word": "blooming ",
+    "value": -2
+  },
+  {
+    "word": "condemned ",
+    "value": -2
+  },
+  {
+    "word": "confounded ",
+    "value": -2
+  },
+  {
+    "word": "cussed ",
+    "value": -2
+  },
+  {
+    "word": "damnable ",
+    "value": -2
+  },
+  {
+    "word": "dang ",
+    "value": -2
+  },
+  {
+    "word": "darn ",
+    "value": -2
+  },
+  {
+    "word": "darned ",
+    "value": -2
+  },
+  {
+    "word": "doggone ",
+    "value": -2
+  },
+  {
+    "word": "done for ",
+    "value": -2
+  },
+  {
+    "word": "doomed ",
+    "value": -2
+  },
+  {
+    "word": "dratted ",
+    "value": -2
+  },
+  {
+    "word": "gone to blazes ",
+    "value": -2
+  },
+  {
+    "word": "infamous ",
+    "value": -2
+  },
+  {
+    "word": "infernal ",
+    "value": -2
+  },
+  {
+    "word": "lost ",
+    "value": -2
+  },
+  {
+    "word": "reprobate ",
+    "value": -2
+  },
+  {
+    "word": "unhappy ",
+    "value": -2
+  },
+  {
+    "word": "voodooed ",
+    "value": -2
+  },
+  {
+    "word": "dangerous ",
+    "value": -2
+  },
+  {
+    "word": "breakneck ",
+    "value": -2
+  },
+  {
+    "word": "chancy ",
+    "value": -2
+  },
+  {
+    "word": "critical ",
+    "value": -2
+  },
+  {
+    "word": "dangersome ",
+    "value": -2
+  },
+  {
+    "word": "deadly ",
+    "value": -2
+  },
+  {
+    "word": "delicate ",
+    "value": -2
+  },
+  {
+    "word": "dynamite ",
+    "value": -2
+  },
+  {
+    "word": "exposed ",
+    "value": -2
+  },
+  {
+    "word": "fatal ",
+    "value": -2
+  },
+  {
+    "word": "hot ",
+    "value": -2
+  },
+  {
+    "word": "impending ",
+    "value": -2
+  },
+  {
+    "word": "impregnable ",
+    "value": -2
+  },
+  {
+    "word": "insecure ",
+    "value": -2
+  },
+  {
+    "word": "jeopardous ",
+    "value": -2
+  },
+  {
+    "word": "loaded ",
+    "value": -2
+  },
+  {
+    "word": "malignant ",
+    "value": -2
+  },
+  {
+    "word": "menacing ",
+    "value": -2
+  },
+  {
+    "word": "mortal ",
+    "value": -2
+  },
+  {
+    "word": "nasty ",
+    "value": -2
+  },
+  {
+    "word": "on collision course ",
+    "value": -2
+  },
+  {
+    "word": "parlous ",
+    "value": -2
+  },
+  {
+    "word": "perilous ",
+    "value": -2
+  },
+  {
+    "word": "portentous ",
+    "value": -2
+  },
+  {
+    "word": "precarious ",
+    "value": -2
+  },
+  {
+    "word": "pressing ",
+    "value": -2
+  },
+  {
+    "word": "queasy ",
+    "value": -2
+  },
+  {
+    "word": "risky ",
+    "value": -2
+  },
+  {
+    "word": "serious ",
+    "value": -2
+  },
+  {
+    "word": "serpentine ",
+    "value": -2
+  },
+  {
+    "word": "shaky ",
+    "value": -2
+  },
+  {
+    "word": "speculative ",
+    "value": -2
+  },
+  {
+    "word": "thorny ",
+    "value": -2
+  },
+  {
+    "word": "threatening ",
+    "value": -2
+  },
+  {
+    "word": "ticklish ",
+    "value": -2
+  },
+  {
+    "word": "touch-and-go ",
+    "value": -2
+  },
+  {
+    "word": "touchy ",
+    "value": -2
+  },
+  {
+    "word": "treacherous ",
+    "value": -2
+  },
+  {
+    "word": "ugly ",
+    "value": -2
+  },
+  {
+    "word": "unhealthy ",
+    "value": -2
+  },
+  {
+    "word": "unsafe ",
+    "value": -2
+  },
+  {
+    "word": "unstable ",
+    "value": -2
+  },
+  {
+    "word": "urgent ",
+    "value": -2
+  },
+  {
+    "word": "viperous ",
+    "value": -2
+  },
+  {
+    "word": "vulnerable ",
+    "value": -2
+  },
+  {
+    "word": "dark ",
+    "value": -2
+  },
+  {
+    "word": "corrupt ",
+    "value": -2
+  },
+  {
+    "word": "immoral ",
+    "value": -2
+  },
+  {
+    "word": "sinful ",
+    "value": -2
+  },
+  {
+    "word": "sinister ",
+    "value": -2
+  },
+  {
+    "word": "decayed ",
+    "value": -2
+  },
+  {
+    "word": "addled ",
+    "value": -2
+  },
+  {
+    "word": "carious ",
+    "value": -2
+  },
+  {
+    "word": "carrion ",
+    "value": -2
+  },
+  {
+    "word": "corroded ",
+    "value": -2
+  },
+  {
+    "word": "decomposed ",
+    "value": -2
+  },
+  {
+    "word": "effete ",
+    "value": -2
+  },
+  {
+    "word": "gangrenous ",
+    "value": -2
+  },
+  {
+    "word": "moldered ",
+    "value": -2
+  },
+  {
+    "word": "overripe ",
+    "value": -2
+  },
+  {
+    "word": "perished ",
+    "value": -2
+  },
+  {
+    "word": "putrefied ",
+    "value": -2
+  },
+  {
+    "word": "putrescent ",
+    "value": -2
+  },
+  {
+    "word": "putrid ",
+    "value": -2
+  },
+  {
+    "word": "rank ",
+    "value": -2
+  },
+  {
+    "word": "riddled ",
+    "value": -2
+  },
+  {
+    "word": "rotted ",
+    "value": -2
+  },
+  {
+    "word": "ruined ",
+    "value": -2
+  },
+  {
+    "word": "spoiled ",
+    "value": -2
+  },
+  {
+    "word": "wasted ",
+    "value": -2
+  },
+  {
+    "word": "withered ",
+    "value": -2
+  },
+  {
+    "word": "deficient ",
+    "value": -2
+  },
+  {
+    "word": "damaged ",
+    "value": -2
+  },
+  {
+    "word": "defective ",
+    "value": -2
+  },
+  {
+    "word": "exiguous ",
+    "value": -2
+  },
+  {
+    "word": "found wanting ",
+    "value": -2
+  },
+  {
+    "word": "impaired ",
+    "value": -2
+  },
+  {
+    "word": "incomplete ",
+    "value": -2
+  },
+  {
+    "word": "infrequent ",
+    "value": -2
+  },
+  {
+    "word": "injured ",
+    "value": -2
+  },
+  {
+    "word": "insufficient ",
+    "value": -2
+  },
+  {
+    "word": "lacking ",
+    "value": -2
+  },
+  {
+    "word": "marred ",
+    "value": -2
+  },
+  {
+    "word": "meager ",
+    "value": -2
+  },
+  {
+    "word": "not cut out for ",
+    "value": -2
+  },
+  {
+    "word": "not enough ",
+    "value": -2
+  },
+  {
+    "word": "not make it ",
+    "value": -2
+  },
+  {
+    "word": "not up to scratch ",
+    "value": -2
+  },
+  {
+    "word": "outta gas ",
+    "value": -2
+  },
+  {
+    "word": "rare ",
+    "value": -2
+  },
+  {
+    "word": "scant ",
+    "value": -2
+  },
+  {
+    "word": "scanty ",
+    "value": -2
+  },
+  {
+    "word": "scarce ",
+    "value": -2
+  },
+  {
+    "word": "second fiddle ",
+    "value": -2
+  },
+  {
+    "word": "second string ",
+    "value": -2
+  },
+  {
+    "word": "short ",
+    "value": -2
+  },
+  {
+    "word": "shy ",
+    "value": -2
+  },
+  {
+    "word": "sketchy ",
+    "value": -2
+  },
+  {
+    "word": "skimpy ",
+    "value": -2
+  },
+  {
+    "word": "third string ",
+    "value": -2
+  },
+  {
+    "word": "unassembled ",
+    "value": -2
+  },
+  {
+    "word": "unequal ",
+    "value": -2
+  },
+  {
+    "word": "unfinished ",
+    "value": -2
+  },
+  {
+    "word": "unsatisfactory ",
+    "value": -2
+  },
+  {
+    "word": "wanting ",
+    "value": -2
+  },
+  {
+    "word": "destroying ",
+    "value": -2
+  },
+  {
+    "word": "destructive ",
+    "value": -2
+  },
+  {
+    "word": "pernicious ",
+    "value": -2
+  },
+  {
+    "word": "prejudicious ",
+    "value": -2
+  },
+  {
+    "word": "ruining ",
+    "value": -2
+  },
+  {
+    "word": "demonic ",
+    "value": -2
+  },
+  {
+    "word": "aroused ",
+    "value": -2
+  },
+  {
+    "word": "crazed ",
+    "value": -2
+  },
+  {
+    "word": "demoniac ",
+    "value": -2
+  },
+  {
+    "word": "demoniacal ",
+    "value": -2
+  },
+  {
+    "word": "devilish ",
+    "value": -2
+  },
+  {
+    "word": "diabolic ",
+    "value": -2
+  },
+  {
+    "word": "fired ",
+    "value": -2
+  },
+  {
+    "word": "frantic ",
+    "value": -2
+  },
+  {
+    "word": "frenetic ",
+    "value": -2
+  },
+  {
+    "word": "frenzied ",
+    "value": -2
+  },
+  {
+    "word": "impious ",
+    "value": -2
+  },
+  {
+    "word": "insane ",
+    "value": -2
+  },
+  {
+    "word": "inspired ",
+    "value": -2
+  },
+  {
+    "word": "mad ",
+    "value": -2
+  },
+  {
+    "word": "maniacal ",
+    "value": -2
+  },
+  {
+    "word": "manic ",
+    "value": -2
+  },
+  {
+    "word": "possessed ",
+    "value": -2
+  },
+  {
+    "word": "satanic ",
+    "value": -2
+  },
+  {
+    "word": "unhallowed ",
+    "value": -2
+  },
+  {
+    "word": "violent ",
+    "value": -2
+  },
+  {
+    "word": "depraved ",
+    "value": -2
+  },
+  {
+    "word": "abandoned ",
+    "value": -2
+  },
+  {
+    "word": "debased ",
+    "value": -2
+  },
+  {
+    "word": "debauched ",
+    "value": -2
+  },
+  {
+    "word": "degraded ",
+    "value": -2
+  },
+  {
+    "word": "dirty-minded ",
+    "value": -2
+  },
+  {
+    "word": "dissolute ",
+    "value": -2
+  },
+  {
+    "word": "fast ",
+    "value": -2
+  },
+  {
+    "word": "filthy ",
+    "value": -2
+  },
+  {
+    "word": "flagitous ",
+    "value": -2
+  },
+  {
+    "word": "gone to the dogs ",
+    "value": -2
+  },
+  {
+    "word": "kinky ",
+    "value": -2
+  },
+  {
+    "word": "lascivious ",
+    "value": -2
+  },
+  {
+    "word": "lewd ",
+    "value": -2
+  },
+  {
+    "word": "licentious ",
+    "value": -2
+  },
+  {
+    "word": "miscreant ",
+    "value": -2
+  },
+  {
+    "word": "perverted ",
+    "value": -2
+  },
+  {
+    "word": "profligate ",
+    "value": -2
+  },
+  {
+    "word": "shameless ",
+    "value": -2
+  },
+  {
+    "word": "twisted ",
+    "value": -2
+  },
+  {
+    "word": "unnatural ",
+    "value": -2
+  },
+  {
+    "word": "vicious ",
+    "value": -2
+  },
+  {
+    "word": "vitiate ",
+    "value": -2
+  },
+  {
+    "word": "vitiated ",
+    "value": -2
+  },
+  {
+    "word": "wanton ",
+    "value": -2
+  },
+  {
+    "word": "warped ",
+    "value": -2
+  },
+  {
+    "word": "depressed ",
+    "value": -2
+  },
+  {
+    "word": "bleeding ",
+    "value": -2
+  },
+  {
+    "word": "blue ",
+    "value": -2
+  },
+  {
+    "word": "bummed out ",
+    "value": -2
+  },
+  {
+    "word": "cast-down ",
+    "value": -2
+  },
+  {
+    "word": "crestfallen ",
+    "value": -2
+  },
+  {
+    "word": "crummy ",
+    "value": -2
+  },
+  {
+    "word": "dejected ",
+    "value": -2
+  },
+  {
+    "word": "despondent ",
+    "value": -2
+  },
+  {
+    "word": "destroyed ",
+    "value": -2
+  },
+  {
+    "word": "disconsolate ",
+    "value": -2
+  },
+  {
+    "word": "dispirited ",
+    "value": -2
+  },
+  {
+    "word": "down and out ",
+    "value": -2
+  },
+  {
+    "word": "down in the dumps ",
+    "value": -2
+  },
+  {
+    "word": "down in the mouth ",
+    "value": -2
+  },
+  {
+    "word": "downcast ",
+    "value": -2
+  },
+  {
+    "word": "downhearted ",
+    "value": -2
+  },
+  {
+    "word": "dragged ",
+    "value": -2
+  },
+  {
+    "word": "fed up ",
+    "value": -2
+  },
+  {
+    "word": "glum ",
+    "value": -2
+  },
+  {
+    "word": "in a blue funk ",
+    "value": -2
+  },
+  {
+    "word": "in pain ",
+    "value": -2
+  },
+  {
+    "word": "in the dumps ",
+    "value": -2
+  },
+  {
+    "word": "in the pits ",
+    "value": -2
+  },
+  {
+    "word": "in the toilet ",
+    "value": -2
+  },
+  {
+    "word": "low-spirited ",
+    "value": -2
+  },
+  {
+    "word": "lugubrious ",
+    "value": -2
+  },
+  {
+    "word": "melancholy ",
+    "value": -2
+  },
+  {
+    "word": "moody ",
+    "value": -2
+  },
+  {
+    "word": "morose ",
+    "value": -2
+  },
+  {
+    "word": "on a downer ",
+    "value": -2
+  },
+  {
+    "word": "pessimistic ",
+    "value": -2
+  },
+  {
+    "word": "ripped ",
+    "value": -2
+  },
+  {
+    "word": "sob story ",
+    "value": -2
+  },
+  {
+    "word": "spiritless ",
+    "value": -2
+  },
+  {
+    "word": "taken down ",
+    "value": -2
+  },
+  {
+    "word": "torn up ",
+    "value": -2
+  },
+  {
+    "word": "weeping ",
+    "value": -2
+  },
+  {
+    "word": "woebegone ",
+    "value": -2
+  },
+  {
+    "word": "desperately ",
+    "value": -2
+  },
+  {
+    "word": "carelessly ",
+    "value": -2
+  },
+  {
+    "word": "dangerously ",
+    "value": -2
+  },
+  {
+    "word": "dramatically ",
+    "value": -2
+  },
+  {
+    "word": "fiercely ",
+    "value": -2
+  },
+  {
+    "word": "gravely ",
+    "value": -2
+  },
+  {
+    "word": "harmfully ",
+    "value": -2
+  },
+  {
+    "word": "hysterically ",
+    "value": -2
+  },
+  {
+    "word": "like crazy ",
+    "value": -2
+  },
+  {
+    "word": "like mad ",
+    "value": -2
+  },
+  {
+    "word": "perilously ",
+    "value": -2
+  },
+  {
+    "word": "seriously ",
+    "value": -2
+  },
+  {
+    "word": "adverse ",
+    "value": -2
+  },
+  {
+    "word": "baleful ",
+    "value": -2
+  },
+  {
+    "word": "inimical ",
+    "value": -2
+  },
+  {
+    "word": "negative ",
+    "value": -2
+  },
+  {
+    "word": "unfavorable ",
+    "value": -2
+  },
+  {
+    "word": "Mephistophelian ",
+    "value": -2
+  },
+  {
+    "word": "brutish ",
+    "value": -2
+  },
+  {
+    "word": "cloven-footed ",
+    "value": -2
+  },
+  {
+    "word": "hellborn ",
+    "value": -2
+  },
+  {
+    "word": "inhuman ",
+    "value": -2
+  },
+  {
+    "word": "bothersome ",
+    "value": -2
+  },
+  {
+    "word": "distressing ",
+    "value": -2
+  },
+  {
+    "word": "objectionable ",
+    "value": -2
+  },
+  {
+    "word": "pain ",
+    "value": -2
+  },
+  {
+    "word": "sour ",
+    "value": -2
+  },
+  {
+    "word": "uninviting ",
+    "value": -2
+  },
+  {
+    "word": "unsavory ",
+    "value": -2
+  },
+  {
+    "word": "upsetting ",
+    "value": -2
+  },
+  {
+    "word": "act of God ",
+    "value": -2
+  },
+  {
+    "word": "bale ",
+    "value": -2
+  },
+  {
+    "word": "bane ",
+    "value": -2
+  },
+  {
+    "word": "blight ",
+    "value": -2
+  },
+  {
+    "word": "bust ",
+    "value": -2
+  },
+  {
+    "word": "collision ",
+    "value": -2
+  },
+  {
+    "word": "depression ",
+    "value": -2
+  },
+  {
+    "word": "exigency ",
+    "value": -2
+  },
+  {
+    "word": "fall ",
+    "value": -2
+  },
+  {
+    "word": "fell stroke ",
+    "value": -2
+  },
+  {
+    "word": "flood ",
+    "value": -2
+  },
+  {
+    "word": "flop ",
+    "value": -2
+  },
+  {
+    "word": "hard luck ",
+    "value": -2
+  },
+  {
+    "word": "harm ",
+    "value": -2
+  },
+  {
+    "word": "hazard ",
+    "value": -2
+  },
+  {
+    "word": "holocaust ",
+    "value": -2
+  },
+  {
+    "word": "hot water ",
+    "value": -2
+  },
+  {
+    "word": "ill luck ",
+    "value": -2
+  },
+  {
+    "word": "rock ",
+    "value": -2
+  },
+  {
+    "word": "rough ",
+    "value": -2
+  },
+  {
+    "word": "ruination ",
+    "value": -2
+  },
+  {
+    "word": "setback ",
+    "value": -2
+  },
+  {
+    "word": "slip ",
+    "value": -2
+  },
+  {
+    "word": "undoing ",
+    "value": -2
+  },
+  {
+    "word": "washout ",
+    "value": -2
+  },
+  {
+    "word": "cheerless ",
+    "value": -2
+  },
+  {
+    "word": "cold ",
+    "value": -2
+  },
+  {
+    "word": "comfortless ",
+    "value": -2
+  },
+  {
+    "word": "crushed ",
+    "value": -2
+  },
+  {
+    "word": "desolate ",
+    "value": -2
+  },
+  {
+    "word": "despairing ",
+    "value": -2
+  },
+  {
+    "word": "distressed ",
+    "value": -2
+  },
+  {
+    "word": "doleful ",
+    "value": -2
+  },
+  {
+    "word": "dreary ",
+    "value": -2
+  },
+  {
+    "word": "forlorn ",
+    "value": -2
+  },
+  {
+    "word": "gloomy ",
+    "value": -2
+  },
+  {
+    "word": "grief-stricken ",
+    "value": -2
+  },
+  {
+    "word": "heartbroken ",
+    "value": -2
+  },
+  {
+    "word": "hopeless ",
+    "value": -2
+  },
+  {
+    "word": "inconsolable ",
+    "value": -2
+  },
+  {
+    "word": "miserable ",
+    "value": -2
+  },
+  {
+    "word": "somber ",
+    "value": -2
+  },
+  {
+    "word": "sorrowful ",
+    "value": -2
+  },
+  {
+    "word": "torn-up ",
+    "value": -2
+  },
+  {
+    "word": "disreputable ",
+    "value": -2
+  },
+  {
+    "word": "derogatory ",
+    "value": -2
+  },
+  {
+    "word": "discreditable ",
+    "value": -2
+  },
+  {
+    "word": "disgraceful ",
+    "value": -2
+  },
+  {
+    "word": "disorderly ",
+    "value": -2
+  },
+  {
+    "word": "in bad ",
+    "value": -2
+  },
+  {
+    "word": "in low esteem ",
+    "value": -2
+  },
+  {
+    "word": "in the doghouse ",
+    "value": -2
+  },
+  {
+    "word": "inglorious ",
+    "value": -2
+  },
+  {
+    "word": "libidinous ",
+    "value": -2
+  },
+  {
+    "word": "notorious ",
+    "value": -2
+  },
+  {
+    "word": "opprobrious ",
+    "value": -2
+  },
+  {
+    "word": "shady ",
+    "value": -2
+  },
+  {
+    "word": "shameful ",
+    "value": -2
+  },
+  {
+    "word": "unprincipled ",
+    "value": -2
+  },
+  {
+    "word": "dissatisfactory ",
+    "value": -2
+  },
+  {
+    "word": "disappointing ",
+    "value": -2
+  },
+  {
+    "word": "inadequate ",
+    "value": -2
+  },
+  {
+    "word": "lame ",
+    "value": -2
+  },
+  {
+    "word": "not satisfying ",
+    "value": -2
+  },
+  {
+    "word": "not up to par ",
+    "value": -2
+  },
+  {
+    "word": "unacceptable ",
+    "value": -2
+  },
+  {
+    "word": "unsatisfying ",
+    "value": -2
+  },
+  {
+    "word": "useless ",
+    "value": -2
+  },
+  {
+    "word": "cast down ",
+    "value": -2
+  },
+  {
+    "word": "chapfallen ",
+    "value": -2
+  },
+  {
+    "word": "disheartened ",
+    "value": -2
+  },
+  {
+    "word": "off ",
+    "value": -2
+  },
+  {
+    "word": "slack ",
+    "value": -2
+  },
+  {
+    "word": "sluggish ",
+    "value": -2
+  },
+  {
+    "word": "brooding ",
+    "value": -2
+  },
+  {
+    "word": "daunted ",
+    "value": -2
+  },
+  {
+    "word": "disappointed ",
+    "value": -2
+  },
+  {
+    "word": "discouraged ",
+    "value": -2
+  },
+  {
+    "word": "dismayed ",
+    "value": -2
+  },
+  {
+    "word": "down-in-the-mouth ",
+    "value": -2
+  },
+  {
+    "word": "droopy ",
+    "value": -2
+  },
+  {
+    "word": "dull ",
+    "value": -2
+  },
+  {
+    "word": "heartsick ",
+    "value": -2
+  },
+  {
+    "word": "listless ",
+    "value": -2
+  },
+  {
+    "word": "mopey ",
+    "value": -2
+  },
+  {
+    "word": "oppressed ",
+    "value": -2
+  },
+  {
+    "word": "shot down ",
+    "value": -2
+  },
+  {
+    "word": "singing the blues ",
+    "value": -2
+  },
+  {
+    "word": "sunk ",
+    "value": -2
+  },
+  {
+    "word": "troubled ",
+    "value": -2
+  },
+  {
+    "word": "weighed down ",
+    "value": -2
+  },
+  {
+    "word": "creepy ",
+    "value": -2
+  },
+  {
+    "word": "frozen ",
+    "value": -2
+  },
+  {
+    "word": "horrendous ",
+    "value": -2
+  },
+  {
+    "word": "shuddersome ",
+    "value": -2
+  },
+  {
+    "word": "spooky ",
+    "value": -2
+  },
+  {
+    "word": "tragic ",
+    "value": -2
+  },
+  {
+    "word": "tremendous ",
+    "value": -2
+  },
+  {
+    "word": "angry ",
+    "value": -2
+  },
+  {
+    "word": "baneful ",
+    "value": -2
+  },
+  {
+    "word": "disastrous ",
+    "value": -2
+  },
+  {
+    "word": "flagitious ",
+    "value": -2
+  },
+  {
+    "word": "maleficent ",
+    "value": -2
+  },
+  {
+    "word": "malevolent ",
+    "value": -2
+  },
+  {
+    "word": "malicious ",
+    "value": -2
+  },
+  {
+    "word": "rancorous ",
+    "value": -2
+  },
+  {
+    "word": "spiteful ",
+    "value": -2
+  },
+  {
+    "word": "unpropitious ",
+    "value": -2
+  },
+  {
+    "word": "wrathful ",
+    "value": -2
+  },
+  {
+    "word": "wrong ",
+    "value": -2
+  },
+  {
+    "word": "adulterated ",
+    "value": -2
+  },
+  {
+    "word": "blamable ",
+    "value": -2
+  },
+  {
+    "word": "blemished ",
+    "value": -2
+  },
+  {
+    "word": "botched ",
+    "value": -2
+  },
+  {
+    "word": "broken ",
+    "value": -2
+  },
+  {
+    "word": "cracked ",
+    "value": -2
+  },
+  {
+    "word": "distorted ",
+    "value": -2
+  },
+  {
+    "word": "fallible ",
+    "value": -2
+  },
+  {
+    "word": "frail ",
+    "value": -2
+  },
+  {
+    "word": "imprecise ",
+    "value": -2
+  },
+  {
+    "word": "inexact ",
+    "value": -2
+  },
+  {
+    "word": "leaky ",
+    "value": -2
+  },
+  {
+    "word": "lemon ",
+    "value": -2
+  },
+  {
+    "word": "maimed ",
+    "value": -2
+  },
+  {
+    "word": "malformed ",
+    "value": -2
+  },
+  {
+    "word": "malfunctioning ",
+    "value": -2
+  },
+  {
+    "word": "tainted ",
+    "value": -2
+  },
+  {
+    "word": "unfit ",
+    "value": -2
+  },
+  {
+    "word": "unreliable ",
+    "value": -2
+  },
+  {
+    "word": "unretentive ",
+    "value": -2
+  },
+  {
+    "word": "unsound ",
+    "value": -2
+  },
+  {
+    "word": "extreme ",
+    "value": -2
+  },
+  {
+    "word": "great ",
+    "value": -2
+  },
+  {
+    "word": "insufferable ",
+    "value": -2
+  },
+  {
+    "word": "game ",
+    "value": -2
+  },
+  {
+    "word": "crippled ",
+    "value": -2
+  },
+  {
+    "word": "deformed ",
+    "value": -2
+  },
+  {
+    "word": "acheronian ",
+    "value": -2
+  },
+  {
+    "word": "acherontic ",
+    "value": -2
+  },
+  {
+    "word": "bleak ",
+    "value": -2
+  },
+  {
+    "word": "depressive ",
+    "value": -2
+  },
+  {
+    "word": "discouraging ",
+    "value": -2
+  },
+  {
+    "word": "dismal ",
+    "value": -2
+  },
+  {
+    "word": "dispiriting ",
+    "value": -2
+  },
+  {
+    "word": "drab ",
+    "value": -2
+  },
+  {
+    "word": "dusky ",
+    "value": -2
+  },
+  {
+    "word": "funereal ",
+    "value": -2
+  },
+  {
+    "word": "joyless ",
+    "value": -2
+  },
+  {
+    "word": "oppressive ",
+    "value": -2
+  },
+  {
+    "word": "saddening ",
+    "value": -2
+  },
+  {
+    "word": "tenebrific ",
+    "value": -2
+  },
+  {
+    "word": "good ",
+    "value": -2
+  },
+  {
+    "word": "acceptable ",
+    "value": -2
+  },
+  {
+    "word": "admirable ",
+    "value": -2
+  },
+  {
+    "word": "agreeable ",
+    "value": -2
+  },
+  {
+    "word": "bully ",
+    "value": -2
+  },
+  {
+    "word": "choice ",
+    "value": -2
+  },
+  {
+    "word": "commendable ",
+    "value": -2
+  },
+  {
+    "word": "congenial ",
+    "value": -2
+  },
+  {
+    "word": "crack ",
+    "value": -2
+  },
+  {
+    "word": "deluxe ",
+    "value": -2
+  },
+  {
+    "word": "excellent ",
+    "value": -2
+  },
+  {
+    "word": "exceptional ",
+    "value": -2
+  },
+  {
+    "word": "favorable ",
+    "value": -2
+  },
+  {
+    "word": "gnarly ",
+    "value": -2
+  },
+  {
+    "word": "gratifying ",
+    "value": -2
+  },
+  {
+    "word": "honorable ",
+    "value": -2
+  },
+  {
+    "word": "marvelous ",
+    "value": -2
+  },
+  {
+    "word": "neat ",
+    "value": -2
+  },
+  {
+    "word": "nice ",
+    "value": -2
+  },
+  {
+    "word": "pleasing ",
+    "value": -2
+  },
+  {
+    "word": "positive ",
+    "value": -2
+  },
+  {
+    "word": "precious ",
+    "value": -2
+  },
+  {
+    "word": "rad ",
+    "value": -2
+  },
+  {
+    "word": "recherché ",
+    "value": -2
+  },
+  {
+    "word": "reputable ",
+    "value": -2
+  },
+  {
+    "word": "satisfactory ",
+    "value": -2
+  },
+  {
+    "word": "satisfying ",
+    "value": -2
+  },
+  {
+    "word": "select ",
+    "value": -2
+  },
+  {
+    "word": "shipshape ",
+    "value": -2
+  },
+  {
+    "word": "sound ",
+    "value": -2
+  },
+  {
+    "word": "spanking ",
+    "value": -2
+  },
+  {
+    "word": "splendid ",
+    "value": -2
+  },
+  {
+    "word": "sterling ",
+    "value": -2
+  },
+  {
+    "word": "stupendous ",
+    "value": -2
+  },
+  {
+    "word": "super-eminent ",
+    "value": -2
+  },
+  {
+    "word": "super-excellent ",
+    "value": -2
+  },
+  {
+    "word": "superb ",
+    "value": -2
+  },
+  {
+    "word": "superior ",
+    "value": -2
+  },
+  {
+    "word": "tip-top ",
+    "value": -2
+  },
+  {
+    "word": "up to snuff ",
+    "value": -2
+  },
+  {
+    "word": "valuable ",
+    "value": -2
+  },
+  {
+    "word": "welcome ",
+    "value": -2
+  },
+  {
+    "word": "wonderful ",
+    "value": -2
+  },
+  {
+    "word": "worthy ",
+    "value": -2
+  },
+  {
+    "word": "able ",
+    "value": -2
+  },
+  {
+    "word": "absolute ",
+    "value": -2
+  },
+  {
+    "word": "aces ",
+    "value": -2
+  },
+  {
+    "word": "adept ",
+    "value": -2
+  },
+  {
+    "word": "adroit ",
+    "value": -2
+  },
+  {
+    "word": "awesome ",
+    "value": -2
+  },
+  {
+    "word": "complete ",
+    "value": -2
+  },
+  {
+    "word": "consummate ",
+    "value": -2
+  },
+  {
+    "word": "downright ",
+    "value": -2
+  },
+  {
+    "word": "egregious ",
+    "value": -2
+  },
+  {
+    "word": "expert ",
+    "value": -2
+  },
+  {
+    "word": "fab ",
+    "value": -2
+  },
+  {
+    "word": "fantastic ",
+    "value": -2
+  },
+  {
+    "word": "fine ",
+    "value": -2
+  },
+  {
+    "word": "hellacious ",
+    "value": -2
+  },
+  {
+    "word": "masterly ",
+    "value": -2
+  },
+  {
+    "word": "number one ",
+    "value": -2
+  },
+  {
+    "word": "out of sight ",
+    "value": -2
+  },
+  {
+    "word": "out of this world ",
+    "value": -2
+  },
+  {
+    "word": "out-and-out ",
+    "value": -2
+  },
+  {
+    "word": "proficient ",
+    "value": -2
+  },
+  {
+    "word": "super-duper ",
+    "value": -2
+  },
+  {
+    "word": "surpassing ",
+    "value": -2
+  },
+  {
+    "word": "unmitigated ",
+    "value": -2
+  },
+  {
+    "word": "unqualified ",
+    "value": -2
+  },
+  {
+    "word": "utter ",
+    "value": -2
+  },
+  {
+    "word": "agonizingly ",
+    "value": -2
+  },
+  {
+    "word": "arduously ",
+    "value": -2
+  },
+  {
+    "word": "awkwardly ",
+    "value": -2
+  },
+  {
+    "word": "burdensomely ",
+    "value": -2
+  },
+  {
+    "word": "carefully ",
+    "value": -2
+  },
+  {
+    "word": "cumbersomely ",
+    "value": -2
+  },
+  {
+    "word": "cumbrously ",
+    "value": -2
+  },
+  {
+    "word": "distressingly ",
+    "value": -2
+  },
+  {
+    "word": "exhaustingly ",
+    "value": -2
+  },
+  {
+    "word": "gruelingly ",
+    "value": -2
+  },
+  {
+    "word": "hardly ",
+    "value": -2
+  },
+  {
+    "word": "harshly ",
+    "value": -2
+  },
+  {
+    "word": "inconveniently ",
+    "value": -2
+  },
+  {
+    "word": "laboriously ",
+    "value": -2
+  },
+  {
+    "word": "painfully ",
+    "value": -2
+  },
+  {
+    "word": "ponderously ",
+    "value": -2
+  },
+  {
+    "word": "roughly ",
+    "value": -2
+  },
+  {
+    "word": "severely ",
+    "value": -2
+  },
+  {
+    "word": "strenuously ",
+    "value": -2
+  },
+  {
+    "word": "tiredly ",
+    "value": -2
+  },
+  {
+    "word": "toilsomely ",
+    "value": -2
+  },
+  {
+    "word": "unwieldily ",
+    "value": -2
+  },
+  {
+    "word": "vigorously ",
+    "value": -2
+  },
+  {
+    "word": "with great effort ",
+    "value": -2
+  },
+  {
+    "word": "cataclysmic ",
+    "value": -2
+  },
+  {
+    "word": "catastrophic ",
+    "value": -2
+  },
+  {
+    "word": "consumptive ",
+    "value": -2
+  },
+  {
+    "word": "corroding ",
+    "value": -2
+  },
+  {
+    "word": "corrupting ",
+    "value": -2
+  },
+  {
+    "word": "crippling ",
+    "value": -2
+  },
+  {
+    "word": "harassing ",
+    "value": -2
+  },
+  {
+    "word": "incendiary ",
+    "value": -2
+  },
+  {
+    "word": "internecine ",
+    "value": -2
+  },
+  {
+    "word": "malefic ",
+    "value": -2
+  },
+  {
+    "word": "murderous ",
+    "value": -2
+  },
+  {
+    "word": "noxious ",
+    "value": -2
+  },
+  {
+    "word": "painful ",
+    "value": -2
+  },
+  {
+    "word": "pestiferous ",
+    "value": -2
+  },
+  {
+    "word": "pestilential ",
+    "value": -2
+  },
+  {
+    "word": "subversive ",
+    "value": -2
+  },
+  {
+    "word": "toxic ",
+    "value": -2
+  },
+  {
+    "word": "undermining ",
+    "value": -2
+  },
+  {
+    "word": "unwholesome ",
+    "value": -2
+  },
+  {
+    "word": "virulent ",
+    "value": -2
+  },
+  {
+    "word": "crying ",
+    "value": -2
+  },
+  {
+    "word": "grave ",
+    "value": -2
+  },
+  {
+    "word": "outrageous ",
+    "value": -2
+  },
+  {
+    "word": "unspeakable ",
+    "value": -2
+  },
+  {
+    "word": "beyond recall ",
+    "value": -2
+  },
+  {
+    "word": "cynical ",
+    "value": -2
+  },
+  {
+    "word": "demoralized ",
+    "value": -2
+  },
+  {
+    "word": "gone ",
+    "value": -2
+  },
+  {
+    "word": "goner ",
+    "value": -2
+  },
+  {
+    "word": "helpless ",
+    "value": -2
+  },
+  {
+    "word": "ill-fated ",
+    "value": -2
+  },
+  {
+    "word": "impossible ",
+    "value": -2
+  },
+  {
+    "word": "impracticable ",
+    "value": -2
+  },
+  {
+    "word": "in despair ",
+    "value": -2
+  },
+  {
+    "word": "incurable ",
+    "value": -2
+  },
+  {
+    "word": "irredeemable ",
+    "value": -2
+  },
+  {
+    "word": "irreparable ",
+    "value": -2
+  },
+  {
+    "word": "irreversible ",
+    "value": -2
+  },
+  {
+    "word": "irrevocable ",
+    "value": -2
+  },
+  {
+    "word": "no-win ",
+    "value": -2
+  },
+  {
+    "word": "past hope ",
+    "value": -2
+  },
+  {
+    "word": "pointless ",
+    "value": -2
+  },
+  {
+    "word": "unachievable ",
+    "value": -2
+  },
+  {
+    "word": "unavailing ",
+    "value": -2
+  },
+  {
+    "word": "unfortunate ",
+    "value": -2
+  },
+  {
+    "word": "unmitigable ",
+    "value": -2
+  },
+  {
+    "word": "up the creek ",
+    "value": -2
+  },
+  {
+    "word": "vain ",
+    "value": -2
+  },
+  {
+    "word": "worsening ",
+    "value": -2
+  },
+  {
+    "word": "aching ",
+    "value": -2
+  },
+  {
+    "word": "cutting ",
+    "value": -2
+  },
+  {
+    "word": "ominous ",
+    "value": -2
+  },
+  {
+    "word": "poisonous ",
+    "value": -2
+  },
+  {
+    "word": "unkind ",
+    "value": -2
+  },
+  {
+    "word": "wounding ",
+    "value": -2
+  },
+  {
+    "word": "X-rated ",
+    "value": -2
+  },
+  {
+    "word": "dishonest ",
+    "value": -2
+  },
+  {
+    "word": "dissipated ",
+    "value": -2
+  },
+  {
+    "word": "graceless ",
+    "value": -2
+  },
+  {
+    "word": "impure ",
+    "value": -2
+  },
+  {
+    "word": "indecent ",
+    "value": -2
+  },
+  {
+    "word": "loose ",
+    "value": -2
+  },
+  {
+    "word": "of easy virtue ",
+    "value": -2
+  },
+  {
+    "word": "pornographic ",
+    "value": -2
+  },
+  {
+    "word": "rakish ",
+    "value": -2
+  },
+  {
+    "word": "saturnalian ",
+    "value": -2
+  },
+  {
+    "word": "speedy ",
+    "value": -2
+  },
+  {
+    "word": "unchaste ",
+    "value": -2
+  },
+  {
+    "word": "unclean ",
+    "value": -2
+  },
+  {
+    "word": "unethical ",
+    "value": -2
+  },
+  {
+    "word": "unscrupulous ",
+    "value": -2
+  },
+  {
+    "word": "inauspicious ",
+    "value": -2
+  },
+  {
+    "word": "fateful ",
+    "value": -2
+  },
+  {
+    "word": "foreboding ",
+    "value": -2
+  },
+  {
+    "word": "ill-boding ",
+    "value": -2
+  },
+  {
+    "word": "ill-omened ",
+    "value": -2
+  },
+  {
+    "word": "inopportune ",
+    "value": -2
+  },
+  {
+    "word": "unlucky ",
+    "value": -2
+  },
+  {
+    "word": "unpromising ",
+    "value": -2
+  },
+  {
+    "word": "untimely ",
+    "value": -2
+  },
+  {
+    "word": "indefensible ",
+    "value": -2
+  },
+  {
+    "word": "inexpiable ",
+    "value": -2
+  },
+  {
+    "word": "insupportable ",
+    "value": -2
+  },
+  {
+    "word": "unforgivable ",
+    "value": -2
+  },
+  {
+    "word": "unjustifiable ",
+    "value": -2
+  },
+  {
+    "word": "unpardonable ",
+    "value": -2
+  },
+  {
+    "word": "untenable ",
+    "value": -2
+  },
+  {
+    "word": "unwarrantable ",
+    "value": -2
+  },
+  {
+    "word": "confined ",
+    "value": -2
+  },
+  {
+    "word": "feeling rotten ",
+    "value": -2
+  },
+  {
+    "word": "got a bug ",
+    "value": -2
+  },
+  {
+    "word": "on sick list ",
+    "value": -2
+  },
+  {
+    "word": "out of action ",
+    "value": -2
+  },
+  {
+    "word": "poorly ",
+    "value": -2
+  },
+  {
+    "word": "average ",
+    "value": -2
+  },
+  {
+    "word": "déclassé ",
+    "value": -2
+  },
+  {
+    "word": "fair ",
+    "value": -2
+  },
+  {
+    "word": "good-for-nothing ",
+    "value": -2
+  },
+  {
+    "word": "hack ",
+    "value": -2
+  },
+  {
+    "word": "indifferent ",
+    "value": -2
+  },
+  {
+    "word": "junk ",
+    "value": -2
+  },
+  {
+    "word": "low-grade ",
+    "value": -2
+  },
+  {
+    "word": "low-rent ",
+    "value": -2
+  },
+  {
+    "word": "middling ",
+    "value": -2
+  },
+  {
+    "word": "poorer ",
+    "value": -2
+  },
+  {
+    "word": "second-class ",
+    "value": -2
+  },
+  {
+    "word": "substandard ",
+    "value": -2
+  },
+  {
+    "word": "worse ",
+    "value": -2
+  },
+  {
+    "word": "anemic ",
+    "value": -2
+  },
+  {
+    "word": "anile ",
+    "value": -2
+  },
+  {
+    "word": "decrepit ",
+    "value": -2
+  },
+  {
+    "word": "failing ",
+    "value": -2
+  },
+  {
+    "word": "faint ",
+    "value": -2
+  },
+  {
+    "word": "faltering ",
+    "value": -2
+  },
+  {
+    "word": "flimsy ",
+    "value": -2
+  },
+  {
+    "word": "fragile ",
+    "value": -2
+  },
+  {
+    "word": "halting ",
+    "value": -2
+  },
+  {
+    "word": "irresolute ",
+    "value": -2
+  },
+  {
+    "word": "laid low ",
+    "value": -2
+  },
+  {
+    "word": "sensile ",
+    "value": -2
+  },
+  {
+    "word": "unsubstantial ",
+    "value": -2
+  },
+  {
+    "word": "vacillating ",
+    "value": -2
+  },
+  {
+    "word": "wavering ",
+    "value": -2
+  },
+  {
+    "word": "wobbly ",
+    "value": -2
+  },
+  {
+    "word": "antipathetic ",
+    "value": -2
+  },
+  {
+    "word": "disaffected ",
+    "value": -2
+  },
+  {
+    "word": "hostile ",
+    "value": -2
+  },
+  {
+    "word": "ill-disposed ",
+    "value": -2
+  },
+  {
+    "word": "inimicable ",
+    "value": -2
+  },
+  {
+    "word": "opposed ",
+    "value": -2
+  },
+  {
+    "word": "oppugnant ",
+    "value": -2
+  },
+  {
+    "word": "unfriendly ",
+    "value": -2
+  },
+  {
+    "word": "unwelcoming ",
+    "value": -2
+  },
+  {
+    "word": "abusive ",
+    "value": -2
+  },
+  {
+    "word": "insulting ",
+    "value": -2
+  },
+  {
+    "word": "libeling ",
+    "value": -2
+  },
+  {
+    "word": "slanderous ",
+    "value": -2
+  },
+  {
+    "word": "unconducive ",
+    "value": -2
+  },
+  {
+    "word": "unjust ",
+    "value": -2
+  },
+  {
+    "word": "wrongful ",
+    "value": -2
+  },
+  {
+    "word": "baseless ",
+    "value": -2
+  },
+  {
+    "word": "ill-founded ",
+    "value": -2
+  },
+  {
+    "word": "illogical ",
+    "value": -2
+  },
+  {
+    "word": "inoperative ",
+    "value": -2
+  },
+  {
+    "word": "irrational ",
+    "value": -2
+  },
+  {
+    "word": "not binding ",
+    "value": -2
+  },
+  {
+    "word": "not working ",
+    "value": -2
+  },
+  {
+    "word": "nugatory ",
+    "value": -2
+  },
+  {
+    "word": "null ",
+    "value": -2
+  },
+  {
+    "word": "null and void ",
+    "value": -2
+  },
+  {
+    "word": "reasonless ",
+    "value": -2
+  },
+  {
+    "word": "sophistic ",
+    "value": -2
+  },
+  {
+    "word": "unreasonable ",
+    "value": -2
+  },
+  {
+    "word": "unreasoned ",
+    "value": -2
+  },
+  {
+    "word": "unscientific ",
+    "value": -2
+  },
+  {
+    "word": "untrue ",
+    "value": -2
+  },
+  {
+    "word": "void ",
+    "value": -2
+  },
+  {
+    "word": "on the sick list ",
+    "value": -2
+  },
+  {
+    "word": "peaked ",
+    "value": -2
+  },
+  {
+    "word": "run-down ",
+    "value": -2
+  },
+  {
+    "word": "lamentable ",
+    "value": -2
+  },
+  {
+    "word": "deplorable ",
+    "value": -2
+  },
+  {
+    "word": "dolorous ",
+    "value": -2
+  },
+  {
+    "word": "god-awful ",
+    "value": -2
+  },
+  {
+    "word": "mournful ",
+    "value": -2
+  },
+  {
+    "word": "plaintive ",
+    "value": -2
+  },
+  {
+    "word": "regretful ",
+    "value": -2
+  },
+  {
+    "word": "rueful ",
+    "value": -2
+  },
+  {
+    "word": "lawless ",
+    "value": -2
+  },
+  {
+    "word": "anarchic ",
+    "value": -2
+  },
+  {
+    "word": "anarchical ",
+    "value": -2
+  },
+  {
+    "word": "anarchistic ",
+    "value": -2
+  },
+  {
+    "word": "barbarous ",
+    "value": -2
+  },
+  {
+    "word": "chaotic ",
+    "value": -2
+  },
+  {
+    "word": "contumacious ",
+    "value": -2
+  },
+  {
+    "word": "criminal ",
+    "value": -2
+  },
+  {
+    "word": "despotic ",
+    "value": -2
+  },
+  {
+    "word": "disobedient ",
+    "value": -2
+  },
+  {
+    "word": "disordered ",
+    "value": -2
+  },
+  {
+    "word": "fierce ",
+    "value": -2
+  },
+  {
+    "word": "heterodox ",
+    "value": -2
+  },
+  {
+    "word": "infringing ",
+    "value": -2
+  },
+  {
+    "word": "insubordinate ",
+    "value": -2
+  },
+  {
+    "word": "insurgent ",
+    "value": -2
+  },
+  {
+    "word": "mutinous ",
+    "value": -2
+  },
+  {
+    "word": "nihilistic ",
+    "value": -2
+  },
+  {
+    "word": "noncompliant ",
+    "value": -2
+  },
+  {
+    "word": "nonconformist ",
+    "value": -2
+  },
+  {
+    "word": "piratical ",
+    "value": -2
+  },
+  {
+    "word": "rebellious ",
+    "value": -2
+  },
+  {
+    "word": "recusant ",
+    "value": -2
+  },
+  {
+    "word": "revolutionary ",
+    "value": -2
+  },
+  {
+    "word": "riotous ",
+    "value": -2
+  },
+  {
+    "word": "seditious ",
+    "value": -2
+  },
+  {
+    "word": "tempestuous ",
+    "value": -2
+  },
+  {
+    "word": "terrorizing ",
+    "value": -2
+  },
+  {
+    "word": "traitorous ",
+    "value": -2
+  },
+  {
+    "word": "turbulent ",
+    "value": -2
+  },
+  {
+    "word": "tyrannous ",
+    "value": -2
+  },
+  {
+    "word": "uncivilized ",
+    "value": -2
+  },
+  {
+    "word": "uncultivated ",
+    "value": -2
+  },
+  {
+    "word": "unorthodox ",
+    "value": -2
+  },
+  {
+    "word": "unpeaceful ",
+    "value": -2
+  },
+  {
+    "word": "unrestrained ",
+    "value": -2
+  },
+  {
+    "word": "unruly ",
+    "value": -2
+  },
+  {
+    "word": "untamed ",
+    "value": -2
+  },
+  {
+    "word": "warlike ",
+    "value": -2
+  },
+  {
+    "word": "wild ",
+    "value": -2
+  },
+  {
+    "word": "dizzy ",
+    "value": -2
+  },
+  {
+    "word": "dying ",
+    "value": -2
+  },
+  {
+    "word": "exhausted ",
+    "value": -2
+  },
+  {
+    "word": "reduced ",
+    "value": -2
+  },
+  {
+    "word": "sinking ",
+    "value": -2
+  },
+  {
+    "word": "stricken ",
+    "value": -2
+  },
+  {
+    "word": "malign ",
+    "value": -2
+  },
+  {
+    "word": "antagonistic ",
+    "value": -2
+  },
+  {
+    "word": "despiteful ",
+    "value": -2
+  },
+  {
+    "word": "malodorous ",
+    "value": -2
+  },
+  {
+    "word": "fetid ",
+    "value": -2
+  },
+  {
+    "word": "frowzy ",
+    "value": -2
+  },
+  {
+    "word": "funky ",
+    "value": -2
+  },
+  {
+    "word": "fusty ",
+    "value": -2
+  },
+  {
+    "word": "gamy ",
+    "value": -2
+  },
+  {
+    "word": "high ",
+    "value": -2
+  },
+  {
+    "word": "infested ",
+    "value": -2
+  },
+  {
+    "word": "mephitic ",
+    "value": -2
+  },
+  {
+    "word": "musty ",
+    "value": -2
+  },
+  {
+    "word": "polluted ",
+    "value": -2
+  },
+  {
+    "word": "rancid ",
+    "value": -2
+  },
+  {
+    "word": "reeking ",
+    "value": -2
+  },
+  {
+    "word": "smelly ",
+    "value": -2
+  },
+  {
+    "word": "stale ",
+    "value": -2
+  },
+  {
+    "word": "stenchful ",
+    "value": -2
+  },
+  {
+    "word": "strong ",
+    "value": -2
+  },
+  {
+    "word": "astonishing ",
+    "value": -2
+  },
+  {
+    "word": "colossal ",
+    "value": -2
+  },
+  {
+    "word": "divine ",
+    "value": -2
+  },
+  {
+    "word": "dreamy ",
+    "value": -2
+  },
+  {
+    "word": "enjoyable ",
+    "value": -2
+  },
+  {
+    "word": "fabulous ",
+    "value": -2
+  },
+  {
+    "word": "glorious ",
+    "value": -2
+  },
+  {
+    "word": "groovy ",
+    "value": -2
+  },
+  {
+    "word": "keen ",
+    "value": -2
+  },
+  {
+    "word": "magnificent ",
+    "value": -2
+  },
+  {
+    "word": "peachy ",
+    "value": -2
+  },
+  {
+    "word": "pleasant ",
+    "value": -2
+  },
+  {
+    "word": "pleasurable ",
+    "value": -2
+  },
+  {
+    "word": "rewarding ",
+    "value": -2
+  },
+  {
+    "word": "sensational ",
+    "value": -2
+  },
+  {
+    "word": "smashing ",
+    "value": -2
+  },
+  {
+    "word": "solid ",
+    "value": -2
+  },
+  {
+    "word": "solid gold ",
+    "value": -2
+  },
+  {
+    "word": "spectacular ",
+    "value": -2
+  },
+  {
+    "word": "swell ",
+    "value": -2
+  },
+  {
+    "word": "arch ",
+    "value": -2
+  },
+  {
+    "word": "artful ",
+    "value": -2
+  },
+  {
+    "word": "dickens ",
+    "value": -2
+  },
+  {
+    "word": "exasperating ",
+    "value": -2
+  },
+  {
+    "word": "foxy ",
+    "value": -2
+  },
+  {
+    "word": "frolicsome ",
+    "value": -2
+  },
+  {
+    "word": "hazardous ",
+    "value": -2
+  },
+  {
+    "word": "holy terror ",
+    "value": -2
+  },
+  {
+    "word": "ill-behaved ",
+    "value": -2
+  },
+  {
+    "word": "impish ",
+    "value": -2
+  },
+  {
+    "word": "insidious ",
+    "value": -2
+  },
+  {
+    "word": "irksome ",
+    "value": -2
+  },
+  {
+    "word": "misbehaving ",
+    "value": -2
+  },
+  {
+    "word": "naughty ",
+    "value": -2
+  },
+  {
+    "word": "playful ",
+    "value": -2
+  },
+  {
+    "word": "puckish ",
+    "value": -2
+  },
+  {
+    "word": "rascal ",
+    "value": -2
+  },
+  {
+    "word": "rascally ",
+    "value": -2
+  },
+  {
+    "word": "rude ",
+    "value": -2
+  },
+  {
+    "word": "sly ",
+    "value": -2
+  },
+  {
+    "word": "sportive ",
+    "value": -2
+  },
+  {
+    "word": "teasing ",
+    "value": -2
+  },
+  {
+    "word": "tricky ",
+    "value": -2
+  },
+  {
+    "word": "troublesome ",
+    "value": -2
+  },
+  {
+    "word": "vexing ",
+    "value": -2
+  },
+  {
+    "word": "wayward ",
+    "value": -2
+  },
+  {
+    "word": "afflicted ",
+    "value": -2
+  },
+  {
+    "word": "agonized ",
+    "value": -2
+  },
+  {
+    "word": "anguished ",
+    "value": -2
+  },
+  {
+    "word": "brokenhearted ",
+    "value": -2
+  },
+  {
+    "word": "discontented ",
+    "value": -2
+  },
+  {
+    "word": "hurt ",
+    "value": -2
+  },
+  {
+    "word": "pained ",
+    "value": -2
+  },
+  {
+    "word": "pathetic ",
+    "value": -2
+  },
+  {
+    "word": "racked ",
+    "value": -2
+  },
+  {
+    "word": "ruthful ",
+    "value": -2
+  },
+  {
+    "word": "strained ",
+    "value": -2
+  },
+  {
+    "word": "tormented ",
+    "value": -2
+  },
+  {
+    "word": "tortured ",
+    "value": -2
+  },
+  {
+    "word": "wounded ",
+    "value": -2
+  },
+  {
+    "word": "godforsaken ",
+    "value": -2
+  },
+  {
+    "word": "impoverished ",
+    "value": -2
+  },
+  {
+    "word": "indigent ",
+    "value": -2
+  },
+  {
+    "word": "needy ",
+    "value": -2
+  },
+  {
+    "word": "penniless ",
+    "value": -2
+  },
+  {
+    "word": "piteous ",
+    "value": -2
+  },
+  {
+    "word": "poverty-stricken ",
+    "value": -2
+  },
+  {
+    "word": "squalid ",
+    "value": -2
+  },
+  {
+    "word": "mortally ",
+    "value": -2
+  },
+  {
+    "word": "critically ",
+    "value": -2
+  },
+  {
+    "word": "nauseous ",
+    "value": -2
+  },
+  {
+    "word": "brackish ",
+    "value": -2
+  },
+  {
+    "word": "nauseated ",
+    "value": -2
+  },
+  {
+    "word": "seasick ",
+    "value": -2
+  },
+  {
+    "word": "sick as dog ",
+    "value": -2
+  },
+  {
+    "word": "squeamish ",
+    "value": -2
+  },
+  {
+    "word": "absent ",
+    "value": -2
+  },
+  {
+    "word": "barren ",
+    "value": -2
+  },
+  {
+    "word": "characterless ",
+    "value": -2
+  },
+  {
+    "word": "imaginary ",
+    "value": -2
+  },
+  {
+    "word": "ineffective ",
+    "value": -2
+  },
+  {
+    "word": "inefficacious ",
+    "value": -2
+  },
+  {
+    "word": "nonexistent ",
+    "value": -2
+  },
+  {
+    "word": "nothing ",
+    "value": -2
+  },
+  {
+    "word": "powerless ",
+    "value": -2
+  },
+  {
+    "word": "unreal ",
+    "value": -2
+  },
+  {
+    "word": "unsanctioned ",
+    "value": -2
+  },
+  {
+    "word": "low-quality ",
+    "value": -2
+  },
+  {
+    "word": "mortifying ",
+    "value": -2
+  },
+  {
+    "word": "not up to snuff ",
+    "value": -2
+  },
+  {
+    "word": "quiet ",
+    "value": -2
+  },
+  {
+    "word": "turned ",
+    "value": -2
+  },
+  {
+    "word": "unrewarding ",
+    "value": -2
+  },
+  {
+    "word": "A-number-1 ",
+    "value": -2
+  },
+  {
+    "word": "celebrated ",
+    "value": -2
+  },
+  {
+    "word": "distinguished ",
+    "value": -2
+  },
+  {
+    "word": "dominant ",
+    "value": -2
+  },
+  {
+    "word": "eminent ",
+    "value": -2
+  },
+  {
+    "word": "eventful ",
+    "value": -2
+  },
+  {
+    "word": "famous ",
+    "value": -2
+  },
+  {
+    "word": "far-out ",
+    "value": -2
+  },
+  {
+    "word": "hundred-proof ",
+    "value": -2
+  },
+  {
+    "word": "important ",
+    "value": -2
+  },
+  {
+    "word": "impressive ",
+    "value": -2
+  },
+  {
+    "word": "main ",
+    "value": -2
+  },
+  {
+    "word": "major ",
+    "value": -2
+  },
+  {
+    "word": "meritorious ",
+    "value": -2
+  },
+  {
+    "word": "momentous ",
+    "value": -2
+  },
+  {
+    "word": "mostest ",
+    "value": -2
+  },
+  {
+    "word": "out-of-this-world ",
+    "value": -2
+  },
+  {
+    "word": "phenomenal ",
+    "value": -2
+  },
+  {
+    "word": "predominant ",
+    "value": -2
+  },
+  {
+    "word": "special ",
+    "value": -2
+  },
+  {
+    "word": "standout ",
+    "value": -2
+  },
+  {
+    "word": "star ",
+    "value": -2
+  },
+  {
+    "word": "steller ",
+    "value": -2
+  },
+  {
+    "word": "well-known ",
+    "value": -2
+  },
+  {
+    "word": "world-class ",
+    "value": -2
+  },
+  {
+    "word": "bilious ",
+    "value": -2
+  },
+  {
+    "word": "emaciated ",
+    "value": -2
+  },
+  {
+    "word": "in bad shape ",
+    "value": -2
+  },
+  {
+    "word": "peaky ",
+    "value": -2
+  },
+  {
+    "word": "wan ",
+    "value": -2
+  },
+  {
+    "word": "poison/poisonous ",
+    "value": -2
+  },
+  {
+    "word": "corruptive ",
+    "value": -2
+  },
+  {
+    "word": "infective ",
+    "value": -2
+  },
+  {
+    "word": "lethal ",
+    "value": -2
+  },
+  {
+    "word": "miasmatic ",
+    "value": -2
+  },
+  {
+    "word": "morbid ",
+    "value": -2
+  },
+  {
+    "word": "peccant ",
+    "value": -2
+  },
+  {
+    "word": "septic ",
+    "value": -2
+  },
+  {
+    "word": "toxicant ",
+    "value": -2
+  },
+  {
+    "word": "toxiferous ",
+    "value": -2
+  },
+  {
+    "word": "venomous ",
+    "value": -2
+  },
+  {
+    "word": "out of sorts ",
+    "value": -2
+  },
+  {
+    "word": "crudely ",
+    "value": -2
+  },
+  {
+    "word": "defectively ",
+    "value": -2
+  },
+  {
+    "word": "inadequately ",
+    "value": -2
+  },
+  {
+    "word": "incompetently ",
+    "value": -2
+  },
+  {
+    "word": "inexpertly ",
+    "value": -2
+  },
+  {
+    "word": "inferiorly ",
+    "value": -2
+  },
+  {
+    "word": "insufficiently ",
+    "value": -2
+  },
+  {
+    "word": "meanly ",
+    "value": -2
+  },
+  {
+    "word": "shabbily ",
+    "value": -2
+  },
+  {
+    "word": "unsuccessfully ",
+    "value": -2
+  },
+  {
+    "word": "biased ",
+    "value": -2
+  },
+  {
+    "word": "bigoted ",
+    "value": -2
+  },
+  {
+    "word": "counterproductive ",
+    "value": -2
+  },
+  {
+    "word": "differential ",
+    "value": -2
+  },
+  {
+    "word": "discriminatory ",
+    "value": -2
+  },
+  {
+    "word": "prodigious ",
+    "value": -2
+  },
+  {
+    "word": "abnormal ",
+    "value": -2
+  },
+  {
+    "word": "amazing ",
+    "value": -2
+  },
+  {
+    "word": "miraculous ",
+    "value": -2
+  },
+  {
+    "word": "preternatural ",
+    "value": -2
+  },
+  {
+    "word": "remarkable ",
+    "value": -2
+  },
+  {
+    "word": "staggering ",
+    "value": -2
+  },
+  {
+    "word": "startling ",
+    "value": -2
+  },
+  {
+    "word": "state-of-the-art ",
+    "value": -2
+  },
+  {
+    "word": "striking ",
+    "value": -2
+  },
+  {
+    "word": "surprising ",
+    "value": -2
+  },
+  {
+    "word": "unusual ",
+    "value": -2
+  },
+  {
+    "word": "utmost ",
+    "value": -2
+  },
+  {
+    "word": "contaminated ",
+    "value": -2
+  },
+  {
+    "word": "nidorous ",
+    "value": -2
+  },
+  {
+    "word": "rotting ",
+    "value": -2
+  },
+  {
+    "word": "whiffy ",
+    "value": -2
+  },
+  {
+    "word": "anxious ",
+    "value": -2
+  },
+  {
+    "word": "concerned ",
+    "value": -2
+  },
+  {
+    "word": "fidgety ",
+    "value": -2
+  },
+  {
+    "word": "green around gills ",
+    "value": -2
+  },
+  {
+    "word": "groggy ",
+    "value": -2
+  },
+  {
+    "word": "ill at ease ",
+    "value": -2
+  },
+  {
+    "word": "pukish ",
+    "value": -2
+  },
+  {
+    "word": "qualmish ",
+    "value": -2
+  },
+  {
+    "word": "queer ",
+    "value": -2
+  },
+  {
+    "word": "restless ",
+    "value": -2
+  },
+  {
+    "word": "uncertain ",
+    "value": -2
+  },
+  {
+    "word": "uncomfortable ",
+    "value": -2
+  },
+  {
+    "word": "uneasy ",
+    "value": -2
+  },
+  {
+    "word": "worried ",
+    "value": -2
+  },
+  {
+    "word": "giddy ",
+    "value": -2
+  },
+  {
+    "word": "green ",
+    "value": -2
+  },
+  {
+    "word": "lightheaded ",
+    "value": -2
+  },
+  {
+    "word": "qualmy ",
+    "value": -2
+  },
+  {
+    "word": "reeling ",
+    "value": -2
+  },
+  {
+    "word": "curdled ",
+    "value": -2
+  },
+  {
+    "word": "decomposing ",
+    "value": -2
+  },
+  {
+    "word": "evil-smelling ",
+    "value": -2
+  },
+  {
+    "word": "feculent ",
+    "value": -2
+  },
+  {
+    "word": "moldy ",
+    "value": -2
+  },
+  {
+    "word": "olid ",
+    "value": -2
+  },
+  {
+    "word": "putrefactive ",
+    "value": -2
+  },
+  {
+    "word": "reeky ",
+    "value": -2
+  },
+  {
+    "word": "soured ",
+    "value": -2
+  },
+  {
+    "word": "dank ",
+    "value": -2
+  },
+  {
+    "word": "graveolent ",
+    "value": -2
+  },
+  {
+    "word": "humid ",
+    "value": -2
+  },
+  {
+    "word": "pungent ",
+    "value": -2
+  },
+  {
+    "word": "strong-smelling ",
+    "value": -2
+  },
+  {
+    "word": "incorrigible ",
+    "value": -2
+  },
+  {
+    "word": "rickety ",
+    "value": -2
+  },
+  {
+    "word": "tottering ",
+    "value": -2
+  },
+  {
+    "word": "unsteady ",
+    "value": -2
+  },
+  {
+    "word": "bad-smelling ",
+    "value": -2
+  },
+  {
+    "word": "crumbled ",
+    "value": -2
+  },
+  {
+    "word": "crumbling ",
+    "value": -2
+  },
+  {
+    "word": "disintegrated ",
+    "value": -2
+  },
+  {
+    "word": "disintegrating ",
+    "value": -2
+  },
+  {
+    "word": "fecal ",
+    "value": -2
+  },
+  {
+    "word": "festering ",
+    "value": -2
+  },
+  {
+    "word": "infected ",
+    "value": -2
+  },
+  {
+    "word": "loud ",
+    "value": -2
+  },
+  {
+    "word": "moldering ",
+    "value": -2
+  },
+  {
+    "word": "purulent ",
+    "value": -2
+  },
+  {
+    "word": "pustular ",
+    "value": -2
+  },
+  {
+    "word": "putrified ",
+    "value": -2
+  },
+  {
+    "word": "smelling ",
+    "value": -2
+  },
+  {
+    "word": "touched ",
+    "value": -2
+  },
+  {
+    "word": "dejecting ",
+    "value": -2
+  },
+  {
+    "word": "depressing ",
+    "value": -2
+  },
+  {
+    "word": "discomposing ",
+    "value": -2
+  },
+  {
+    "word": "hapless ",
+    "value": -2
+  },
+  {
+    "word": "heart-rending ",
+    "value": -2
+  },
+  {
+    "word": "lachrymose ",
+    "value": -2
+  },
+  {
+    "word": "melancholic ",
+    "value": -2
+  },
+  {
+    "word": "moving ",
+    "value": -2
+  },
+  {
+    "word": "regrettable ",
+    "value": -2
+  },
+  {
+    "word": "tear-jerking ",
+    "value": -2
+  },
+  {
+    "word": "tearful ",
+    "value": -2
+  },
+  {
+    "word": "seamy ",
+    "value": -2
+  },
+  {
+    "word": "acutely ",
+    "value": -2
+  },
+  {
+    "word": "decidedly ",
+    "value": -2
+  },
+  {
+    "word": "deplorably ",
+    "value": -2
+  },
+  {
+    "word": "grievously ",
+    "value": -2
+  },
+  {
+    "word": "intensely ",
+    "value": -2
+  },
+  {
+    "word": "menacingly ",
+    "value": -2
+  },
+  {
+    "word": "precariously ",
+    "value": -2
+  },
+  {
+    "word": "regrettably ",
+    "value": -2
+  },
+  {
+    "word": "sorely ",
+    "value": -2
+  },
+  {
+    "word": "threateningly ",
+    "value": -2
+  },
+  {
+    "word": "very ",
+    "value": -2
+  },
+  {
+    "word": "firmly ",
+    "value": -2
+  },
+  {
+    "word": "markedly ",
+    "value": -2
+  },
+  {
+    "word": "rigorously ",
+    "value": -2
+  },
+  {
+    "word": "sharply ",
+    "value": -2
+  },
+  {
+    "word": "sternly ",
+    "value": -2
+  },
+  {
+    "word": "strictly ",
+    "value": -2
+  },
+  {
+    "word": "with an iron hand ",
+    "value": -2
+  },
+  {
+    "word": "broken down ",
+    "value": -2
+  },
+  {
+    "word": "declining ",
+    "value": -2
+  },
+  {
+    "word": "feverish ",
+    "value": -2
+  },
+  {
+    "word": "funny ",
+    "value": -2
+  },
+  {
+    "word": "hospitalized ",
+    "value": -2
+  },
+  {
+    "word": "in a bad way ",
+    "value": -2
+  },
+  {
+    "word": "in poor health ",
+    "value": -2
+  },
+  {
+    "word": "laid-up ",
+    "value": -2
+  },
+  {
+    "word": "not so hot ",
+    "value": -2
+  },
+  {
+    "word": "under medication ",
+    "value": -2
+  },
+  {
+    "word": "blameful ",
+    "value": -2
+  },
+  {
+    "word": "blameworthy ",
+    "value": -2
+  },
+  {
+    "word": "censurable ",
+    "value": -2
+  },
+  {
+    "word": "culpable ",
+    "value": -2
+  },
+  {
+    "word": "demeritorious ",
+    "value": -2
+  },
+  {
+    "word": "guilty ",
+    "value": -2
+  },
+  {
+    "word": "irreligious ",
+    "value": -2
+  },
+  {
+    "word": "morally wrong ",
+    "value": -2
+  },
+  {
+    "word": "ungodly ",
+    "value": -2
+  },
+  {
+    "word": "unholy ",
+    "value": -2
+  },
+  {
+    "word": "unregenerate ",
+    "value": -2
+  },
+  {
+    "word": "unrighteous ",
+    "value": -2
+  },
+  {
+    "word": "apocalyptic ",
+    "value": -2
+  },
+  {
+    "word": "blackhearted ",
+    "value": -2
+  },
+  {
+    "word": "disquieting ",
+    "value": -2
+  },
+  {
+    "word": "doomful ",
+    "value": -2
+  },
+  {
+    "word": "lowering ",
+    "value": -2
+  },
+  {
+    "word": "perverse ",
+    "value": -2
+  },
+  {
+    "word": "grieved ",
+    "value": -2
+  },
+  {
+    "word": "heavyhearted ",
+    "value": -2
+  },
+  {
+    "word": "saddened ",
+    "value": -2
+  },
+  {
+    "word": "acerb ",
+    "value": -2
+  },
+  {
+    "word": "acetic ",
+    "value": -2
+  },
+  {
+    "word": "acetose ",
+    "value": -2
+  },
+  {
+    "word": "acetous ",
+    "value": -2
+  },
+  {
+    "word": "acid ",
+    "value": -2
+  },
+  {
+    "word": "acidic ",
+    "value": -2
+  },
+  {
+    "word": "acidulated ",
+    "value": -2
+  },
+  {
+    "word": "acrid ",
+    "value": -2
+  },
+  {
+    "word": "astringent ",
+    "value": -2
+  },
+  {
+    "word": "biting ",
+    "value": -2
+  },
+  {
+    "word": "briny ",
+    "value": -2
+  },
+  {
+    "word": "caustic ",
+    "value": -2
+  },
+  {
+    "word": "dry ",
+    "value": -2
+  },
+  {
+    "word": "fermented ",
+    "value": -2
+  },
+  {
+    "word": "peppery ",
+    "value": -2
+  },
+  {
+    "word": "piquant ",
+    "value": -2
+  },
+  {
+    "word": "salty ",
+    "value": -2
+  },
+  {
+    "word": "sourish ",
+    "value": -2
+  },
+  {
+    "word": "tart ",
+    "value": -2
+  },
+  {
+    "word": "unripe ",
+    "value": -2
+  },
+  {
+    "word": "vinegary ",
+    "value": -2
+  },
+  {
+    "word": "with a kick ",
+    "value": -2
+  },
+  {
+    "word": "below average ",
+    "value": -2
+  },
+  {
+    "word": "below standard ",
+    "value": -2
+  },
+  {
+    "word": "subpar ",
+    "value": -2
+  },
+  {
+    "word": "discouragingly ",
+    "value": -2
+  },
+  {
+    "word": "disturbingly ",
+    "value": -2
+  },
+  {
+    "word": "drastically ",
+    "value": -2
+  },
+  {
+    "word": "exceedingly ",
+    "value": -2
+  },
+  {
+    "word": "fearfully ",
+    "value": -2
+  },
+  {
+    "word": "frightfully ",
+    "value": -2
+  },
+  {
+    "word": "highly ",
+    "value": -2
+  },
+  {
+    "word": "horribly ",
+    "value": -2
+  },
+  {
+    "word": "mightily ",
+    "value": -2
+  },
+  {
+    "word": "notoriously ",
+    "value": -2
+  },
+  {
+    "word": "remarkably ",
+    "value": -2
+  },
+  {
+    "word": "staggeringly ",
+    "value": -2
+  },
+  {
+    "word": "thoroughly ",
+    "value": -2
+  },
+  {
+    "word": "unbelievably ",
+    "value": -2
+  },
+  {
+    "word": "unfortunately ",
+    "value": -2
+  },
+  {
+    "word": "unhappily ",
+    "value": -2
+  },
+  {
+    "word": "bad fortune ",
+    "value": -2
+  },
+  {
+    "word": "curse ",
+    "value": -2
+  },
+  {
+    "word": "dole ",
+    "value": -2
+  },
+  {
+    "word": "dolor ",
+    "value": -2
+  },
+  {
+    "word": "doom ",
+    "value": -2
+  },
+  {
+    "word": "humiliation ",
+    "value": -2
+  },
+  {
+    "word": "lot ",
+    "value": -2
+  },
+  {
+    "word": "struggle ",
+    "value": -2
+  },
+  {
+    "word": "unluckiness ",
+    "value": -2
+  },
+  {
+    "word": "arbitrary ",
+    "value": -2
+  },
+  {
+    "word": "cheating ",
+    "value": -2
+  },
+  {
+    "word": "dishonorable ",
+    "value": -2
+  },
+  {
+    "word": "illegal ",
+    "value": -2
+  },
+  {
+    "word": "inequitable ",
+    "value": -2
+  },
+  {
+    "word": "inexcusable ",
+    "value": -2
+  },
+  {
+    "word": "one-sided ",
+    "value": -2
+  },
+  {
+    "word": "partial ",
+    "value": -2
+  },
+  {
+    "word": "partisan ",
+    "value": -2
+  },
+  {
+    "word": "petty ",
+    "value": -2
+  },
+  {
+    "word": "uncalled-for ",
+    "value": -2
+  },
+  {
+    "word": "undue ",
+    "value": -2
+  },
+  {
+    "word": "unrightful ",
+    "value": -2
+  },
+  {
+    "word": "unsporting ",
+    "value": -2
+  },
+  {
+    "word": "unwarranted ",
+    "value": -2
+  },
+  {
+    "word": "contrary ",
+    "value": -2
+  },
+  {
+    "word": "discommodious ",
+    "value": -2
+  },
+  {
+    "word": "ill-advised ",
+    "value": -2
+  },
+  {
+    "word": "inadvisable ",
+    "value": -2
+  },
+  {
+    "word": "inconvenient ",
+    "value": -2
+  },
+  {
+    "word": "inexpedient ",
+    "value": -2
+  },
+  {
+    "word": "infelicitous ",
+    "value": -2
+  },
+  {
+    "word": "late ",
+    "value": -2
+  },
+  {
+    "word": "malapropos ",
+    "value": -2
+  },
+  {
+    "word": "tardy ",
+    "value": -2
+  },
+  {
+    "word": "unseasonable ",
+    "value": -2
+  },
+  {
+    "word": "unseemly ",
+    "value": -2
+  },
+  {
+    "word": "unsuited ",
+    "value": -2
+  },
+  {
+    "word": "dragging ",
+    "value": -2
+  },
+  {
+    "word": "in a decline ",
+    "value": -2
+  },
+  {
+    "word": "in ill health ",
+    "value": -2
+  },
+  {
+    "word": "out of shape ",
+    "value": -2
+  },
+  {
+    "word": "unappealing ",
+    "value": -2
+  },
+  {
+    "word": "unappetizing ",
+    "value": -2
+  },
+  {
+    "word": "disconcerting ",
+    "value": -2
+  },
+  {
+    "word": "for the birds ",
+    "value": -2
+  },
+  {
+    "word": "not good enough ",
+    "value": -2
+  },
+  {
+    "word": "schlocky ",
+    "value": -2
+  },
+  {
+    "word": "second ",
+    "value": -2
+  },
+  {
+    "word": "thin ",
+    "value": -2
+  },
+  {
+    "word": "undesirable ",
+    "value": -2
+  },
+  {
+    "word": "unwelcome ",
+    "value": -2
+  },
+  {
+    "word": "demented ",
+    "value": -2
+  },
+  {
+    "word": "deranged ",
+    "value": -2
+  },
+  {
+    "word": "incongruous ",
+    "value": -2
+  },
+  {
+    "word": "insubstantial ",
+    "value": -2
+  },
+  {
+    "word": "lunatic ",
+    "value": -2
+  },
+  {
+    "word": "not solid ",
+    "value": -2
+  },
+  {
+    "word": "specious ",
+    "value": -2
+  },
+  {
+    "word": "unbacked ",
+    "value": -2
+  },
+  {
+    "word": "unbalanced ",
+    "value": -2
+  },
+  {
+    "word": "unhinged ",
+    "value": -2
+  },
+  {
+    "word": "not feeling well ",
+    "value": -2
+  },
+  {
+    "word": "agitated ",
+    "value": -2
+  },
+  {
+    "word": "all torn up ",
+    "value": -2
+  },
+  {
+    "word": "amazed ",
+    "value": -2
+  },
+  {
+    "word": "antsy ",
+    "value": -2
+  },
+  {
+    "word": "apprehensive ",
+    "value": -2
+  },
+  {
+    "word": "broken up ",
+    "value": -2
+  },
+  {
+    "word": "capsized ",
+    "value": -2
+  },
+  {
+    "word": "come apart ",
+    "value": -2
+  },
+  {
+    "word": "disconcerted ",
+    "value": -2
+  },
+  {
+    "word": "disquieted ",
+    "value": -2
+  },
+  {
+    "word": "in disarray ",
+    "value": -2
+  },
+  {
+    "word": "jittery ",
+    "value": -2
+  },
+  {
+    "word": "jumpy ",
+    "value": -2
+  },
+  {
+    "word": "muddled ",
+    "value": -2
+  },
+  {
+    "word": "overturned ",
+    "value": -2
+  },
+  {
+    "word": "overwrought ",
+    "value": -2
+  },
+  {
+    "word": "psyched out ",
+    "value": -2
+  },
+  {
+    "word": "rattled ",
+    "value": -2
+  },
+  {
+    "word": "ruffled ",
+    "value": -2
+  },
+  {
+    "word": "shocked ",
+    "value": -2
+  },
+  {
+    "word": "shook up ",
+    "value": -2
+  },
+  {
+    "word": "spilled ",
+    "value": -2
+  },
+  {
+    "word": "thrown ",
+    "value": -2
+  },
+  {
+    "word": "tipped over ",
+    "value": -2
+  },
+  {
+    "word": "toppled ",
+    "value": -2
+  },
+  {
+    "word": "tumbled ",
+    "value": -2
+  },
+  {
+    "word": "unglued ",
+    "value": -2
+  },
+  {
+    "word": "unsettled ",
+    "value": -2
+  },
+  {
+    "word": "unzipped ",
+    "value": -2
+  },
+  {
+    "word": "upside-down ",
+    "value": -2
+  },
+  {
+    "word": "ferocious ",
+    "value": -2
+  },
+  {
+    "word": "coarse ",
+    "value": -2
+  },
+  {
+    "word": "humiliating ",
+    "value": -2
+  },
+  {
+    "word": "vulgar ",
+    "value": -2
+  },
+  {
+    "word": "felonious ",
+    "value": -2
+  },
+  {
+    "word": "illicit ",
+    "value": -2
+  },
+  {
+    "word": "knavish ",
+    "value": -2
+  },
+  {
+    "word": "avoided ",
+    "value": -2
+  },
+  {
+    "word": "dead ",
+    "value": -2
+  },
+  {
+    "word": "forceless ",
+    "value": -2
+  },
+  {
+    "word": "fruitless ",
+    "value": -2
+  },
+  {
+    "word": "ineffectual ",
+    "value": -2
+  },
+  {
+    "word": "negated ",
+    "value": -2
+  },
+  {
+    "word": "not viable ",
+    "value": -2
+  },
+  {
+    "word": "set aside ",
+    "value": -2
+  },
+  {
+    "word": "sterile ",
+    "value": -2
+  },
+  {
+    "word": "unconfirmed ",
+    "value": -2
+  },
+  {
+    "word": "unenforceable ",
+    "value": -2
+  },
+  {
+    "word": "unfruitful ",
+    "value": -2
+  },
+  {
+    "word": "unratified ",
+    "value": -2
+  },
+  {
+    "word": "unsuccessful ",
+    "value": -2
+  },
+  {
+    "word": "voided ",
+    "value": -2
+  },
+  {
+    "word": "grieving ",
+    "value": -2
+  },
+  {
+    "word": "heartrending ",
+    "value": -2
+  },
+  {
+    "word": "askew ",
+    "value": -2
+  },
+  {
+    "word": "astray ",
+    "value": -2
+  },
+  {
+    "word": "at fault ",
+    "value": -2
+  },
+  {
+    "word": "counterfactual ",
+    "value": -2
+  },
+  {
+    "word": "erratic ",
+    "value": -2
+  },
+  {
+    "word": "fluffed ",
+    "value": -2
+  },
+  {
+    "word": "goofed ",
+    "value": -2
+  },
+  {
+    "word": "in error ",
+    "value": -2
+  },
+  {
+    "word": "miscalculated ",
+    "value": -2
+  },
+  {
+    "word": "misconstrued ",
+    "value": -2
+  },
+  {
+    "word": "misfigured ",
+    "value": -2
+  },
+  {
+    "word": "misguided ",
+    "value": -2
+  },
+  {
+    "word": "mishandled ",
+    "value": -2
+  },
+  {
+    "word": "not precise ",
+    "value": -2
+  },
+  {
+    "word": "not right ",
+    "value": -2
+  },
+  {
+    "word": "off-target ",
+    "value": -2
+  },
+  {
+    "word": "on the wrong track ",
+    "value": -2
+  },
+  {
+    "word": "out ",
+    "value": -2
+  },
+  {
+    "word": "out of commission ",
+    "value": -2
+  },
+  {
+    "word": "out of line ",
+    "value": -2
+  },
+  {
+    "word": "sophistical ",
+    "value": -2
+  },
+  {
+    "word": "spurious ",
+    "value": -2
+  },
+  {
+    "word": "ungrounded ",
+    "value": -2
+  },
+  {
+    "word": "wide ",
+    "value": -2
+  },
+  {
+    "word": "amoral ",
+    "value": -2
+  },
+  {
+    "word": "blasphemous ",
+    "value": -2
+  },
+  {
+    "word": "profane ",
+    "value": -2
+  },
+  {
+    "word": "risqué ",
+    "value": -2
+  },
+  {
+    "word": "sacrilegious ",
+    "value": -2
+  },
+  {
+    "word": "salacious ",
+    "value": -2
+  },
+  {
+    "word": "smutty ",
+    "value": -2
+  },
+  {
+    "word": "awkward ",
+    "value": -2
+  },
+  {
+    "word": "disproportionate ",
+    "value": -2
+  },
+  {
+    "word": "gauche ",
+    "value": -2
+  },
+  {
+    "word": "inapt ",
+    "value": -2
+  },
+  {
+    "word": "indecorous ",
+    "value": -2
+  },
+  {
+    "word": "misplaced ",
+    "value": -2
+  },
+  {
+    "word": "not done ",
+    "value": -2
+  },
+  {
+    "word": "off-balance ",
+    "value": -2
+  },
+  {
+    "word": "unbecoming ",
+    "value": -2
+  },
+  {
+    "word": "unconventional ",
+    "value": -2
+  },
+  {
+    "word": "unfitted ",
+    "value": -2
+  },
+  {
+    "word": "unfitting ",
+    "value": -2
+  },
+  {
+    "word": "inaccurately ",
+    "value": -2
+  },
+  {
+    "word": "wrongly ",
+    "value": -2
+  },
+  {
+    "word": "hopelessly ",
+    "value": -2
+  },
+  {
+    "word": "fatally ",
+    "value": -2
+  },
+  {
+    "word": "impossibly ",
+    "value": -2
+  },
+  {
+    "word": "incurably ",
+    "value": -2
+  },
+  {
+    "word": "unavailingly ",
+    "value": -2
+  },
+  {
+    "word": "clumsily ",
+    "value": -2
+  },
+  {
+    "word": "deficiently ",
+    "value": -2
+  },
+  {
+    "word": "incompletely ",
+    "value": -2
+  },
+  {
+    "word": "ineffectively ",
+    "value": -2
+  },
+  {
+    "word": "ineffectually ",
+    "value": -2
+  },
+  {
+    "word": "inefficiently ",
+    "value": -2
+  },
+  {
+    "word": "ineptly ",
+    "value": -2
+  },
+  {
+    "word": "meagerly ",
+    "value": -2
+  },
+  {
+    "word": "partially ",
+    "value": -2
+  },
+  {
+    "word": "partly ",
+    "value": -2
+  },
+  {
+    "word": "perfunctorily ",
+    "value": -2
+  },
+  {
+    "word": "scantily ",
+    "value": -2
+  },
+  {
+    "word": "inedible ",
+    "value": -2
+  },
+  {
+    "word": "indigestible ",
+    "value": -2
+  },
+  {
+    "word": "not fit to eat ",
+    "value": -2
+  },
+  {
+    "word": "tasteless ",
+    "value": -2
+  },
+  {
+    "word": "uneatable ",
+    "value": -2
+  },
+  {
+    "word": "unpleasant-tasting ",
+    "value": -2
+  },
+  {
+    "word": "yucky ",
+    "value": -2
+  },
+  {
+    "word": "yukky ",
+    "value": -2
+  },
+  {
+    "word": "inefficaciously ",
+    "value": -2
+  },
+  {
+    "word": "weakly ",
+    "value": -2
+  },
+  {
+    "word": "unproductively ",
+    "value": -2
+  },
+  {
+    "word": "wastefully ",
+    "value": -2
+  },
+  {
+    "word": "inexcusably ",
+    "value": -2
+  },
+  {
+    "word": "unjustifiably ",
+    "value": -2
+  },
+  {
+    "word": "unpardonably ",
+    "value": -2
+  },
+  {
+    "word": "miserably ",
+    "value": -2
+  },
+  {
+    "word": "imperfectly ",
+    "value": -2
+  },
+  {
+    "word": "unsatisfactorily ",
+    "value": -2
+  },
+  {
+    "word": "wretchedly ",
+    "value": -2
+  },
+  {
+    "word": "falsely ",
+    "value": -2
+  },
+  {
+    "word": "inadvisedly ",
+    "value": -2
+  },
+  {
+    "word": "monstrously ",
+    "value": -2
+  },
+  {
+    "word": "brutally ",
+    "value": -2
+  },
+  {
+    "word": "cruelly ",
+    "value": -2
+  },
+  {
+    "word": "grotesquely ",
+    "value": -2
+  },
+  {
+    "word": "heinously ",
+    "value": -2
+  },
+  {
+    "word": "hideously ",
+    "value": -2
+  },
+  {
+    "word": "outrageously ",
+    "value": -2
+  },
+  {
+    "word": "negligently ",
+    "value": -2
+  },
+  {
+    "word": "indifferently ",
+    "value": -2
+  },
+  {
+    "word": "sloppily ",
+    "value": -2
+  },
+  {
+    "word": "foolishly ",
+    "value": -2
+  },
+  {
+    "word": "offensively ",
+    "value": -2
+  },
+  {
+    "word": "shamefully ",
+    "value": -2
+  },
+  {
+    "word": "dishonorably ",
+    "value": -2
+  },
+  {
+    "word": "scandalously ",
+    "value": -2
+  },
+  {
+    "word": "wickedly ",
+    "value": -2
+  },
+  {
+    "word": "distressfully ",
+    "value": -2
+  },
+  {
+    "word": "heartbrokenly ",
+    "value": -2
+  },
+  {
+    "word": "sadly ",
+    "value": -2
+  },
+  {
+    "word": "woefully ",
+    "value": -2
+  },
+  {
+    "word": "corrupted ",
+    "value": -2
+  },
+  {
+    "word": "harmed ",
+    "value": -2
+  },
+  {
+    "word": "disrespectful ",
+    "value": -2
+  },
+  {
+    "word": "not so good ",
+    "value": -2
+  },
+  {
+    "word": "prejudicially ",
+    "value": -2
+  },
+  {
+    "word": "reprehensibly ",
+    "value": -2
+  },
+  {
+    "word": "sinfully ",
+    "value": -2
+  },
+  {
+    "word": "unfairly ",
+    "value": -2
+  },
+  {
+    "word": "unlawfully ",
+    "value": -2
+  },
+  {
+    "word": "wrongfully ",
+    "value": -2
+  },
+  {
+    "word": "unattractive ",
+    "value": -2
+  },
+  {
+    "word": "appallingly ",
+    "value": -2
+  },
+  {
+    "word": "dismally ",
+    "value": -2
+  },
+  {
+    "word": "shockingly ",
+    "value": -2
+  },
+  {
+    "word": "tragically ",
+    "value": -2
+  },
+  {
+    "word": "heavy-hearted ",
+    "value": -2
+  },
+  {
+    "word": "at ",
+    "value": -2
+  },
+  {
+    "word": "dysphoric ",
+    "value": -2
+  },
+  {
+    "word": "fe ",
+    "value": -2
+  },
+  {
+    "word": "irremediable ",
+    "value": -2
+  },
+  {
+    "word": "cureless ",
+    "value": -2
+  },
+  {
+    "word": "adventurous ",
+    "value": -2
+  },
+  {
+    "word": "venturesome ",
+    "value": -2
+  },
+  {
+    "word": "venturous ",
+    "value": -2
+  },
+  {
+    "word": "tristful ",
+    "value": -2
+  },
+  {
+    "word": "wistful ",
+    "value": -2
+  },
+  {
+    "word": "mephitical ",
+    "value": -2
+  },
+  {
+    "word": "ripping ",
+    "value": -2
+  },
+  {
+    "word": "fantastical ",
+    "value": -2
+  },
+  {
+    "word": "unadvantageous ",
+    "value": -2
+  },
+  {
+    "word": "unmarred ",
+    "value": -2
+  },
+  {
+    "word": "entire ",
+    "value": -2
+  },
+  {
+    "word": "flawless ",
+    "value": -2
+  },
+  {
+    "word": "intact ",
+    "value": -2
+  },
+  {
+    "word": "unblemished ",
+    "value": -2
+  },
+  {
+    "word": "unbroken ",
+    "value": -2
+  },
+  {
+    "word": "undamaged ",
+    "value": -2
+  },
+  {
+    "word": "unharmed ",
+    "value": -2
+  },
+  {
+    "word": "unhurt ",
+    "value": -2
+  },
+  {
+    "word": "unimpaired ",
+    "value": -2
+  },
+  {
+    "word": "uninjured ",
+    "value": -2
+  },
+  {
+    "word": "whole ",
+    "value": -2
+  },
+  {
+    "word": "puny ",
+    "value": -2
+  }
+]

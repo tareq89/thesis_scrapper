@@ -1,0 +1,38 @@
+POS Tag 	Description 								Example
+_______		______________________________________		_____________________________________
+
+CC 			ordinating conjunction			 			and
+CD 			rdinal number 								1, third
+DT 			terminer 									the
+EX 			istential 									there 	there is
+FW 			reign word						 			d’hoevre
+IN 			eposition/subordinating conjunction 		in, of, like
+JJ 			ajective 									big
+JJR 		adjective, comparative 						bigger
+JJS 		adjective, superlative 						biggest
+LS 			list marker 								1)
+MD 			modal 										could, will
+NN 			noun, singular or mass 						door
+NNS 		oun plural 									doors
+NNP 		Proper noun, singular 						John
+NNPS 		Proper noun, plural 							Vikings
+PDT 		redeterminer 								both the boys
+POS 		ossessive ending 							friend‘s
+PRP 		ersonal pronoun 							I, he, it
+PRP$ 		ossessive pronoun 							my, his
+RB 			adverb 										however, usually, naturally, here, good
+RBR 		adverb, comparative 						better
+RBS 		adverb, superlative 						best
+RP 			article 									give up
+TO 			o 											to go, to him
+UH 			interjection 								uhhuhhuhh
+VB 			verb, base form 							take
+VBD 		verb, past tense 							took
+VBG 		verb, gerund/present participle 			taking
+VBN 		verb, past participle 						taken
+VBP 		verb, sing. present, non-3d 				take
+VBZ 		verb, 3rd person sing. present 				takes
+WDT 		wh-determiner 								which
+WP 			wh-pronoun 									who, what
+WP$ 		possessive wh-pronoun 						whose
+WRB 		wh-abverb 									where, when
